@@ -20,10 +20,10 @@ There are two separate packages. **Pick one** and enable only one at a time.
 
 | Character | Version | Steam Workshop | Release file | In-game addon name |
 | --- | --- | --- | --- | --- |
-| Neuro-sama | 0.5.2 | 【待填：工坊链接】 | `l4d2_neuropet_client.vpk` | Neuropet – Neuro-sama Screen Pet (Fan-made HUD Mascot) |
-| Evil Neuro | 0.5.3 | 【待填：工坊链接】 | `l4d2_neuropet_evil_client.vpk` | Neuropet – Evil Neuro Screen Pet (Fan-made HUD Mascot) |
+| Neuro-sama | 0.5.2 | 【待填：工坊链接】 | [l4d2_neuropet_client.vpk](https://github.com/Rbeyrolles/l4d2-neuropet/releases/download/client-2026-10-11/l4d2_neuropet_client.vpk) | Neuropet – Neuro-sama Screen Pet (Fan-made HUD Mascot) |
+| Evil Neuro | 0.5.3 | 【待填：工坊链接】 | [l4d2_neuropet_evil_client.vpk](https://github.com/Rbeyrolles/l4d2-neuropet/releases/download/client-2026-10-11/l4d2_neuropet_evil_client.vpk) | Neuropet – Evil Neuro Screen Pet (Fan-made HUD Mascot) |
 
-VPK files will be attached to GitHub Releases when the repository is published. They are not committed to the repository.
+The final VPKs and SHA-256 checksums are attached to [GitHub Release client-2026-10-11](https://github.com/Rbeyrolles/l4d2-neuropet/releases/tag/client-2026-10-11). The repository is currently private; authorized accounts can review and download them.
 
 ## What she does
 

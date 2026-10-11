@@ -29,5 +29,7 @@
       },
       "workshop_publish_description": "docs/workshop/workshop_evil-neuro_publish.txt"
     }
-  }
+  },
+  "release_tag": "client-2026-10-11",
+  "release_url": "https://github.com/Rbeyrolles/l4d2-neuropet/releases/tag/client-2026-10-11"
 }

@@ -77,5 +77,11 @@
   "remote_servers": "unverified",
   "workshop_upload": "not performed",
   "delivery_layout": "One clean GitHub source folder and two Workshop upload folders",
-  "metadata_change": "Only addoninfo.txt changed: exact project creator credit and bilingual intro"
+  "metadata_change": "Only addoninfo.txt changed: exact project creator credit and bilingual intro",
+  "github_release": {
+    "tag": "client-2026-10-11",
+    "url": "https://github.com/Rbeyrolles/l4d2-neuropet/releases/tag/client-2026-10-11",
+    "initial_visibility": "private",
+    "date": "2026-10-11"
+  }
 }

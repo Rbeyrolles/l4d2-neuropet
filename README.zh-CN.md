@@ -20,10 +20,10 @@ Left 4 Dead 2 的粉丝自制屏幕小宠物。打僵尸的间隙，屏幕周围
 
 | 角色 | 版本 | 创意工坊 | Release 文件 | 游戏内附加内容名称 |
 | --- | --- | --- | --- | --- |
-| Neuro-sama | 0.5.2 | 【待填：工坊链接】 | `l4d2_neuropet_client.vpk` | Neuropet – Neuro-sama Screen Pet (Fan-made HUD Mascot) |
-| Evil Neuro | 0.5.3 | 【待填：工坊链接】 | `l4d2_neuropet_evil_client.vpk` | Neuropet – Evil Neuro Screen Pet (Fan-made HUD Mascot) |
+| Neuro-sama | 0.5.2 | 【待填：工坊链接】 | [l4d2_neuropet_client.vpk](https://github.com/Rbeyrolles/l4d2-neuropet/releases/download/client-2026-10-11/l4d2_neuropet_client.vpk) | Neuropet – Neuro-sama Screen Pet (Fan-made HUD Mascot) |
+| Evil Neuro | 0.5.3 | 【待填：工坊链接】 | [l4d2_neuropet_evil_client.vpk](https://github.com/Rbeyrolles/l4d2-neuropet/releases/download/client-2026-10-11/l4d2_neuropet_evil_client.vpk) | Neuropet – Evil Neuro Screen Pet (Fan-made HUD Mascot) |
 
-VPK 文件会在仓库公开后附到 GitHub Releases，不放进仓库本身。
+最终 VPK 和 SHA-256 校验文件已附在 [GitHub Release client-2026-10-11](https://github.com/Rbeyrolles/l4d2-neuropet/releases/tag/client-2026-10-11)。仓库当前为 Private，授权账号可以审阅与下载。
 
 ## 她会做什么
 
