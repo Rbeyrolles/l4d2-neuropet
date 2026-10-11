@@ -1,0 +1,27 @@
+{
+  "vpk": "l4d2_neuropet_client.vpk",
+  "sha256": "6fb101a0d5fbcee878adac715c24cdeff0bc5d93f18dbe9c1e827f8f77094fa3",
+  "files_crc_verified": 10,
+  "licenses": "passed",
+  "source_fingerprints": "passed",
+  "atlas_frames": 202,
+  "transparent_borders": "passed",
+  "proxy_count": 255,
+  "vmt_variables": 154,
+  "diagnostics_off": true,
+  "title": "Neuropet \u2013 Neuro-sama Screen Pet (Fan-made HUD Mascot)",
+  "author": "Daisy, Shannon & Sol",
+  "bilingual_addon_description": "passed",
+  "addon_image": "passed",
+  "workshop_preview": "passed",
+  "cover_source": "passed",
+  "baseline_comparison": {
+    "sha256": "43aafdf24315e9d4821fd2919820f39d7569cc70e4e1a54f1ac4b55e8efb27a6",
+    "baseline_entries_unchanged": 9,
+    "changed_metadata_files": [
+      "addoninfo.txt"
+    ],
+    "extra_files": [],
+    "runtime_material_atlas_and_hud_unchanged": true
+  }
+}

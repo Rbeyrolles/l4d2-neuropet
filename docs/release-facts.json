@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-09",
+  "stage": "pending publication",
+  "editions": {
+    "Neuron": {
+      "version": "0.5.2",
+      "title": "Neuropet – Neuro-sama Screen Pet (Fan-made HUD Mascot)",
+      "vpk": "l4d2_neuropet_client.vpk",
+      "sha256": "6fb101a0d5fbcee878adac715c24cdeff0bc5d93f18dbe9c1e827f8f77094fa3",
+      "bytes": 53094964,
+      "files": 10,
+      "branding": {
+        "cover_source": "assets/promotion/neuro-sama/cover.png",
+        "cover_source_sha256": "5b11f66f597f79cd038b96f9bcbcd38e3fc64823d7387450e251d2a9e4816bdd",
+        "cover_source_size": [
+          1254,
+          1254
+        ],
+        "addon_image": "addonimage.jpg",
+        "addon_image_size": [
+          256,
+          256
+        ],
+        "addon_image_sha256": "ee3d47b6045069a04915ca17532fb881c21b99f832457ccf64bf297465b48bc8",
+        "workshop_preview_size": [
+          1024,
+          1024
+        ],
+        "workshop_preview_bytes": 296448,
+        "workshop_preview_sha256": "3f06d373dd73387cb2348c1f680a73f04c6d8ba4962f9b95f6b400cf795c3168",
+        "cover_processing": "size/format export only; accepted PNG preserved"
+      },
+      "maintainer": "Daisy, Shannon & Sol",
+      "addon_description": "Between zombie fights, tiny Neuro-sama walks, trots, crawls and climbs around your screen, hangs from the top, and sometimes rests, falls, trips or hugs.\n打僵尸的间隙，小小的 Neuro-sama 在屏幕边缘走走、爬爬、挂着休息，偶尔松手跌落、绊一跤，或者停下来抱抱。",
+      "workshop_publish_description_bytes": 4469
+    },
+    "Evil Neuro (Eviling)": {
+      "version": "0.5.3",
+      "title": "Neuropet – Evil Neuro Screen Pet (Fan-made HUD Mascot)",
+      "vpk": "l4d2_neuropet_evil_client.vpk",
+      "sha256": "76eb6a91607ccc240a7d90abe33c0498780026cad852409576e68ab5fef2b55a",
+      "bytes": 53093222,
+      "files": 10,
+      "branding": {
+        "cover_source": "assets/promotion/evil-neuro/cover.png",
+        "cover_source_sha256": "22d8e3e68b2de0a818bf5f388b61dfaf9d7f38ca74ac03e2fc99aa0785cfaee1",
+        "cover_source_size": [
+          1254,
+          1254
+        ],
+        "addon_image": "addonimage.jpg",
+        "addon_image_size": [
+          256,
+          256
+        ],
+        "addon_image_sha256": "e5538eca5c9d13618ce8db20e90ee56c1b347866b261450631f0eaa2f8dc71fb",
+        "workshop_preview_size": [
+          1024,
+          1024
+        ],
+        "workshop_preview_bytes": 296501,
+        "workshop_preview_sha256": "b00276296e38e8959b49d6a2368a0d9cf614e42fc2ec4474d423d063d69d6a35",
+        "cover_processing": "size/format export only; accepted PNG preserved"
+      },
+      "maintainer": "Daisy, Shannon & Sol",
+      "addon_description": "Between zombie fights, tiny Evil Neuro walks, trots, crawls and climbs around your screen, hangs from the top, and sometimes rests, falls, trips or hugs.\n打僵尸的间隙，小小的 Evil Neuro 在屏幕边缘走走、爬爬、挂着休息，偶尔松手跌落、绊一跤，或者停下来抱抱。",
+      "workshop_publish_description_bytes": 4469
+    }
+  },
+  "maintainer": "Daisy, Shannon & Sol",
+  "repository_url": "https://github.com/Rbeyrolles/l4d2-neuropet",
+  "code_license": "MIT",
+  "artwork_license": "CC-BY-NC-SA-4.0",
+  "runtime_material_atlas_and_hud_byte_identical": true,
+  "public_vpk_native_launch": "Not repeated for metadata-only changes; UI layout not separately playtested",
+  "material_bindings_per_edition_before_branding": 18000,
+  "remote_servers": "unverified",
+  "workshop_upload": "not performed",
+  "delivery_layout": "One clean GitHub source folder and two Workshop upload folders",
+  "metadata_change": "Only addoninfo.txt changed: exact project creator credit and bilingual intro"
+}

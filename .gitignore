@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+/dist/
+/build/
+/client-only/
+/client-only-evil/
+/experiments/
+/publication/
+*.vpk
+*.vtf
+*.log
+.DS_Store
+Thumbs.db

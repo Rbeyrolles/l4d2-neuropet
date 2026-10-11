@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-07",
+  "version": "0.5.3",
+  "character": "Evil Neuro (Eviling)",
+  "vpk": "l4d2_neuropet_evil_client.vpk",
+  "sha256": "d54e3277f62fb2765131cd0fa736eb4550100bb4c2c6e0d0b4806744b8002cd1",
+  "installed_sha256": "d54e3277f62fb2765131cd0fa736eb4550100bb4c2c6e0d0b4806744b8002cd1",
+  "native_engine": {
+    "map": "c1m1_hotel",
+    "mode": "ordinary coop",
+    "width": 1280,
+    "height": 720,
+    "test_duration_seconds": 150,
+    "engine_exit_code": 0,
+    "driver_exit_code": 0,
+    "screenshots": false,
+    "cheats_off_during_observation": true,
+    "server_neuropet_brain_present": false,
+    "pet_material_errors": []
+  },
+  "manual_observation": {
+    "confirmed": true,
+    "user_reply": "明显减轻或已经看不到了"
+  },
+  "regression": {
+    "alpha_unchanged": true,
+    "visible_rgba_unchanged": true,
+    "hud_and_behavior_unchanged": true,
+    "material_bindings": 18000
+  },
+  "original_neuron_sha256": "d40f602d54688176eedaa3283b222ab4b09e10b7da6aeb035a7e8948011d9329"
+}

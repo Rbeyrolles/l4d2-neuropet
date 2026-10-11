@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-07",
+  "scope": "local archive overlap audit; not a universal UI compatibility test",
+  "b4b": {
+    "workshop_id": "3041458606",
+    "audit_copy": "byte-for-byte local copy made from the installed Workshop VPK before the priority experiment",
+    "vpk_bytes": 27998671,
+    "vpk_sha256": "f6a903e9e806117e071a4962227bdee847945ab8161f83fc25bbf1fac3403766",
+    "hudlayout_bytes": 20846,
+    "hudlayout_sha256": "046e5586a6b967121c3c15cb8d1f7e19ffdee244a70322d66a265d8df94afd1b",
+    "contains_neuropet_panel": false
+  },
+  "neuropet": {
+    "character": "neuron",
+    "vpk_sha256": "43aafdf24315e9d4821fd2919820f39d7569cc70e4e1a54f1ac4b55e8efb27a6",
+    "contains_neuropet_panel": true
+  },
+  "shared_runtime_paths": [
+    "scripts/hudlayout.res"
+  ],
+  "publication_decision": "Document third-party HUD compatibility as not guaranteed; recommend the stock HUD; ship troubleshooting steps. No auto-merging helper or third-party merged HUD is included.",
+  "runtime_vpk_changes": false
+}

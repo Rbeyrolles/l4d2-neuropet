@@ -1,0 +1,8 @@
+{
+  "candidate_sha256": "5c6de36a5deffb431c40f004301e5b8dec16a2f2d8c278b73216b3177bd6d510",
+  "validated_package_sha256": "7d35cadfe874585ffd919bf10a22721eae1ebfcc56ae02cdf9ac51a846daeec4",
+  "validated_bindings": 18000,
+  "fresh_simulation_performed": false,
+  "material_atlas_and_hud_byte_identical": true,
+  "reason": "Only addon metadata, menu icon and cover notices changed; check_release verifies byte identity"
+}

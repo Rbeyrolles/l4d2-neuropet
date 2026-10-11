@@ -1,0 +1,431 @@
+{
+  "vpk": "l4d2_neuropet_evil_client.vpk",
+  "sha256": "7d35cadfe874585ffd919bf10a22721eae1ebfcc56ae02cdf9ac51a846daeec4",
+  "character": "evil",
+  "proxy_evaluator": "Valve scalar semantics with float32 results",
+  "bindings": 18000,
+  "episodes": 10,
+  "distinct_picks": [
+    1.0,
+    2.0,
+    3.0,
+    4.0,
+    5.0,
+    6.0,
+    7.0
+  ],
+  "held_choice": "passed",
+  "single_stage": "passed",
+  "atlas_frames": "passed",
+  "boundary_continuity": "passed",
+  "clock_reset": "passed",
+  "intra_stage_jitter": "passed",
+  "rest_clips": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "rest_x_range": [
+    47.65326690673828,
+    763.3258666992188
+  ],
+  "wall_and_ceiling_drops": "passed",
+  "drop_x_range": [
+    -9.999999046325684,
+    815.3317565917969
+  ],
+  "sampled_drop_types": [
+    "ceiling",
+    "wall"
+  ],
+  "forced_drop_types": [
+    "wall",
+    "ceiling"
+  ],
+  "ground_styles": [
+    "creep",
+    "run",
+    "walk"
+  ],
+  "gestures": [
+    "hug",
+    "trip"
+  ],
+  "ground_actions": {
+    "relative_speeds": "passed",
+    "travel_units_per_second": {
+      "walk": 9.240005493164062,
+      "run": 18.479999542236328,
+      "creep": 4.620002746582031
+    },
+    "one_shot_and_resume": "passed",
+    "cases": [
+      {
+        "pick": 0,
+        "style": 0,
+        "gesture": "trip_left",
+        "bursts": 1,
+        "frames_observed": 28,
+        "on_ground_seconds": 1.5,
+        "recovery_images": [
+          "trip1.png",
+          "trip2.png",
+          "trip3.png",
+          "shime11.png",
+          "shime1.png"
+        ]
+      },
+      {
+        "pick": 1,
+        "style": 3,
+        "gesture": "trip_right",
+        "bursts": 1,
+        "frames_observed": 28,
+        "on_ground_seconds": 1.5,
+        "recovery_images": [
+          "trip1.png",
+          "trip2.png",
+          "trip3.png",
+          "shime11.png",
+          "shime1.png"
+        ]
+      },
+      {
+        "pick": 0,
+        "style": 4,
+        "gesture": null,
+        "bursts": 0,
+        "frames_observed": 0,
+        "on_ground_seconds": 0.0,
+        "recovery_images": []
+      },
+      {
+        "pick": 1,
+        "style": 0,
+        "gesture": "hug",
+        "bursts": 1,
+        "frames_observed": 28,
+        "on_ground_seconds": 0.0,
+        "recovery_images": []
+      },
+      {
+        "pick": 8,
+        "style": 4,
+        "gesture": "hug",
+        "bursts": 1,
+        "frames_observed": 28,
+        "on_ground_seconds": 0.0,
+        "recovery_images": []
+      },
+      {
+        "pick": 8,
+        "style": 0,
+        "gesture": null,
+        "bursts": 0,
+        "frames_observed": 0,
+        "on_ground_seconds": 0.0,
+        "recovery_images": []
+      }
+    ]
+  },
+  "creep_motion": {
+    "speed_bound": "passed",
+    "both_legs": "passed",
+    "facing": "passed",
+    "maximum_observed_speed": 9.20379638671875,
+    "base_limit": 8.0,
+    "samples": [
+      {
+        "route": 0,
+        "pace": 0.85,
+        "leg": "outbound",
+        "duration": 43.96333694458008,
+        "speed": 6.800537109375
+      },
+      {
+        "route": 0,
+        "pace": 0.85,
+        "leg": "return",
+        "duration": 52.703330993652344,
+        "speed": 6.800537109375
+      },
+      {
+        "route": 0,
+        "pace": 1.15,
+        "leg": "outbound",
+        "duration": 43.96333694458008,
+        "speed": 9.199676513671875
+      },
+      {
+        "route": 0,
+        "pace": 1.15,
+        "leg": "return",
+        "duration": 52.703330993652344,
+        "speed": 9.199676513671875
+      },
+      {
+        "route": 1,
+        "pace": 0.85,
+        "leg": "outbound",
+        "duration": 43.96333312988281,
+        "speed": 6.800193786621094
+      },
+      {
+        "route": 1,
+        "pace": 0.85,
+        "leg": "return",
+        "duration": 52.703330993652344,
+        "speed": 6.799163818359375
+      },
+      {
+        "route": 1,
+        "pace": 1.15,
+        "leg": "outbound",
+        "duration": 43.96333312988281,
+        "speed": 9.199676513671875
+      },
+      {
+        "route": 1,
+        "pace": 1.15,
+        "leg": "return",
+        "duration": 52.703330993652344,
+        "speed": 9.199676513671875
+      },
+      {
+        "route": 2,
+        "pace": 0.85,
+        "leg": "outbound",
+        "duration": 99.91667175292969,
+        "speed": 6.800537109375
+      },
+      {
+        "route": 2,
+        "pace": 0.85,
+        "leg": "return",
+        "duration": 93.7266616821289,
+        "speed": 6.800537109375
+      },
+      {
+        "route": 2,
+        "pace": 1.15,
+        "leg": "outbound",
+        "duration": 99.91667175292969,
+        "speed": 9.2010498046875
+      },
+      {
+        "route": 2,
+        "pace": 1.15,
+        "leg": "return",
+        "duration": 93.7266616821289,
+        "speed": 9.202423095703125
+      },
+      {
+        "route": 3,
+        "pace": 0.85,
+        "leg": "outbound",
+        "duration": 99.91665649414062,
+        "speed": 6.799163818359375
+      },
+      {
+        "route": 3,
+        "pace": 0.85,
+        "leg": "return",
+        "duration": 93.7266616821289,
+        "speed": 6.800537109375
+      },
+      {
+        "route": 3,
+        "pace": 1.15,
+        "leg": "outbound",
+        "duration": 99.91665649414062,
+        "speed": 9.199676513671875
+      },
+      {
+        "route": 3,
+        "pace": 1.15,
+        "leg": "return",
+        "duration": 93.7266616821289,
+        "speed": 9.203109741210938
+      },
+      {
+        "route": 4,
+        "pace": 0.85,
+        "leg": "outbound",
+        "duration": 99.91667175292969,
+        "speed": 6.800537109375
+      },
+      {
+        "route": 4,
+        "pace": 1.15,
+        "leg": "outbound",
+        "duration": 99.91667175292969,
+        "speed": 9.2010498046875
+      },
+      {
+        "route": 5,
+        "pace": 0.85,
+        "leg": "outbound",
+        "duration": 99.91665649414062,
+        "speed": 6.799163818359375
+      },
+      {
+        "route": 5,
+        "pace": 1.15,
+        "leg": "outbound",
+        "duration": 99.91665649414062,
+        "speed": 9.199676513671875
+      },
+      {
+        "route": 6,
+        "pace": 0.85,
+        "leg": "outbound",
+        "duration": 99.91667175292969,
+        "speed": 6.800537109375
+      },
+      {
+        "route": 6,
+        "pace": 0.85,
+        "leg": "return",
+        "duration": 99.91665649414062,
+        "speed": 6.796417236328125
+      },
+      {
+        "route": 6,
+        "pace": 1.15,
+        "leg": "outbound",
+        "duration": 99.91667175292969,
+        "speed": 9.2010498046875
+      },
+      {
+        "route": 6,
+        "pace": 1.15,
+        "leg": "return",
+        "duration": 99.91665649414062,
+        "speed": 9.199676513671875
+      },
+      {
+        "route": 7,
+        "pace": 0.85,
+        "leg": "outbound",
+        "duration": 99.91665649414062,
+        "speed": 6.799163818359375
+      },
+      {
+        "route": 7,
+        "pace": 0.85,
+        "leg": "return",
+        "duration": 99.91667175292969,
+        "speed": 6.79779052734375
+      },
+      {
+        "route": 7,
+        "pace": 1.15,
+        "leg": "outbound",
+        "duration": 99.91665649414062,
+        "speed": 9.199676513671875
+      },
+      {
+        "route": 7,
+        "pace": 1.15,
+        "leg": "return",
+        "duration": 99.91667175292969,
+        "speed": 9.20379638671875
+      }
+    ]
+  },
+  "episode_sample": [
+    {
+      "start": 0.0,
+      "pick": 5.0,
+      "pace": 1.0234191417694092,
+      "pause": 9.845209121704102,
+      "range": 0.9693340063095093,
+      "home_x": 402.66666412353516,
+      "goal_x": 686.5200805664062
+    },
+    {
+      "start": 47.36666488647461,
+      "pick": 5.0,
+      "pace": 0.9101464748382568,
+      "pause": 8.686702728271484,
+      "range": 0.7682644724845886,
+      "home_x": 686.5200805664062,
+      "goal_x": 181.75831604003906
+    },
+    {
+      "start": 92.76667022705078,
+      "pick": 5.0,
+      "pace": 0.9164236783981323,
+      "pause": 15.850709915161133,
+      "range": 0.7330543994903564,
+      "home_x": 181.75831604003906,
+      "goal_x": 526.5426635742188
+    },
+    {
+      "start": 150.53334045410156,
+      "pick": 4.0,
+      "pace": 0.8608054518699646,
+      "pause": 16.324487686157227,
+      "range": 0.8843063712120056,
+      "home_x": 526.5426635742188,
+      "goal_x": 437.0204772949219
+    },
+    {
+      "start": 273.70001220703125,
+      "pick": 3.0,
+      "pace": 1.106047511100769,
+      "pause": 13.91845417022705,
+      "range": 0.6217756867408752,
+      "home_x": 437.0204772949219,
+      "goal_x": 182.46522903442383
+    },
+    {
+      "start": 322.29998779296875,
+      "pick": 2.0,
+      "pace": 1.0232292413711548,
+      "pause": 17.874618530273438,
+      "range": 0.8217960000038147,
+      "home_x": 182.46522903442383,
+      "goal_x": 350.61193084716797
+    },
+    {
+      "start": 369.8333435058594,
+      "pick": 1.0,
+      "pace": 1.1369602680206299,
+      "pause": 6.091887950897217,
+      "range": 0.7620533108711243,
+      "home_x": 350.61193084716797,
+      "goal_x": 763.3258666992188
+    },
+    {
+      "start": 423.9666748046875,
+      "pick": 7.0,
+      "pace": 1.0668476819992065,
+      "pause": 12.935941696166992,
+      "range": 1.196085810661316,
+      "home_x": 763.3258666992188,
+      "goal_x": 47.65326690673828
+    },
+    {
+      "start": 494.5666809082031,
+      "pick": 6.0,
+      "pace": 0.9133898615837097,
+      "pause": 3.363009214401245,
+      "range": 0.9439638257026672,
+      "home_x": 47.65326690673828,
+      "goal_x": 372.62564849853516
+    },
+    {
+      "start": 561.433349609375,
+      "pick": 2.0,
+      "pace": 0.8908877968788147,
+      "pause": 6.112690448760986,
+      "range": 1.0784152746200562,
+      "home_x": 372.62564849853516,
+      "goal_x": 342.0399856567383
+    }
+  ]
+}

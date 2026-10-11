@@ -1,0 +1,105 @@
+{
+  "model": "Straight-alpha RGB and alpha bilinear sampling, then source-alpha blend",
+  "scale": 0.5625,
+  "note": "Numerical diagnostic; native appearance still needs observation",
+  "reference": "Alpha-weighted colour sampling with the same coverage",
+  "cases": [
+    {
+      "pose": "idle_left",
+      "phase_texels": 0,
+      "edge_samples": 193,
+      "mean_rgb_error_before": 0.02099592596789332,
+      "mean_rgb_error_after": 0.0016828160155773046,
+      "reduction_percent": 91.98503548664326
+    },
+    {
+      "pose": "idle_left",
+      "phase_texels": 0.35,
+      "edge_samples": 199,
+      "mean_rgb_error_before": 0.021281295108342542,
+      "mean_rgb_error_after": 0.0019810975985411696,
+      "reduction_percent": 90.69089738920752
+    },
+    {
+      "pose": "idle_left",
+      "phase_texels": 0.7,
+      "edge_samples": 210,
+      "mean_rgb_error_before": 0.019197905284353466,
+      "mean_rgb_error_after": 0.001958301025149128,
+      "reduction_percent": 89.79940261115274
+    },
+    {
+      "pose": "walk_left",
+      "phase_texels": 0,
+      "edge_samples": 186,
+      "mean_rgb_error_before": 0.02870319617326107,
+      "mean_rgb_error_after": 0.0018937041239545423,
+      "reduction_percent": 93.40246252534534
+    },
+    {
+      "pose": "walk_left",
+      "phase_texels": 0.35,
+      "edge_samples": 200,
+      "mean_rgb_error_before": 0.027733609814106188,
+      "mean_rgb_error_after": 0.0022068150457824442,
+      "reduction_percent": 92.04281353716894
+    },
+    {
+      "pose": "walk_left",
+      "phase_texels": 0.7,
+      "edge_samples": 213,
+      "mean_rgb_error_before": 0.026225526367076687,
+      "mean_rgb_error_after": 0.0023662148044243303,
+      "reduction_percent": 90.97743636751231
+    },
+    {
+      "pose": "creep_left",
+      "phase_texels": 0,
+      "edge_samples": 97,
+      "mean_rgb_error_before": 0.024885128310563415,
+      "mean_rgb_error_after": 0.00267515943357978,
+      "reduction_percent": 89.24996728892008
+    },
+    {
+      "pose": "creep_left",
+      "phase_texels": 0.35,
+      "edge_samples": 100,
+      "mean_rgb_error_before": 0.01977659543459304,
+      "mean_rgb_error_after": 0.001908356037863345,
+      "reduction_percent": 90.35043193266084
+    },
+    {
+      "pose": "creep_left",
+      "phase_texels": 0.7,
+      "edge_samples": 144,
+      "mean_rgb_error_before": 0.052859962493452844,
+      "mean_rgb_error_after": 0.0061604046847995204,
+      "reduction_percent": 88.34580201307836
+    },
+    {
+      "pose": "hug",
+      "phase_texels": 0,
+      "edge_samples": 310,
+      "mean_rgb_error_before": 0.016729893057733456,
+      "mean_rgb_error_after": 0.0023609691757060874,
+      "reduction_percent": 85.8877210538132
+    },
+    {
+      "pose": "hug",
+      "phase_texels": 0.35,
+      "edge_samples": 305,
+      "mean_rgb_error_before": 0.02034272708760319,
+      "mean_rgb_error_after": 0.0030766997023231072,
+      "reduction_percent": 84.87567724290987
+    },
+    {
+      "pose": "hug",
+      "phase_texels": 0.7,
+      "edge_samples": 309,
+      "mean_rgb_error_before": 0.02509037469435639,
+      "mean_rgb_error_after": 0.002823138601080859,
+      "reduction_percent": 88.74812100069644
+    }
+  ],
+  "minimum_error_reduction_percent": 84.87567724290987
+}

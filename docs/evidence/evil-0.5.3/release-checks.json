@@ -1,0 +1,27 @@
+{
+  "vpk": "l4d2_neuropet_evil_client.vpk",
+  "sha256": "76eb6a91607ccc240a7d90abe33c0498780026cad852409576e68ab5fef2b55a",
+  "files_crc_verified": 10,
+  "licenses": "passed",
+  "source_fingerprints": "passed",
+  "atlas_frames": 202,
+  "transparent_borders": "passed",
+  "proxy_count": 255,
+  "vmt_variables": 154,
+  "diagnostics_off": true,
+  "title": "Neuropet \u2013 Evil Neuro Screen Pet (Fan-made HUD Mascot)",
+  "author": "Daisy, Shannon & Sol",
+  "bilingual_addon_description": "passed",
+  "addon_image": "passed",
+  "workshop_preview": "passed",
+  "cover_source": "passed",
+  "baseline_comparison": {
+    "sha256": "5c6de36a5deffb431c40f004301e5b8dec16a2f2d8c278b73216b3177bd6d510",
+    "baseline_entries_unchanged": 9,
+    "changed_metadata_files": [
+      "addoninfo.txt"
+    ],
+    "extra_files": [],
+    "runtime_material_atlas_and_hud_unchanged": true
+  }
+}

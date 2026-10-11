@@ -1,0 +1,57 @@
+[i]中文说明在下方 ↓[/i]
+[h1]Neuropet – Evil Neuro Screen Pet (Fan-made HUD Mascot)[/h1]
+Between zombie fights, a tiny Evil Neuro hangs out around your screen edges. She walks, trots or slowly crawls along the bottom, climbs the sides, moves along the top and hangs there for a while. Sometimes she lets go and falls, trips and gets back up, or stops for a hug.
+
+[h2]Features[/h2]
+[list]
+[*]Random routes, speeds, stopping points and eight rest poses.
+[*]Walking, trotting, slow crawling, wall climbing, ceiling movement and hanging, falls, trips and hugs.
+[*]Neuro-sama makes a guest appearance in the hug; she is part of that animation, not a second pet.
+[/list]
+
+[h2]Before subscribing[/h2]
+[list]
+[*]Enable only one pet edition. Restart after switching; avoid duplicate manual and Workshop copies.
+[*]Third-party HUD compatibility is not guaranteed. Addons replacing scripts/hudlayout.res may hide the pet or override the HUD. The stock HUD is recommended; disable other HUD mods and restart if the pet is missing.
+[*]Built for 16:9. The pet can overlap HUD elements; no HUD avoidance is included.
+[*]Client-only cosmetic addon. No server installation or external program is needed, but servers may restrict client addons.
+[*]No AI, chat, voice, mouse interaction or precise game-event reactions. Trips and hugs are random and can take a while to appear.
+[/list]
+
+[h1]Neuropet – Evil Neuro 屏幕小宠物[/h1]
+打僵尸的间隙，屏幕周围会有个小小的 Evil Neuro。她沿底边走路、小跑或慢慢趴着爬，爬上屏幕两侧，沿顶部移动、挂着休息，偶尔手一松掉下来。有时会绊一跤再爬起来，或者停下来抱抱。
+
+[h2]她会做什么[/h2]
+[list]
+[*]路线、速度、停留位置和八种休息姿势随机变化。
+[*]走路、小跑、慢爬、攀墙、沿顶部移动和悬挂、跌落、绊倒与抱抱。
+[*]抱抱中会有 Neuro-sama 友情客串；她只是动画的一部分，不是第二只宠物。
+[/list]
+
+[h2]订阅前请看[/h2]
+[list]
+[*]每次只启用一版宠物，切换后重启；工坊订阅与手动安装不要重复。
+[*]不保证与第三方 HUD Mod 兼容；修改同一份 scripts/hudlayout.res 时，可能使宠物不显示或覆盖界面布局。建议使用原版 HUD；遇到问题先停用其他 HUD Mod 并重启。
+[*]默认按 16:9 制作；宠物可能遮挡 HUD，没有自动避让。
+[*]客户端观赏版，无需服务器安装或外部程序；部分服务器可能限制客户端插件。
+[*]没有 AI、聊天、语音、鼠标互动或精确的游戏事件联动。绊倒与抱抱随机出现，可能需要等一会儿。
+[/list]
+
+[h2]Credits / 署名与许可[/h2]
+Project / 项目制作: Daisy, Shannon & Sol
+Character artwork / 角色原画: Paccha — https://linktr.ee/paccha_
+Original animation & behavior configs / 原动作与行为配置: @promote. (https://z.ne1.co, https://neuro.us.to), @dalekcraft
+Original pack / 原包打包与元数据: qingchenyouforcc
+Asset source / 素材来源: https://github.com/CommentOut64/web-mascot
+Upstream / 素材上游: https://github.com/qingchenyouforcc/NeurolingsCE-Qt
+
+Code / 自写代码: MIT. Character artwork, configs and adaptations / 角色素材、配置与改编: CC BY-NC-SA 4.0 — https://creativecommons.org/licenses/by-nc-sa/4.0/
+Non-commercial only; keep attribution and license, indicate changes, and share adaptations under the same license. 仅限非商业用途；保留署名与许可，标明修改，并以相同许可共享改编。
+
+Adaptations: padded game textures, directional mirroring, animation retiming and hug alignment, extended trip recovery, slower crawling; Evil adds transparent-RGB edge correction. The original source PNGs are retained unchanged. Cover art is an AI-assisted composition based on the original hug artwork.
+本项目将原画转换为游戏纹理、按方向镜像、调整动作节奏与抱抱锚点、延长绊倒恢复并降低慢爬速度；Evil 版另修正透明像素的 RGB 白边。源码保留未改写的原 PNG。封面为基于原抱抱素材的 AI 辅助设计。
+
+Unofficial fan project; not affiliated with or endorsed by Vedal. No ownership of the characters is claimed.
+非官方粉丝作品，与 Vedal 无关联、未获其认可，不主张角色所有权。
+Official character site / 角色官方站点: https://vedal.ai/
+Stream / 直播: https://www.twitch.tv/vedal987

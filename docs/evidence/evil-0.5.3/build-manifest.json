@@ -1,0 +1,729 @@
+{
+  "vpk": "l4d2_neuropet_evil_client.vpk",
+  "sha256": "76eb6a91607ccc240a7d90abe33c0498780026cad852409576e68ab5fef2b55a",
+  "files": 10,
+  "bytes": 53093222,
+  "speed": 1,
+  "aspect": 1.7777777777777777,
+  "pose_size": 48,
+  "version": "0.5.3",
+  "character": "evil",
+  "character_name": "Evil Neuro (Eviling)",
+  "source_pack": "Eviling",
+  "title": "Neuropet – Evil Neuro Screen Pet (Fan-made HUD Mascot)",
+  "maintainer": "Daisy, Shannon & Sol",
+  "branding": {
+    "cover_source": "assets/promotion/evil-neuro/cover.png",
+    "cover_source_sha256": "22d8e3e68b2de0a818bf5f388b61dfaf9d7f38ca74ac03e2fc99aa0785cfaee1",
+    "cover_source_size": [
+      1254,
+      1254
+    ],
+    "addon_image": "addonimage.jpg",
+    "addon_image_size": [
+      256,
+      256
+    ],
+    "addon_image_sha256": "e5538eca5c9d13618ce8db20e90ee56c1b347866b261450631f0eaa2f8dc71fb",
+    "workshop_preview_size": [
+      1024,
+      1024
+    ],
+    "workshop_preview_bytes": 296501,
+    "workshop_preview_sha256": "b00276296e38e8959b49d6a2368a0d9cf614e42fc2ec4474d423d063d69d6a35",
+    "cover_processing": "size/format export only; accepted PNG preserved"
+  },
+  "material": "materials/vgui/neuropet_evil_client/behavior.vmt",
+  "hud_template": {
+    "source": "update/pak01_dir.vpk:scripts/hudlayout.res",
+    "sha256": "e1867626349c37ee76a487d365bc9846794f013d02727c52f51983001863a138"
+  },
+  "behavior": "random excursions",
+  "diagnostic": null,
+  "loop_seconds": null,
+  "renderer": "client material proxies",
+  "poses": {
+    "idle_left": {
+      "frames": 2,
+      "fps": 8,
+      "mirror": false,
+      "frame_base": 0,
+      "images": [
+        "shime1.png",
+        "shime1w.png"
+      ]
+    },
+    "idle_right": {
+      "frames": 2,
+      "fps": 8,
+      "mirror": true,
+      "frame_base": 2,
+      "images": [
+        "shime1.png",
+        "shime1w.png"
+      ]
+    },
+    "walk_left": {
+      "frames": 4,
+      "fps": 8,
+      "mirror": false,
+      "frame_base": 4,
+      "images": [
+        "shime1a.png",
+        "shime2.png",
+        "shime1b.png",
+        "shime3.png"
+      ]
+    },
+    "walk_right": {
+      "frames": 4,
+      "fps": 8,
+      "mirror": true,
+      "frame_base": 8,
+      "images": [
+        "shime1a.png",
+        "shime2.png",
+        "shime1b.png",
+        "shime3.png"
+      ]
+    },
+    "climb_left": {
+      "frames": 4,
+      "fps": 5,
+      "mirror": false,
+      "frame_base": 12,
+      "images": [
+        "shime14.png",
+        "shime12.png",
+        "shime13.png",
+        "shime12.png"
+      ]
+    },
+    "climb_right": {
+      "frames": 4,
+      "fps": 5,
+      "mirror": true,
+      "frame_base": 16,
+      "images": [
+        "shime14.png",
+        "shime12.png",
+        "shime13.png",
+        "shime12.png"
+      ]
+    },
+    "ceiling_left": {
+      "frames": 4,
+      "fps": 5,
+      "mirror": false,
+      "frame_base": 20,
+      "images": [
+        "shime23.png",
+        "shime24.png",
+        "shime23.png",
+        "shime25.png"
+      ]
+    },
+    "ceiling_right": {
+      "frames": 4,
+      "fps": 5,
+      "mirror": true,
+      "frame_base": 24,
+      "images": [
+        "shime23.png",
+        "shime24.png",
+        "shime23.png",
+        "shime25.png"
+      ]
+    },
+    "fall_left": {
+      "frames": 1,
+      "fps": 1,
+      "mirror": false,
+      "frame_base": 28,
+      "images": [
+        "shime4.png"
+      ]
+    },
+    "fall_right": {
+      "frames": 1,
+      "fps": 1,
+      "mirror": true,
+      "frame_base": 29,
+      "images": [
+        "shime4.png"
+      ]
+    },
+    "land_left": {
+      "frames": 1,
+      "fps": 1,
+      "mirror": false,
+      "frame_base": 30,
+      "images": [
+        "shime18.png"
+      ]
+    },
+    "land_right": {
+      "frames": 1,
+      "fps": 1,
+      "mirror": true,
+      "frame_base": 31,
+      "images": [
+        "shime18.png"
+      ]
+    },
+    "sit": {
+      "frames": 2,
+      "fps": 8,
+      "mirror": false,
+      "frame_base": 32,
+      "images": [
+        "shime11.png",
+        "shime11w.png"
+      ]
+    },
+    "hang_left": {
+      "frames": 1,
+      "fps": 1,
+      "mirror": false,
+      "frame_base": 34,
+      "images": [
+        "shime23.png"
+      ]
+    },
+    "hang_right": {
+      "frames": 1,
+      "fps": 1,
+      "mirror": true,
+      "frame_base": 35,
+      "images": [
+        "shime23.png"
+      ]
+    },
+    "wall_hold_left": {
+      "frames": 1,
+      "fps": 1,
+      "mirror": false,
+      "frame_base": 36,
+      "images": [
+        "shime12.png"
+      ]
+    },
+    "wall_hold_right": {
+      "frames": 1,
+      "fps": 1,
+      "mirror": true,
+      "frame_base": 37,
+      "images": [
+        "shime12.png"
+      ]
+    },
+    "run_left": {
+      "frames": 4,
+      "fps": 12,
+      "mirror": false,
+      "frame_base": 38,
+      "images": [
+        "run1.png",
+        "run2.png",
+        "run3.png",
+        "run4.png"
+      ]
+    },
+    "run_right": {
+      "frames": 4,
+      "fps": 12,
+      "mirror": true,
+      "frame_base": 42,
+      "images": [
+        "run1.png",
+        "run2.png",
+        "run3.png",
+        "run4.png"
+      ]
+    },
+    "creep_left": {
+      "frames": 4,
+      "fps": 3,
+      "mirror": false,
+      "frame_base": 46,
+      "images": [
+        "shime20.png",
+        "shime21.png",
+        "shime20.png",
+        "shime21.png"
+      ]
+    },
+    "creep_right": {
+      "frames": 4,
+      "fps": 3,
+      "mirror": true,
+      "frame_base": 50,
+      "images": [
+        "shime20.png",
+        "shime21.png",
+        "shime20.png",
+        "shime21.png"
+      ]
+    },
+    "rest_pool": {
+      "frames": 64,
+      "fps": 4,
+      "mirror": false,
+      "frame_base": 54,
+      "clip_frames": 8,
+      "clips": [
+        {
+          "action": "Stand",
+          "label": "站立眨眼",
+          "images": [
+            "shime1.png",
+            "shime1.png",
+            "shime1.png",
+            "shime1.png",
+            "shime1.png",
+            "shime1.png",
+            "shime1.png",
+            "shime1w.png"
+          ],
+          "block": 0,
+          "fps": 4
+        },
+        {
+          "action": "Sit",
+          "label": "坐下眨眼",
+          "images": [
+            "shime11.png",
+            "shime11.png",
+            "shime11.png",
+            "shime11.png",
+            "shime11.png",
+            "shime11.png",
+            "shime11.png",
+            "shime11w.png"
+          ],
+          "block": 1,
+          "fps": 4
+        },
+        {
+          "action": "Sprawl",
+          "label": "趴下偷懒",
+          "images": [
+            "shime20.png",
+            "shime20.png",
+            "shime20.png",
+            "shime20.png",
+            "shime20.png",
+            "shime20.png",
+            "shime20.png",
+            "shime20w.png"
+          ],
+          "block": 2,
+          "fps": 4
+        },
+        {
+          "action": "SitAndLookUp",
+          "label": "坐着抬头",
+          "images": [
+            "shime26.png",
+            "shime26.png",
+            "shime26.png",
+            "shime26.png",
+            "shime26.png",
+            "shime26.png",
+            "shime26.png",
+            "shime26.png"
+          ],
+          "block": 3,
+          "fps": 4
+        },
+        {
+          "action": "SitAffordance",
+          "label": "等抱抱",
+          "images": [
+            "shime47.png",
+            "shime47.png",
+            "shime47.png",
+            "shime47.png",
+            "shime47.png",
+            "shime47.png",
+            "shime47.png",
+            "shime47w.png"
+          ],
+          "block": 4,
+          "fps": 4
+        },
+        {
+          "action": "SprawlActionBlush",
+          "label": "趴着害羞",
+          "images": [
+            "shime20pat.png",
+            "shime20pat.png",
+            "shime20pat.png",
+            "shime20pat.png",
+            "shime20pat.png",
+            "shime20pat.png",
+            "shime20pat.png",
+            "shime20pat.png"
+          ],
+          "block": 5,
+          "fps": 4
+        },
+        {
+          "action": "StandingBlush",
+          "label": "站着害羞",
+          "images": [
+            "shime1pat.png",
+            "shime1pat.png",
+            "shime1pat.png",
+            "shime1pat.png",
+            "shime1pat.png",
+            "shime1pat.png",
+            "shime1pat.png",
+            "shime1pat.png"
+          ],
+          "block": 6,
+          "fps": 4
+        },
+        {
+          "action": "SitBlush",
+          "label": "坐着害羞",
+          "images": [
+            "shime11pat.png",
+            "shime11pat.png",
+            "shime11pat.png",
+            "shime11pat.png",
+            "shime11pat.png",
+            "shime11pat.png",
+            "shime11pat.png",
+            "shime11pat.png"
+          ],
+          "block": 7,
+          "fps": 4
+        }
+      ]
+    },
+    "trip_left": {
+      "frames": 28,
+      "fps": 8,
+      "mirror": false,
+      "frame_base": 118,
+      "action": "Tripping",
+      "oneshot": true,
+      "images": [
+        "trip1.png",
+        "trip1.png",
+        "trip1.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip3.png",
+        "trip3.png",
+        "trip3.png",
+        "trip3.png",
+        "trip3.png",
+        "shime11.png",
+        "shime11.png",
+        "shime11.png",
+        "shime11.png",
+        "shime1.png",
+        "shime1.png",
+        "shime1.png",
+        "shime1.png"
+      ],
+      "timeline": [
+        {
+          "phase": "lose_balance",
+          "image": "trip1.png",
+          "frames": 3,
+          "seconds": 0.375
+        },
+        {
+          "phase": "on_ground",
+          "image": "trip2.png",
+          "frames": 12,
+          "seconds": 1.5
+        },
+        {
+          "phase": "push_up",
+          "image": "trip3.png",
+          "frames": 5,
+          "seconds": 0.625
+        },
+        {
+          "phase": "sit_up",
+          "image": "shime11.png",
+          "frames": 4,
+          "seconds": 0.5
+        },
+        {
+          "phase": "stand_ready",
+          "image": "shime1.png",
+          "frames": 4,
+          "seconds": 0.5
+        }
+      ]
+    },
+    "trip_right": {
+      "frames": 28,
+      "fps": 8,
+      "mirror": true,
+      "frame_base": 146,
+      "action": "Tripping",
+      "oneshot": true,
+      "images": [
+        "trip1.png",
+        "trip1.png",
+        "trip1.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip2.png",
+        "trip3.png",
+        "trip3.png",
+        "trip3.png",
+        "trip3.png",
+        "trip3.png",
+        "shime11.png",
+        "shime11.png",
+        "shime11.png",
+        "shime11.png",
+        "shime1.png",
+        "shime1.png",
+        "shime1.png",
+        "shime1.png"
+      ],
+      "timeline": [
+        {
+          "phase": "lose_balance",
+          "image": "trip1.png",
+          "frames": 3,
+          "seconds": 0.375
+        },
+        {
+          "phase": "on_ground",
+          "image": "trip2.png",
+          "frames": 12,
+          "seconds": 1.5
+        },
+        {
+          "phase": "push_up",
+          "image": "trip3.png",
+          "frames": 5,
+          "seconds": 0.625
+        },
+        {
+          "phase": "sit_up",
+          "image": "shime11.png",
+          "frames": 4,
+          "seconds": 0.5
+        },
+        {
+          "phase": "stand_ready",
+          "image": "shime1.png",
+          "frames": 4,
+          "seconds": 0.5
+        }
+      ]
+    },
+    "hug": {
+      "frames": 28,
+      "fps": 8,
+      "mirror": false,
+      "frame_base": 174,
+      "action": "HugAction",
+      "oneshot": true,
+      "images": [
+        "hug01.png",
+        "hug02.png",
+        "hug03.png",
+        "hug04.png",
+        "hug06.png",
+        "hug07.png",
+        "hug07.png",
+        "hug07.png",
+        "hug07.png",
+        "hug07.png",
+        "hug07.png",
+        "hug07.png",
+        "hug08.png",
+        "hug08.png",
+        "hug09.png",
+        "hug09.png",
+        "hug10.png",
+        "hug10.png",
+        "hug10.png",
+        "hug10.png",
+        "hug10.png",
+        "hug10.png",
+        "hug10.png",
+        "hug10.png",
+        "hug10.png",
+        "hug10.png",
+        "hug10.png",
+        "hug10.png"
+      ]
+    }
+  },
+  "routes": [
+    {
+      "name": "stroll_left",
+      "weight": 1,
+      "stages": []
+    },
+    {
+      "name": "stroll_right",
+      "weight": 1,
+      "stages": []
+    },
+    {
+      "name": "explore_left_wall",
+      "weight": 1,
+      "stages": []
+    },
+    {
+      "name": "explore_right_wall",
+      "weight": 1,
+      "stages": []
+    },
+    {
+      "name": "ceiling_from_left",
+      "weight": 1,
+      "stages": []
+    },
+    {
+      "name": "ceiling_from_right",
+      "weight": 1,
+      "stages": []
+    },
+    {
+      "name": "perimeter_left",
+      "weight": 1,
+      "stages": []
+    },
+    {
+      "name": "perimeter_right",
+      "weight": 1,
+      "stages": []
+    },
+    {
+      "name": "rest",
+      "weight": 2,
+      "stages": []
+    }
+  ],
+  "proxy_count": 255,
+  "vmt_variables": 154,
+  "panels": 1,
+  "ground_styles": {
+    "walk": {
+      "weight": 3,
+      "duration": 10,
+      "fps": 8
+    },
+    "run": {
+      "weight": 1,
+      "duration": 5,
+      "fps": 12
+    },
+    "creep": {
+      "weight": 1,
+      "duration": "distance based",
+      "min_duration": 20.0,
+      "speed_limit": 8.0,
+      "fps": 3
+    }
+  },
+  "gestures": {
+    "trip": {
+      "weight": 1,
+      "seconds": 3.5,
+      "movement_only": true
+    },
+    "hug": {
+      "weight": 1,
+      "seconds": 3.5,
+      "standalone_scene": true
+    },
+    "none": {
+      "weight": 3
+    }
+  },
+  "source_images": {
+    "hug01.png": "7ee2fecb2ffbc31810ee9bbf03fa4b46c79033ba97cc48eb5c9038281dc0cf35",
+    "hug02.png": "a074c10a244d835da36d77100887b38fa0ce9306aea20961b931da7393d40008",
+    "hug03.png": "edbc9ea40d224ffd7e8b7f0b420aa85c2d16c6454292dc7ccf10e7437850c561",
+    "hug04.png": "321181c136a78e335f7ab2718a21c8868e6ed3aeaf1cf28f9312ca913cadf877",
+    "hug06.png": "9421ca55eb0471ce2383df35bb84d0123d044a9211e1464038a5bbcb240aa3d7",
+    "hug07.png": "bcd4dbb33217336760d7e49c9854c5762b2ddada22832d41ee565f4e61f3fc5b",
+    "hug08.png": "63186fdb71df7c8dc3251446130b5e3595c1efc7fb7fd91966ab6517c4cdb65b",
+    "hug09.png": "bf7c15c657e311248b077f40270df95747218b551b7539bb005deacc98ece8dd",
+    "hug10.png": "c47431252f6af88499bd8fb6889e6eadfbd5bc286d963ba3f4c28e107fa62cc6",
+    "run1.png": "53828ed54a61fc9d2ef075f55eb75b8580c6abbf2338f39bac68ba39e48de244",
+    "run2.png": "8ae462f1814216f241231f2e3142bcfd0f956fec0eb92f39aced8f8f23b9701e",
+    "run3.png": "4126ab9c3bd1ef2b93f586195ce3ac47287e0a723f778d5be85413118231b4c1",
+    "run4.png": "9a89857b172fb91d80fe66078b638100646bbdd43c99bd7d34191b081d244470",
+    "shime1.png": "0e2157eb416f0ae08c2ae026bcfc640b0440fb74a8119a6aca945283ed66a4c1",
+    "shime11.png": "eb6aa2e9b1f6369c0d823382bd56cb4543d6f8f528121e9f2d0b310974a16521",
+    "shime11pat.png": "a1eed1efb506ee5cf393a05b9b77b08e8481f5f6f872bed10fb4f4811296e107",
+    "shime11w.png": "dbbf74f6392b3e8ed66ff120b804185585f8a36c45e807abe9dae41421c296ea",
+    "shime12.png": "1e3894d0b6b5bfe114ea0064a6bc3952a4e30b4ee095d86dd2d766701387582c",
+    "shime13.png": "d25be4e529a1fbf03055aca64b5700c6cc5485827492ebe63973190a77de2852",
+    "shime14.png": "57c08a69e4caf038d2c216fe41ca6300db2c134b9db4b948f2ff3e4729752f1b",
+    "shime18.png": "b5d3a43d9a99394094bd7609c151f7ef31a9e6ca238c62d60b25b732fbba1267",
+    "shime1a.png": "a0e297e367ec0fbea626e806e5992cbff11d319ff616d28d54e4dda53439dfca",
+    "shime1b.png": "c09a4265174fea52f638a32a275b8121482d7556109b141b4901a91783161f3b",
+    "shime1pat.png": "9b7da30d94ca5c914994c42a417060b48f44510621e7304cfebf7b0f0e08cd1f",
+    "shime1w.png": "519fbbd986e7914b0ebc51199e22eda8639f637a7afb96ab36db4fbb7cc5c546",
+    "shime2.png": "eed1f848fedd005ac8e08dc150555779ca9aef557196851bd962289b429ac5c4",
+    "shime20.png": "a863dd4b02809db3209f76d9bcd04745a0017f6e40311a3559fc840bf012e91c",
+    "shime20pat.png": "86ba3b2a8992d716be973be91259bcf20af0ae56e5714d66832dd1c9839d4149",
+    "shime20w.png": "39bc02b6c6be93abb313650ce31ddb41314cbc3fc203737189ab60fe8823c160",
+    "shime21.png": "5b26aa2470cdad92294a7d2974020f34e6b1d7c5fe727eeda84d94f6cbfcad54",
+    "shime23.png": "042baa3741e8f57c0caf86dd942f5cef15af0cf68deb24bfb98d4c7b8960a934",
+    "shime24.png": "7c60f9c1b9c6b5437c07ac9ea2239746a1ad41975a06ee7cedc271a64355bb5c",
+    "shime25.png": "ad387e51c611f8e65621923f0c2763dd9e45b2f68702b71b5f6f4586b69aff09",
+    "shime26.png": "e8b696ee1be87c8a3ad1240b5b7715ef1ad9b97753fe59df345f6658f23ad9bb",
+    "shime3.png": "1733dce606bbe0a9451c85e8c679c5cc320ce846361f5eaa9a458b9d79638ce6",
+    "shime4.png": "7d25c9a84d27959b76a5e69c8c83ec53d163ab57a2b01790387336ffb38d5541",
+    "shime47.png": "2f62d3a7f4eea07b372d526cdbeb17f735d60cc8230c485c91138028ea80372f",
+    "shime47w.png": "e55402dcb36b53e3dd04f2ef34f03de201b7b3da8c142cafb3e5aac97134e27d",
+    "trip1.png": "cf8df7dbbe761ae391d01c1cdd7ba0e443069c3ac932e9d639f814404487dcde",
+    "trip2.png": "347d81e87148d853df87da1df13ff31f4f026a87cea8d3144b43b9ad43f3e14b",
+    "trip3.png": "4e4c43a7a40ee2eed52b3d972b2b2e17ed47d27cddfb83972d5debc91d41dff6"
+  },
+  "texture_processing": {
+    "method": "transparent RGB colour bleed",
+    "radius_texels": 4,
+    "alpha_changed": false,
+    "visible_pixels_changed": false,
+    "unique_frames": 65,
+    "changed_pixels_unique": 138686,
+    "changed_pixels_all_frames": 410894
+  },
+  "addon_description": "Between zombie fights, tiny Evil Neuro walks, trots, crawls and climbs around your screen, hangs from the top, and sometimes rests, falls, trips or hugs.\n打僵尸的间隙，小小的 Evil Neuro 在屏幕边缘走走、爬爬、挂着休息，偶尔松手跌落、绊一跤，或者停下来抱抱。",
+  "metadata_revision": "2026-10-09",
+  "metadata_repack": {
+    "baseline_sha256": "5c6de36a5deffb431c40f004301e5b8dec16a2f2d8c278b73216b3177bd6d510",
+    "changed_files": [
+      "addoninfo.txt"
+    ],
+    "other_entries_byte_identical": 9
+  }
+}

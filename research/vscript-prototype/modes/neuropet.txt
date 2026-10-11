@@ -1,0 +1,11 @@
+"neuropet"
+{
+    "base" "coop"
+    "maxplayers" "4"
+    "hasdifficulty" "1"
+    "singlechapter" "0"
+    "DisplayTitle" "Neuropet"
+    "Description" "Experimental native VScript screen mascot. Requires this addon on the host and every client that wants the graphical pet."
+    "Image" "maps/any"
+    "Author" "Neuropet project"
+}

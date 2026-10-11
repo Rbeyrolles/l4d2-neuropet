@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-09",
+  "candidate_sha256": "6fb101a0d5fbcee878adac715c24cdeff0bc5d93f18dbe9c1e827f8f77094fa3",
+  "baseline_sha256": "43aafdf24315e9d4821fd2919820f39d7569cc70e4e1a54f1ac4b55e8efb27a6",
+  "changed_files": [
+    "addoninfo.txt"
+  ],
+  "other_entries_byte_identical": 9,
+  "material_atlas_hud_icons_licenses_byte_identical": true,
+  "fresh_game_or_behavior_simulation": false
+}

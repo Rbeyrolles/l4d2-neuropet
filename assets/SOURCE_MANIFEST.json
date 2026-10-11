@@ -1,0 +1,1054 @@
+{
+  "source_project": "https://github.com/CommentOut64/web-mascot",
+  "upstream_packs": "https://github.com/qingchenyouforcc/NeurolingsCE-Qt",
+  "source_revision": "Local snapshot; no Git commit identifier was captured",
+  "license": "CC-BY-NC-SA-4.0",
+  "local_snapshot_date": "2026-10-07",
+  "files": [
+    {
+      "path": "assets/mascot_pack/Neuron/actions.xml",
+      "bytes": 53799,
+      "sha256": "4b5a922c1a070a42ed9229dc1283c3422427c8e1d12802ec2561d73865c66b6a"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/behaviors.xml",
+      "bytes": 9882,
+      "sha256": "2dff13a1e5b81ab3417e8c8dc6bf92f396f17c181d1ca4995bc6f4dea1bcc39e"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/bubble_context.txt",
+      "bytes": 78,
+      "sha256": "03fe36c462291d452af16e39522a4d8df09978a8d4286e477f10f7a170f22d97"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/a.png",
+      "bytes": 12452,
+      "sha256": "e38ee60f4c951b1f279e9209301d94b31f41a775b4ff063fa3318f63bda3867c"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/hug01.png",
+      "bytes": 23349,
+      "sha256": "a051d0ac2533a6541915164dfa59196f0a186ebedad768ac876c44e00a7f8701"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/hug02.png",
+      "bytes": 15796,
+      "sha256": "a173ff2a2f9a438cedf2f286f7cc36c9fdef879b3d757e0ca30ec6c148615379"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/hug03.png",
+      "bytes": 16456,
+      "sha256": "df17866693fa502515e9f24da1d3b240ef304a694dd4b6b62f02fe2ab3c17abe"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/hug04.png",
+      "bytes": 14216,
+      "sha256": "486d9a36af7a679e809a9b96a1bca77f03153a6533f08e9a71b1c144a902dc04"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/hug06.png",
+      "bytes": 14120,
+      "sha256": "0069800579fde4b4f765aa4e1e892b0973a8111caea6ab7f07100892eb2111df"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/hug07.png",
+      "bytes": 14939,
+      "sha256": "52289a0562216647bac935e8a81e72157bf912072ecc2b6d1ccba3595049b779"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/hug08.png",
+      "bytes": 17307,
+      "sha256": "7ebd3708585511a63afe6122c87df2dbdb322ebefe3d8a3f2fc2152ebc818d44"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/hug09.png",
+      "bytes": 14888,
+      "sha256": "0a222db642d0af768d43d4eff0c36668c153b8df887e02bda0098e47a0a6b2e6"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/hug10.png",
+      "bytes": 16722,
+      "sha256": "98e0f710d35ee9527573822152285f77d89729626d61647c1f1e86df595319fd"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/hug11.png",
+      "bytes": 17884,
+      "sha256": "a61021b8eafba5df353acbca593afbbe73e80b93ed09fcc516afd0cbb93e374f"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/hug12.png",
+      "bytes": 17251,
+      "sha256": "abad9aacd09b6297c7a9ac4adda7ba305afa0dad2cde75eb1155ad393ea607f4"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/prep1.png",
+      "bytes": 11666,
+      "sha256": "ad599c3819c5e1c98452a836b93ade1a04c1c13a57b64c6425c20e62aae6d793"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/prep2.png",
+      "bytes": 11528,
+      "sha256": "9896f36cf36ee080867e183d277d736abdcd51ded5ea07d34cd94282bacdb792"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/prep3.png",
+      "bytes": 15407,
+      "sha256": "98064e3f794a521ae2ab5d364a26f97c9f6fa57489fe02fc47f608ad6308beb9"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/prep4.png",
+      "bytes": 15437,
+      "sha256": "85c750de8020a3510e9371d3d0cc18bb46c47f043b636dd980d6fe707b9a6398"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/run1.png",
+      "bytes": 12945,
+      "sha256": "21a77db014c9a76d8583bf33c92b7b4e23297ead9161fc7bd1be15929e4425e4"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/run2.png",
+      "bytes": 12827,
+      "sha256": "df8c3539a55dddff0bd708b0e1a9293df4693a49c7e8a4a657478c7b3878744a"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/run3.png",
+      "bytes": 12821,
+      "sha256": "e4df6a5dbd652805e9791a1b085d10e940422903a25f845a6dbf27b2e07a5769"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/run4.png",
+      "bytes": 12605,
+      "sha256": "fbbb560bdcd7199e4b22c3a19f474154f880c44fa3d334de0d69c670f0ef2aa9"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shakeoff1.png",
+      "bytes": 13783,
+      "sha256": "281ccf668e164b608d5de6decf77c2a63a369da07212f9b6aa44022250483c5c"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shakeoff2.png",
+      "bytes": 14168,
+      "sha256": "5b78f4db8d0817214e85d693083a03a96aeb38f2c718639b624a087f1e60fc43"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime1.png",
+      "bytes": 13309,
+      "sha256": "d50606dce00c0bea7d9cc82ae141fe20a8eda6c6073538472de154a537be95e6"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime10.png",
+      "bytes": 10790,
+      "sha256": "67c8e4620796ba5ca3ef03413d7e774f6ea7afddce93131447b32ee4926ca657"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime11.png",
+      "bytes": 9283,
+      "sha256": "065f70983ed1fc05bfe0ac1cb6de138ea5cf180ef5322ec29d65ed1d71f041b8"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime11pat.png",
+      "bytes": 8477,
+      "sha256": "c9eb3da0a92b6fa9e44b50076a2045f6b1f282a2ed3d0e42dcd303810175daab"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime11w.png",
+      "bytes": 9222,
+      "sha256": "d382930c1472bc196f3bee3ef925566a80d87f698801c9c67c7c3a35b329b428"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime12.png",
+      "bytes": 10582,
+      "sha256": "d4d28d50283fe7ced01a3e7672d64749ef2c5d72077dad6b7e90db9fcf5ed6ff"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime12w.png",
+      "bytes": 10431,
+      "sha256": "50b097bf5d490dcd5ec869dbe6594d6b323815f4625fa8829595f215e8e3667c"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime13.png",
+      "bytes": 10426,
+      "sha256": "5b3ed14d2d712ab7c9f07db2d50b13bb332d424ff323be0b5749c018ca3502b9"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime14.png",
+      "bytes": 10589,
+      "sha256": "349f383753696471a73d0814e81f5ad7b069cac9a119723ffc3b0ddfea5b0e3c"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime15.png",
+      "bytes": 14413,
+      "sha256": "c98a34c5429e5dd5e753bf7cff969b5ac996120f684c3284be7af9c8ddafa46d"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime16.png",
+      "bytes": 13588,
+      "sha256": "5151382ff39d98c08be1d664b3a8c3b48bf84e5f7f76f20c3b17aadd73756af7"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime17.png",
+      "bytes": 6446,
+      "sha256": "f4a554a4a71b5db3f3bff55714f05c6ae5af7f0660c389ecdc3d1c0d1911dcaa"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime18.png",
+      "bytes": 10752,
+      "sha256": "07dc397b2ccc978dc848c05b4fdf75fcd5134ed4093c4b162b8eff3666636692"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime19.png",
+      "bytes": 9345,
+      "sha256": "f49e11e2222624e37168766c4c3c6a83fd24bbccb5eb2c562259393429abe7c2"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime19a.png",
+      "bytes": 11218,
+      "sha256": "6902d60ce8f18d0fa6ef9bf6ae24c64f163d8c25c2037afa6d916269f896c4c2"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime1a.png",
+      "bytes": 12452,
+      "sha256": "e38ee60f4c951b1f279e9209301d94b31f41a775b4ff063fa3318f63bda3867c"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime1b.png",
+      "bytes": 12478,
+      "sha256": "fd628f17f6666fb052b11f887bb93a0666a7ca2167f143cf0a1f0cd4e28f8efd"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime1pat.png",
+      "bytes": 12186,
+      "sha256": "5275425429d7d3da921fe4a8b4d65177c1de1461929631e776b027dc197f8be4"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime1w.png",
+      "bytes": 13114,
+      "sha256": "ced58c4f3a68d00bd057286427a859f914a46ef95065d66da93561767d9032ee"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime2.png",
+      "bytes": 12041,
+      "sha256": "e7d8ad0127667d0e9941a45a2cd954d47800b023828037451643eb87cadcded4"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime20.png",
+      "bytes": 7444,
+      "sha256": "a5102d0be7e5e94abf62177c1e018610816a85336dbd5403da9fd5c162756d5c"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime20pat.png",
+      "bytes": 6774,
+      "sha256": "2731b35641e2089c1c57865e19a0d970f96cd1e5bec27ec7b3e53b1241a52245"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime20w.png",
+      "bytes": 7265,
+      "sha256": "97acc401e126c582a22c4a18c9e8c13427cd63b15b916e0cc16c63480373047a"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime21.png",
+      "bytes": 7187,
+      "sha256": "1af069bc1ab9c498c528d000559e20eabb914885682d2c1c04ff844b99e18a1d"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime22.png",
+      "bytes": 13535,
+      "sha256": "0186bca7fd74fba65cb6c8206c9af153bc3807edd6e1b3f634c02027e2757553"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime23.png",
+      "bytes": 11262,
+      "sha256": "e901b7adeac843339c6425c32e19746e4b50341832b85424a22a9d503cac3411"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime23w.png",
+      "bytes": 11220,
+      "sha256": "8f015476525f0b910ef1267fe37e138dac90320ca024f41fcf3af78be11b953e"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime24.png",
+      "bytes": 11340,
+      "sha256": "a02de1249704da591977e74d9e496fe735226a8f958b22f175bfbb4cc68bda7d"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime25.png",
+      "bytes": 11138,
+      "sha256": "caebf606479ee7b87639038ea86faa8afc9afb89af5541bae18cd7e28df92216"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime26.png",
+      "bytes": 9659,
+      "sha256": "521cb54d59a6e201287af5fcf61bd975674c94348b2268ed68f3644f3cfda875"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime27.png",
+      "bytes": 6721,
+      "sha256": "d25abc3d65467b7689fb601fa8f32fd7df710743f44ee9991d0eade4027ce5fe"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime28.png",
+      "bytes": 6529,
+      "sha256": "b81fea949c751f847f0d2d5b54885543b08c54c82dd2a80e6798fc50acfdfb93"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime29.png",
+      "bytes": 15527,
+      "sha256": "80f987f66a229cb5c552cd8b4ae87b63c663a5a95ff5ffa4f0feaafa4a1072fa"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime29a.png",
+      "bytes": 14148,
+      "sha256": "4ed87c22d93121b6fbfb968de2c7f0de50c73261d97268d1376245e8d9dc0df0"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime3.png",
+      "bytes": 12264,
+      "sha256": "80dc161ac08cf8ec165e7edc42ddc84ecba4311aafcea6e5a330577259ba7faa"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime30.png",
+      "bytes": 11265,
+      "sha256": "73b3d400230b50a308d0412e6d4c935b5fb01bfe478190269e4bb8cf3559af43"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime31.png",
+      "bytes": 11502,
+      "sha256": "2c84dd88f2ad0a2ef97355b1ce1388d8e71165ff52b2e68cf6bda5281cb914bb"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime32.png",
+      "bytes": 11265,
+      "sha256": "73b3d400230b50a308d0412e6d4c935b5fb01bfe478190269e4bb8cf3559af43"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime33.png",
+      "bytes": 11229,
+      "sha256": "b036a3773a3ca3ccecf96c19e8e4ef3a8cf77e361323dd96e46de4e0022d8f0a"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime34.png",
+      "bytes": 11285,
+      "sha256": "44df87e45cfe19f41f912e8e2f09741e41764e19f4a53c7901393b6a4069f8a2"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime35.png",
+      "bytes": 10812,
+      "sha256": "daa32c5ae1bbb15cfb2b9fd4679617f6c951d0b5176cbda95775466c42a38e17"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime36.png",
+      "bytes": 10960,
+      "sha256": "0e2f6a9f3ab5e5c1e0b58d1daf1b722b076b52f4c76681c30a0e205d9750dd8b"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime37.png",
+      "bytes": 12863,
+      "sha256": "2fdc29b87c94cb7a324cd8ed6da68f77060cd7aa20b726fb6f036a9538de0b9f"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime38.png",
+      "bytes": 17538,
+      "sha256": "7abc71c29e1b1f33cb44add0d3ff6672b6f917c21714b98971d39a7334432af9"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime39.png",
+      "bytes": 14343,
+      "sha256": "f7b97661d7268e183f8f784525c72712486a5ddaab71f0b25a5c240a8b2567ab"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime4.png",
+      "bytes": 11271,
+      "sha256": "4d8b555cef6ef578799d004212ea4d3a051fd5d9a9c953626c47be06599cc39e"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime40.png",
+      "bytes": 12551,
+      "sha256": "70e45f3d5ece428f9de5729ad58af6962fed67fb1d0c498d56bf1d2fa42073e0"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime41.png",
+      "bytes": 19110,
+      "sha256": "bee51ad89df99e8221f3eb0a044e7a8b933efd8774049372d6151fca90e099bd"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime42.png",
+      "bytes": 12221,
+      "sha256": "b42dc0c457cebc3c229ffa96b04fd72a0d6c72b1c87fe3b7ba30b53540fbc482"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime43.png",
+      "bytes": 13152,
+      "sha256": "bde9a11cf783701b40533c271e9d1a0fb0de8eabeeefe01ff20f621a63ba1701"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime44.png",
+      "bytes": 13223,
+      "sha256": "5bce0aece8a6241b90f087a2375a994f852ca82fb8be6d5a547f85c8927ce889"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime45.png",
+      "bytes": 16200,
+      "sha256": "2d9cdcf93f05aac2038fbc23986af99464f865b8cd5a007c6396fe81f52bf489"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime46.png",
+      "bytes": 15749,
+      "sha256": "05e3d445558442a0b3647376f0b60acf0418553cdb39e64730cccff9a0e51e28"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime47.png",
+      "bytes": 12438,
+      "sha256": "7c482289ec0825a97b637101189606203f993b32f90e8ca4507f74749cc5c0e5"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime47w.png",
+      "bytes": 12327,
+      "sha256": "08bb1dc0142a7f0b0aca4d13ed452f4830b1750803d591545e7c934adae46b18"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime5.png",
+      "bytes": 11568,
+      "sha256": "27138aa6b0ea11b4b8272bb0a6ad1dcc11eccafcdd41e62d2bbe00defc501def"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime5a.png",
+      "bytes": 11337,
+      "sha256": "00a40e085956523fd868b93ab19af2d73d615c7749ad2a34281227c4b8f6e3eb"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime5b.png",
+      "bytes": 11919,
+      "sha256": "6ff7c04281e911dbd804148d891b082fae6beb6bb5cb62d7906a94863b46490d"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime6.png",
+      "bytes": 11739,
+      "sha256": "5f1f2f875060b07f1192aaa901f5a8c1982e253c7a710eddf5f482d97756ec16"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime7.png",
+      "bytes": 11352,
+      "sha256": "fa32d947433964f89ff8d909e9e37e728f92e0bf02077c32330d22a5675696cb"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime8.png",
+      "bytes": 11319,
+      "sha256": "383f4702dde177bac9dec51d660dff9fef8f835c729a252a14514f0d1be42477"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/shime9.png",
+      "bytes": 10752,
+      "sha256": "caa9058da5e54b80c76434acdda5982d246b2ba10616a8fb1d991c0d20bf2290"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/sprint1.png",
+      "bytes": 17634,
+      "sha256": "a51fa100fb5a286a2d252d4c5243ea362ba44b84bc5c83ef523b22dc37a485bb"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/sprint2.png",
+      "bytes": 18102,
+      "sha256": "2701968953e537f76b493d5c129833b4e50a7be18dc5c432627a594f3a5efae2"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/sprint3.png",
+      "bytes": 17519,
+      "sha256": "9639894b58fd29231bee0253e0e0d545e5a90dd5e8bea93974aadcad1a29223b"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/trip1.png",
+      "bytes": 12687,
+      "sha256": "7ef58c581ab0cf67f3fbf67b6f5822bdd68c38c9261b4fd8a973167eec5717e7"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/trip2.png",
+      "bytes": 6755,
+      "sha256": "b261cc5ce440fbd4d29e1d5ef41fc4bf6157ab200fe6d90e813e508b0f252479"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/trip3.png",
+      "bytes": 10935,
+      "sha256": "bbf943a510a394d81ab4de88434c4d97d2d1ae34729d702234e8e5a0c6b2e8d9"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/tutel1.png",
+      "bytes": 15334,
+      "sha256": "af4bf31d45acab6e68b50c69b0ee028e2e1d2afe59fc3f467a84eb6a5d7c1cd0"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/tutel2.png",
+      "bytes": 12148,
+      "sha256": "b8aab5ced9a4da31495454b88ed4adb6de3c68da67643355a9dc07ca2bad783f"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/wink1.png",
+      "bytes": 12314,
+      "sha256": "ddbb9f5422e3cecf86e88fe2737716159fe82a950b01032c31acdd245b2ed340"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/wink2.png",
+      "bytes": 12344,
+      "sha256": "7cdfc88b8bade276d8c98c5585a66f96178fc8de274c2e33d3c11d304508b523"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/wink3.png",
+      "bytes": 13290,
+      "sha256": "c88c5299adbe218bfd11eac453061a6e9ff85d348e831e6280277eeb0ce5127b"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/wink4.png",
+      "bytes": 12606,
+      "sha256": "2d0ca00b70b4e41ef562c091c40f78cf3d3f6ecea45440017ce2f563677dac8a"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/img/wink5.png",
+      "bytes": 12409,
+      "sha256": "39340642c71e96be71309cfd2914ada1a852f82b66f8dce00ecf6924aca9ec5b"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/info.json",
+      "bytes": 285,
+      "sha256": "7dc510755c49acc754c9b4c0a63c208d1552e9128c46d10dea4030547cb038df"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/LICENSE",
+      "bytes": 2801,
+      "sha256": "35a18c0b01084165a00399008e1b7259ea43db5818df2ad25a9f756e33ef8a3b"
+    },
+    {
+      "path": "assets/mascot_pack/Neuron/LICENSE-CC-BY-NC-SA-4.0.txt",
+      "bytes": 19018,
+      "sha256": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/actions.xml",
+      "bytes": 73382,
+      "sha256": "f274405c6b9f4ee7561b549085b3d783c4a7e6f3c0c3fc9518bf1f6bcd09f316"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/behaviors.xml",
+      "bytes": 10402,
+      "sha256": "f0d70f17652047fb953b28a15c92fcdd4fabb9278187a4bb5744a8ee4764b5a9"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/bubble_context.txt",
+      "bytes": 20,
+      "sha256": "ba36344267219be6602209e2ba266bae254fc0c620dd4de3eaaa2cd086bfa094"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/a.png",
+      "bytes": 13856,
+      "sha256": "a0e297e367ec0fbea626e806e5992cbff11d319ff616d28d54e4dda53439dfca"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/hug01.png",
+      "bytes": 22942,
+      "sha256": "7ee2fecb2ffbc31810ee9bbf03fa4b46c79033ba97cc48eb5c9038281dc0cf35"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/hug02.png",
+      "bytes": 21173,
+      "sha256": "a074c10a244d835da36d77100887b38fa0ce9306aea20961b931da7393d40008"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/hug03.png",
+      "bytes": 17676,
+      "sha256": "edbc9ea40d224ffd7e8b7f0b420aa85c2d16c6454292dc7ccf10e7437850c561"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/hug04.png",
+      "bytes": 17521,
+      "sha256": "321181c136a78e335f7ab2718a21c8868e6ed3aeaf1cf28f9312ca913cadf877"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/hug06.png",
+      "bytes": 16958,
+      "sha256": "9421ca55eb0471ce2383df35bb84d0123d044a9211e1464038a5bbcb240aa3d7"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/hug07.png",
+      "bytes": 16920,
+      "sha256": "bcd4dbb33217336760d7e49c9854c5762b2ddada22832d41ee565f4e61f3fc5b"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/hug08.png",
+      "bytes": 18315,
+      "sha256": "63186fdb71df7c8dc3251446130b5e3595c1efc7fb7fd91966ab6517c4cdb65b"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/hug09.png",
+      "bytes": 19536,
+      "sha256": "bf7c15c657e311248b077f40270df95747218b551b7539bb005deacc98ece8dd"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/hug10.png",
+      "bytes": 19707,
+      "sha256": "c47431252f6af88499bd8fb6889e6eadfbd5bc286d963ba3f4c28e107fa62cc6"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/hurt.png",
+      "bytes": 7440,
+      "sha256": "844aa9b6073460943427f24730274d2f51b88081463b9bf3f7301664ec25ff67"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/hurt2.png",
+      "bytes": 7452,
+      "sha256": "b964f4b4b04cbd3f11a4228617a821377fc2be5dfd4f05d718e092ac2ec3ee59"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/hurt3.png",
+      "bytes": 7379,
+      "sha256": "7c6ef1a5cee67f235e5ebd141f93e970a242ccc933221d6e843779f62ceb8be4"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/prep1.png",
+      "bytes": 12612,
+      "sha256": "aa52abc98f256f6b76f2b91e4ff33ac44d54d310398293a2bfcf36f9ae653a2a"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/prep2.png",
+      "bytes": 12860,
+      "sha256": "a843df2c68dac0d8ca4e195d5d1bc857e87f987b327bd25f6b41250b32c52f01"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/prep3.png",
+      "bytes": 14512,
+      "sha256": "99eb019cca8a3939ce2f4f7a88695c54a92ed81ffaaa3761e7affd5783686331"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/prep4.png",
+      "bytes": 14370,
+      "sha256": "edd0e62a21325923e462782be1732ff05670ebedb96a237731480677eb8c22cb"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/prep5.png",
+      "bytes": 14045,
+      "sha256": "7c085f49b1ab190c7fb7e78839e8891b2f738966ec266640b27b0bbe16875fd0"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/run1.png",
+      "bytes": 13893,
+      "sha256": "53828ed54a61fc9d2ef075f55eb75b8580c6abbf2338f39bac68ba39e48de244"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/run2.png",
+      "bytes": 13305,
+      "sha256": "8ae462f1814216f241231f2e3142bcfd0f956fec0eb92f39aced8f8f23b9701e"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/run3.png",
+      "bytes": 14039,
+      "sha256": "4126ab9c3bd1ef2b93f586195ce3ac47287e0a723f778d5be85413118231b4c1"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/run4.png",
+      "bytes": 13263,
+      "sha256": "9a89857b172fb91d80fe66078b638100646bbdd43c99bd7d34191b081d244470"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shakeoff1.png",
+      "bytes": 15271,
+      "sha256": "3ec31ebb390e3e3a789b2e953d00ba488de2cbcb5417784fc389ef12b432e425"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime1.png",
+      "bytes": 14697,
+      "sha256": "0e2157eb416f0ae08c2ae026bcfc640b0440fb74a8119a6aca945283ed66a4c1"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime10.png",
+      "bytes": 12628,
+      "sha256": "98937d1cf7cf708a3c53ed85c1c21f4b7145c4a3f5bed467ab5311b558370f81"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime10a.png",
+      "bytes": 13562,
+      "sha256": "81c873798e9a5e10b831f14bab666362f109b24053c33676360b21f0caac747e"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime10b.png",
+      "bytes": 13577,
+      "sha256": "ad3ca03a9da59fb5c1adeeb8de38539045d67baec5465fc0d4f91da4a3fd2657"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime11.png",
+      "bytes": 9792,
+      "sha256": "eb6aa2e9b1f6369c0d823382bd56cb4543d6f8f528121e9f2d0b310974a16521"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime11pat.png",
+      "bytes": 9046,
+      "sha256": "a1eed1efb506ee5cf393a05b9b77b08e8481f5f6f872bed10fb4f4811296e107"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime11w.png",
+      "bytes": 9609,
+      "sha256": "dbbf74f6392b3e8ed66ff120b804185585f8a36c45e807abe9dae41421c296ea"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime12.png",
+      "bytes": 12164,
+      "sha256": "1e3894d0b6b5bfe114ea0064a6bc3952a4e30b4ee095d86dd2d766701387582c"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime12w.png",
+      "bytes": 12003,
+      "sha256": "930a991e551a271bbbdada58ffda203ed3598682cbc899a346615fafcf45329d"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime13.png",
+      "bytes": 12042,
+      "sha256": "d25be4e529a1fbf03055aca64b5700c6cc5485827492ebe63973190a77de2852"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime14.png",
+      "bytes": 12034,
+      "sha256": "57c08a69e4caf038d2c216fe41ca6300db2c134b9db4b948f2ff3e4729752f1b"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime15.png",
+      "bytes": 15499,
+      "sha256": "8d576b2c7a835cae0bc888b3f23733f140e3ffdf3dd124944a90ac34dc960ecf"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime16.png",
+      "bytes": 15682,
+      "sha256": "e1fe779f10fe4721a6ecf0bb05d802df0165d46dc27d715aed5241d6379819e0"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime17.png",
+      "bytes": 15972,
+      "sha256": "c2e490cee8b219a9674b083208a0b0dab7b980881118f94708911383c98e2212"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime18.png",
+      "bytes": 10427,
+      "sha256": "b5d3a43d9a99394094bd7609c151f7ef31a9e6ca238c62d60b25b732fbba1267"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime19.png",
+      "bytes": 9252,
+      "sha256": "ab25891483177f49a9be8a104cc6127b52bacc19f56fb5ca74ad212208d01459"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime19a.png",
+      "bytes": 11046,
+      "sha256": "cbcd2f79f5cf5b9dd187a0dc1e6a8e5bd7b3c4e2de1d141b251cde2b438d3399"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime1a.png",
+      "bytes": 13856,
+      "sha256": "a0e297e367ec0fbea626e806e5992cbff11d319ff616d28d54e4dda53439dfca"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime1b.png",
+      "bytes": 13808,
+      "sha256": "c09a4265174fea52f638a32a275b8121482d7556109b141b4901a91783161f3b"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime1pat.png",
+      "bytes": 13254,
+      "sha256": "9b7da30d94ca5c914994c42a417060b48f44510621e7304cfebf7b0f0e08cd1f"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime1w.png",
+      "bytes": 14482,
+      "sha256": "519fbbd986e7914b0ebc51199e22eda8639f637a7afb96ab36db4fbb7cc5c546"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime2.png",
+      "bytes": 13704,
+      "sha256": "eed1f848fedd005ac8e08dc150555779ca9aef557196851bd962289b429ac5c4"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime20.png",
+      "bytes": 8511,
+      "sha256": "a863dd4b02809db3209f76d9bcd04745a0017f6e40311a3559fc840bf012e91c"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime20pat.png",
+      "bytes": 7969,
+      "sha256": "86ba3b2a8992d716be973be91259bcf20af0ae56e5714d66832dd1c9839d4149"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime20w.png",
+      "bytes": 8356,
+      "sha256": "39bc02b6c6be93abb313650ce31ddb41314cbc3fc203737189ab60fe8823c160"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime21.png",
+      "bytes": 8220,
+      "sha256": "5b26aa2470cdad92294a7d2974020f34e6b1d7c5fe727eeda84d94f6cbfcad54"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime22.png",
+      "bytes": 13236,
+      "sha256": "3d148040e6f773eb8e874d68b7624cb9dc233fecfd9a82f20b5025e269d18cb3"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime23.png",
+      "bytes": 12423,
+      "sha256": "042baa3741e8f57c0caf86dd942f5cef15af0cf68deb24bfb98d4c7b8960a934"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime23w.png",
+      "bytes": 12289,
+      "sha256": "8b7fd3469053e0b8629c61cb6fcf094ce79e27ea04caa86a406817dcfe2146fb"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime24.png",
+      "bytes": 12276,
+      "sha256": "7c60f9c1b9c6b5437c07ac9ea2239746a1ad41975a06ee7cedc271a64355bb5c"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime25.png",
+      "bytes": 11986,
+      "sha256": "ad387e51c611f8e65621923f0c2763dd9e45b2f68702b71b5f6f4586b69aff09"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime26.png",
+      "bytes": 9877,
+      "sha256": "e8b696ee1be87c8a3ad1240b5b7715ef1ad9b97753fe59df345f6658f23ad9bb"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime27.png",
+      "bytes": 17121,
+      "sha256": "6a4c727e769f81dcd186f7dbe5f1afc16358fdea77742f3a3198f15ec0d4879e"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime28.png",
+      "bytes": 15794,
+      "sha256": "d005465ce85a54af6c9d9bbf6f1c07143142d2c66a740abcea004c553b0544db"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime3.png",
+      "bytes": 14053,
+      "sha256": "1733dce606bbe0a9451c85e8c679c5cc320ce846361f5eaa9a458b9d79638ce6"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime30.png",
+      "bytes": 12241,
+      "sha256": "af29c570543adb6c09a01534a62b3292186d0f81dc285199cf5f1451cd43beef"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime30w.png",
+      "bytes": 12086,
+      "sha256": "7c76b9b2382f87085706a819123db61781ba7d5f036cf71a42c58aab343ab14e"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime31.png",
+      "bytes": 12001,
+      "sha256": "c59b691361e017cee78663f68c7a08057a04faa39c820f457f6cb1a5ad62507d"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime32.png",
+      "bytes": 12241,
+      "sha256": "af29c570543adb6c09a01534a62b3292186d0f81dc285199cf5f1451cd43beef"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime33.png",
+      "bytes": 11785,
+      "sha256": "1d2b6aab631a4ef5239c8be686683822e910cd695970bca16e104d37d4cad9fc"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime34.png",
+      "bytes": 10984,
+      "sha256": "436e5872494ea9af190312ddb9a2e9c85c1f62d549cb0cc56439b1c02ddc55a2"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime35.png",
+      "bytes": 10797,
+      "sha256": "d7c4c65d1807bce34f41fefe6b19df2c7532eca61cccd0caeb4b24b88e86de15"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime36.png",
+      "bytes": 10731,
+      "sha256": "d97f3834a112eb5f607d8e345dd2ec1309654c56464786b6b304941b0c5d1f34"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime37.png",
+      "bytes": 13913,
+      "sha256": "8e1b2293f4976029fae61fdc1da252638b76d5c9e2402c4e4a024f9a5cf07dff"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime38.png",
+      "bytes": 11941,
+      "sha256": "312840614c9f17e381cffc1ba4b83dba6961cabf35addfa13fefcfbc5f70d1eb"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime39.png",
+      "bytes": 13021,
+      "sha256": "450f22bfd710ca4a7a731820a80ed2068afe872ddee07e9fc861b5b5e99724ba"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime4.png",
+      "bytes": 11456,
+      "sha256": "7d25c9a84d27959b76a5e69c8c83ec53d163ab57a2b01790387336ffb38d5541"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime40.png",
+      "bytes": 14146,
+      "sha256": "62fe3872b84a163575a1ae2681bc5b55b9ee4e597c0099c4ead7767b0bdd4a7e"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime41.png",
+      "bytes": 18262,
+      "sha256": "c73e258f9a64975e6219d6260085bd76c92851ae128ef268fba94853733d8c0e"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime42.png",
+      "bytes": 13076,
+      "sha256": "8dd8797090ee1d375f5229f61a28560119d69edd9ea1ea5dedf2c502be54d853"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime43.png",
+      "bytes": 12505,
+      "sha256": "0fef5946979f9e8dfbbf1f2ef98f9c11950a12f9bd2c1d45fdfef13cbc91ecd6"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime44.png",
+      "bytes": 11228,
+      "sha256": "9ebfcf7d954e34d97547076b1ab2f81fa3e05a45a615197416095336af6673ae"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime45.png",
+      "bytes": 9583,
+      "sha256": "2c883b12e96dd84f3d890178c2c7dda2bb9c19c22c1c00e20b4e8c13fb5657a7"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime46.png",
+      "bytes": 3650,
+      "sha256": "e24a6ff9171ffd64174f79af00650bd7b5445a25a0b212a1f82348d81f35fbae"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime46u.png",
+      "bytes": 2036,
+      "sha256": "0f87451d4f387dc98e8797058b701e2bd05e9816c8a04fe1d0241ccadf9ed59d"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime46w.png",
+      "bytes": 366,
+      "sha256": "37ba2b3147710498dfacc633d6259ce3188c73ae7aeee9f3ae2680d44159ac19"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime47.png",
+      "bytes": 10177,
+      "sha256": "2f62d3a7f4eea07b372d526cdbeb17f735d60cc8230c485c91138028ea80372f"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime47w.png",
+      "bytes": 10115,
+      "sha256": "e55402dcb36b53e3dd04f2ef34f03de201b7b3da8c142cafb3e5aac97134e27d"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime4a.png",
+      "bytes": 11457,
+      "sha256": "e50cb4141d204b19f79fe3a1a9df5ffe87acd2a5d19554808972085567bd91aa"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime5.png",
+      "bytes": 11775,
+      "sha256": "3df791c2d8dfbd18ddbddde38a391d28209422c1cc9f499caab569740ea449a9"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime5a.png",
+      "bytes": 13549,
+      "sha256": "45f43b1faffff752c40f738a239819674ee83d2d3c693ac704a2a34e926c5653"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime5b.png",
+      "bytes": 12159,
+      "sha256": "22851e91e2da574a6196f5e41d86923b9a5720fe0e2dee51c3b6dd02c5b5166a"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime5w.png",
+      "bytes": 11714,
+      "sha256": "2e7416bcdb14db1868de1588aeb3a434343a22bb4bf0be2ecd94e591c467d798"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime6.png",
+      "bytes": 13549,
+      "sha256": "45f43b1faffff752c40f738a239819674ee83d2d3c693ac704a2a34e926c5653"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime7.png",
+      "bytes": 12370,
+      "sha256": "7d9da9d538a0a8b33ab231c77dd0ba2be086bfdc80fe02bb119ed2dfe36beb8c"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime8.png",
+      "bytes": 12403,
+      "sha256": "6e8905f76da9b290bc7d1079ded8209c4c3652fac2904e3ca54864908fb3f791"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/shime9.png",
+      "bytes": 12645,
+      "sha256": "43e6207f89bb0eca46cceadb0bd3b2b77a8cdc35fb267a15d80c00e806a26ca2"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/sprint1.png",
+      "bytes": 17526,
+      "sha256": "541519218529da20acac25e1f8d6e828e33d684b847e057f41c5023c7fb9c9c2"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/sprint2.png",
+      "bytes": 17152,
+      "sha256": "c54a55fa1f8b0065a4bb3ba317b416d5e03ee0efa802531b9bfc18f5233247bd"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/sprint3.png",
+      "bytes": 17896,
+      "sha256": "c9a749b8f7059e005f87513a595e4e9586a7fa1e8112125bb19fdcc71fb05fcd"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/trip1.png",
+      "bytes": 16408,
+      "sha256": "cf8df7dbbe761ae391d01c1cdd7ba0e443069c3ac932e9d639f814404487dcde"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/trip2.png",
+      "bytes": 11443,
+      "sha256": "347d81e87148d853df87da1df13ff31f4f026a87cea8d3144b43b9ad43f3e14b"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/trip3.png",
+      "bytes": 12250,
+      "sha256": "4e4c43a7a40ee2eed52b3d972b2b2e17ed47d27cddfb83972d5debc91d41dff6"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/tutel1.png",
+      "bytes": 15487,
+      "sha256": "dfff06b8fde71502f4a17d4f5c10ae51f1d9f92625774ef4ebb5707a450ed22b"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/tutel2.png",
+      "bytes": 13686,
+      "sha256": "de1d0dbb86c256fbc8021223d42b82a924866beec223edc6e7b5971270274e90"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/warning1.png",
+      "bytes": 2806,
+      "sha256": "2af2b52f6624c5578895ca8849143e684602ad0f3e24670e45aa49eb7c22969c"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/img/warning2.png",
+      "bytes": 3547,
+      "sha256": "5ca50049a22a3a9e210ad67a1042d08396fd9330197e80a8212d33b26b19a68c"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/info.json",
+      "bytes": 281,
+      "sha256": "97436a86619b01830512ea0243fba50579a2d59ceac1e1b062ff70bccf43c314"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/LICENSE",
+      "bytes": 2802,
+      "sha256": "16b4be5b73da9ee82dee1b6e97461444e4e5388eb57d8cbc73aed7c6df7b713b"
+    },
+    {
+      "path": "assets/mascot_pack/Eviling/LICENSE-CC-BY-NC-SA-4.0.txt",
+      "bytes": 19018,
+      "sha256": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11"
+    }
+  ]
+}
