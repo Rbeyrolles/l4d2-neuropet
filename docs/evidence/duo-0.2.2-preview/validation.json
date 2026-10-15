@@ -1,0 +1,1230 @@
+{
+  "date": "2026-10-12",
+  "version": "0.2.2-preview",
+  "vpk": "l4d2_neuropet_duo_interactive.vpk",
+  "sha256": "dea53d07bd710b424ab7aa8cfe12d6153c000564190311c21314f8d529ec9ac9",
+  "bytes": 121317389,
+  "files": 17,
+  "previous_version_audit": {
+    "source_sha256": "c297c03e8fe161e965b017ef0a5c19a8ea2af5c9bea7cb657de4abe3ce504280",
+    "seconds_simulated": 14400,
+    "initiators": {
+      "evil": 49,
+      "neuro": 47
+    },
+    "first_ten_minutes": {
+      "evil": 3
+    },
+    "slow_approaches": [
+      {
+        "second": 42,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 55.3333740234375,
+        "speed": 6.9166717529296875
+      },
+      {
+        "second": 876,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 15.999710083007812,
+        "speed": 1.9999637603759766
+      },
+      {
+        "second": 1169,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 29.000152587890625,
+        "speed": 3.625019073486328
+      },
+      {
+        "second": 2195,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 17.3331298828125,
+        "speed": 2.1666412353515625
+      },
+      {
+        "second": 4477,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 97.99992370605469,
+        "speed": 12.249990463256836
+      },
+      {
+        "second": 5332,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 28.333831787109375,
+        "speed": 3.541728973388672
+      },
+      {
+        "second": 6850,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 31.334014892578125,
+        "speed": 3.9167518615722656
+      },
+      {
+        "second": 7248,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 35.99982833862305,
+        "speed": 4.499978542327881
+      },
+      {
+        "second": 7563,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 40.99977207183838,
+        "speed": 5.124971508979797
+      },
+      {
+        "second": 7653,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 3.333892822265625,
+        "speed": 0.4167366027832031
+      },
+      {
+        "second": 8013,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 117.33306884765625,
+        "speed": 14.666633605957031
+      },
+      {
+        "second": 8582,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 66.66765117645264,
+        "speed": 8.33345639705658
+      },
+      {
+        "second": 9273,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 104.99990844726562,
+        "speed": 13.124988555908203
+      },
+      {
+        "second": 9728,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 39.66713047027588,
+        "speed": 4.958391308784485
+      },
+      {
+        "second": 10054,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 59.000244140625,
+        "speed": 7.375030517578125
+      },
+      {
+        "second": 10199,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 18.000606536865234,
+        "speed": 2.2500758171081543
+      },
+      {
+        "second": 10793,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 6.000377655029297,
+        "speed": 0.7500472068786621
+      },
+      {
+        "second": 11143,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 110.00112533569336,
+        "speed": 13.75014066696167
+      },
+      {
+        "second": 11273,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 82.0001335144043,
+        "speed": 10.250016689300537
+      },
+      {
+        "second": 11600,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 44.332637786865234,
+        "speed": 5.541579723358154
+      },
+      {
+        "second": 11979,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 28.000328063964844,
+        "speed": 3.5000410079956055
+      },
+      {
+        "second": 12096,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 101.33215713500977,
+        "speed": 12.66651964187622
+      },
+      {
+        "second": 12895,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 100.00003910064697,
+        "speed": 12.500004887580872
+      },
+      {
+        "second": 12972,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 119.33437728881836,
+        "speed": 14.916797161102295
+      },
+      {
+        "second": 13102,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 82.0001335144043,
+        "speed": 10.250016689300537
+      },
+      {
+        "second": 13429,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 44.332637786865234,
+        "speed": 5.541579723358154
+      },
+      {
+        "second": 13946,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 54.999961853027344,
+        "speed": 6.874995231628418
+      },
+      {
+        "second": 14285,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 12.66665267944336,
+        "speed": 1.58333158493042
+      }
+    ],
+    "events": [
+      {
+        "second": 42,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 55.3333740234375,
+        "speed": 6.9166717529296875
+      },
+      {
+        "second": 99,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 273.99998474121094,
+        "speed": 34.24999809265137
+      },
+      {
+        "second": 497,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 747.6667098999023,
+        "speed": 93.4583387374878
+      },
+      {
+        "second": 876,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 15.999710083007812,
+        "speed": 1.9999637603759766
+      },
+      {
+        "second": 957,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 465.33305740356445,
+        "speed": 58.16663217544556
+      },
+      {
+        "second": 1120,
+        "giver": 0,
+        "approach_seconds": 0.0,
+        "travel_units": 0.0,
+        "speed": 0
+      },
+      {
+        "second": 1169,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 29.000152587890625,
+        "speed": 3.625019073486328
+      },
+      {
+        "second": 1232,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 492.99993896484375,
+        "speed": 61.62499237060547
+      },
+      {
+        "second": 1529,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 214.66536712646484,
+        "speed": 26.833170890808105
+      },
+      {
+        "second": 1664,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 615.0008697509766,
+        "speed": 76.87510871887207
+      },
+      {
+        "second": 1783,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 448.0001792907715,
+        "speed": 56.000022411346436
+      },
+      {
+        "second": 1864,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 660.9999046325684,
+        "speed": 82.62498807907104
+      },
+      {
+        "second": 1949,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 144.00010299682617,
+        "speed": 18.00001287460327
+      },
+      {
+        "second": 2006,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 372.00014877319336,
+        "speed": 46.50001859664917
+      },
+      {
+        "second": 2195,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 17.3331298828125,
+        "speed": 2.1666412353515625
+      },
+      {
+        "second": 2289,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 322.33319091796875,
+        "speed": 40.291648864746094
+      },
+      {
+        "second": 2485,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 269.00000381469727,
+        "speed": 33.62500047683716
+      },
+      {
+        "second": 2611,
+        "giver": 0,
+        "approach_seconds": 0.0,
+        "travel_units": 0.0,
+        "speed": 0
+      },
+      {
+        "second": 2753,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 554.6661472320557,
+        "speed": 69.33326840400696
+      },
+      {
+        "second": 2834,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 586.0000762939453,
+        "speed": 73.25000953674316
+      },
+      {
+        "second": 3051,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 292.0000305175781,
+        "speed": 36.500003814697266
+      },
+      {
+        "second": 3228,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 215.33372497558594,
+        "speed": 26.916715621948242
+      },
+      {
+        "second": 3369,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 235.99969482421875,
+        "speed": 29.499961853027344
+      },
+      {
+        "second": 3817,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 161.99990844726562,
+        "speed": 20.249988555908203
+      },
+      {
+        "second": 3876,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 744.0001029968262,
+        "speed": 93.00001287460327
+      },
+      {
+        "second": 3983,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 444.3344535827637,
+        "speed": 55.54180669784546
+      },
+      {
+        "second": 4247,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 128.6674346923828,
+        "speed": 16.08342933654785
+      },
+      {
+        "second": 4348,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 409.66680908203125,
+        "speed": 51.208351135253906
+      },
+      {
+        "second": 4477,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 97.99992370605469,
+        "speed": 12.249990463256836
+      },
+      {
+        "second": 4622,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 169.3341064453125,
+        "speed": 21.166763305664062
+      },
+      {
+        "second": 4679,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 273.99998474121094,
+        "speed": 34.24999809265137
+      },
+      {
+        "second": 4791,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 403.6670551300049,
+        "speed": 50.45838189125061
+      },
+      {
+        "second": 4890,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 396.00006580352783,
+        "speed": 49.50000822544098
+      },
+      {
+        "second": 4995,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 378.3333435058594,
+        "speed": 47.29166793823242
+      },
+      {
+        "second": 5332,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 28.333831787109375,
+        "speed": 3.541728973388672
+      },
+      {
+        "second": 5419,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 633.9999332427979,
+        "speed": 79.24999165534973
+      },
+      {
+        "second": 5604,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 142.33359146118164,
+        "speed": 17.791698932647705
+      },
+      {
+        "second": 5734,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 381.0000915527344,
+        "speed": 47.6250114440918
+      },
+      {
+        "second": 5850,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 136.66676330566406,
+        "speed": 17.083345413208008
+      },
+      {
+        "second": 5969,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 229.33309936523438,
+        "speed": 28.666637420654297
+      },
+      {
+        "second": 6333,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 454.66639137268066,
+        "speed": 56.83329892158508
+      },
+      {
+        "second": 6414,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 239.00010681152344,
+        "speed": 29.87501335144043
+      },
+      {
+        "second": 6471,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 320.00001525878906,
+        "speed": 40.00000190734863
+      },
+      {
+        "second": 6656,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 216.99985313415527,
+        "speed": 27.12498164176941
+      },
+      {
+        "second": 6850,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 31.334014892578125,
+        "speed": 3.9167518615722656
+      },
+      {
+        "second": 6965,
+        "giver": 0,
+        "approach_seconds": 0.0,
+        "travel_units": 0.0,
+        "speed": 0
+      },
+      {
+        "second": 7248,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 35.99982833862305,
+        "speed": 4.499978542327881
+      },
+      {
+        "second": 7415,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 396.3336181640625,
+        "speed": 49.54170227050781
+      },
+      {
+        "second": 7496,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 155.33324432373047,
+        "speed": 19.41665554046631
+      },
+      {
+        "second": 7563,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 40.99977207183838,
+        "speed": 5.124971508979797
+      },
+      {
+        "second": 7653,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 3.333892822265625,
+        "speed": 0.4167366027832031
+      },
+      {
+        "second": 8013,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 117.33306884765625,
+        "speed": 14.666633605957031
+      },
+      {
+        "second": 8173,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 481.6669692993164,
+        "speed": 60.20837116241455
+      },
+      {
+        "second": 8315,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 457.00025939941406,
+        "speed": 57.12503242492676
+      },
+      {
+        "second": 8396,
+        "giver": 1,
+        "approach_seconds": 0.0,
+        "travel_units": 0.0,
+        "speed": 0
+      },
+      {
+        "second": 8582,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 66.66765117645264,
+        "speed": 8.33345639705658
+      },
+      {
+        "second": 8856,
+        "giver": 1,
+        "approach_seconds": 0.0,
+        "travel_units": 0.0,
+        "speed": 0
+      },
+      {
+        "second": 9017,
+        "giver": 0,
+        "approach_seconds": 0.0,
+        "travel_units": 0.0,
+        "speed": 0
+      },
+      {
+        "second": 9066,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 510.0013732910156,
+        "speed": 63.75017166137695
+      },
+      {
+        "second": 9143,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 168.66437530517578,
+        "speed": 21.083046913146973
+      },
+      {
+        "second": 9273,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 104.99990844726562,
+        "speed": 13.124988555908203
+      },
+      {
+        "second": 9333,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 737.0003700256348,
+        "speed": 92.12504625320435
+      },
+      {
+        "second": 9533,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 250.00032806396484,
+        "speed": 31.250041007995605
+      },
+      {
+        "second": 9728,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 39.66713047027588,
+        "speed": 4.958391308784485
+      },
+      {
+        "second": 9882,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 127.00039386749268,
+        "speed": 15.875049233436584
+      },
+      {
+        "second": 10054,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 59.000244140625,
+        "speed": 7.375030517578125
+      },
+      {
+        "second": 10118,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 653.666410446167,
+        "speed": 81.70830130577087
+      },
+      {
+        "second": 10199,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 18.000606536865234,
+        "speed": 2.2500758171081543
+      },
+      {
+        "second": 10273,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 328.3300552368164,
+        "speed": 41.04125690460205
+      },
+      {
+        "second": 10685,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 250.66674900054932,
+        "speed": 31.333343625068665
+      },
+      {
+        "second": 10793,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 6.000377655029297,
+        "speed": 0.7500472068786621
+      },
+      {
+        "second": 10850,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 218.00002670288086,
+        "speed": 27.250003337860107
+      },
+      {
+        "second": 10939,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 272.9999713897705,
+        "speed": 34.12499642372131
+      },
+      {
+        "second": 11066,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 174.99996185302734,
+        "speed": 21.874995231628418
+      },
+      {
+        "second": 11143,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 110.00112533569336,
+        "speed": 13.75014066696167
+      },
+      {
+        "second": 11273,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 82.0001335144043,
+        "speed": 10.250016689300537
+      },
+      {
+        "second": 11600,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 44.332637786865234,
+        "speed": 5.541579723358154
+      },
+      {
+        "second": 11819,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 255.66729354858398,
+        "speed": 31.958411693572998
+      },
+      {
+        "second": 11876,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 218.00004959106445,
+        "speed": 27.250006198883057
+      },
+      {
+        "second": 11979,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 28.000328063964844,
+        "speed": 3.5000410079956055
+      },
+      {
+        "second": 12036,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 500.00003814697266,
+        "speed": 62.50000476837158
+      },
+      {
+        "second": 12096,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 101.33215713500977,
+        "speed": 12.66651964187622
+      },
+      {
+        "second": 12429,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 307.66651153564453,
+        "speed": 38.458313941955566
+      },
+      {
+        "second": 12646,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 243.66725635528564,
+        "speed": 30.458407044410706
+      },
+      {
+        "second": 12735,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 603.6667556762695,
+        "speed": 75.45834445953369
+      },
+      {
+        "second": 12895,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 100.00003910064697,
+        "speed": 12.500004887580872
+      },
+      {
+        "second": 12972,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 119.33437728881836,
+        "speed": 14.916797161102295
+      },
+      {
+        "second": 13102,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 82.0001335144043,
+        "speed": 10.250016689300537
+      },
+      {
+        "second": 13429,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 44.332637786865234,
+        "speed": 5.541579723358154
+      },
+      {
+        "second": 13648,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 255.66729354858398,
+        "speed": 31.958411693572998
+      },
+      {
+        "second": 13705,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 218.00004959106445,
+        "speed": 27.250006198883057
+      },
+      {
+        "second": 13808,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 148.33241271972656,
+        "speed": 18.54155158996582
+      },
+      {
+        "second": 13865,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 210.99984741210938,
+        "speed": 26.374980926513672
+      },
+      {
+        "second": 13946,
+        "giver": 0,
+        "approach_seconds": 8.0,
+        "travel_units": 54.999961853027344,
+        "speed": 6.874995231628418
+      },
+      {
+        "second": 14285,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 12.66665267944336,
+        "speed": 1.58333158493042
+      },
+      {
+        "second": 14377,
+        "giver": 1,
+        "approach_seconds": 8.0,
+        "travel_units": 122.33299255371094,
+        "speed": 15.291624069213867
+      }
+    ]
+  },
+  "fix": "Position-independent equal role intervals, distance-based walk/trot duration, own mirrored hug for left approach",
+  "diagnostic": null,
+  "clock_offset": 0,
+  "compiler_per_material": {
+    "proxies": 254,
+    "parameters": 106,
+    "scratch_registers": 17,
+    "coordinator": "analytic motion with shared integer decision clock"
+  },
+  "native_environment": {
+    "os": "Windows",
+    "resolution": "1280x720",
+    "mode": "local coop"
+  },
+  "native_scenes": [
+    "short-evil",
+    "short-neuro-left",
+    "seek-neuro",
+    "seek-evil-left",
+    "encounter-neuro-left",
+    "normal"
+  ],
+  "normal_native_observation_seconds": 60,
+  "human_observation": "走路、抱抱和恢复正常，没有看到闪烁或错位",
+  "native_material_errors": false,
+  "server_neuropet_brain_present": false,
+  "recording": {
+    "seconds": 120.76,
+    "frames": "3007"
+  },
+  "regression_checks": {
+    "compiler": [
+      {
+        "proxies": 254,
+        "parameters": 106,
+        "scratch_registers": 17,
+        "coordinator": "analytic motion with shared integer decision clock"
+      },
+      {
+        "proxies": 254,
+        "parameters": 106,
+        "scratch_registers": 17,
+        "coordinator": "analytic motion with shared integer decision clock"
+      }
+    ],
+    "scenes": [
+      {
+        "scene": "seek-neuro",
+        "frames": 28,
+        "hug_seconds_observed": 4.033333333333333,
+        "first_hug": 6.933333333333334,
+        "receiver_hidden_and_restored": true
+      },
+      {
+        "scene": "seek-neuro-left",
+        "frames": 28,
+        "hug_seconds_observed": 4.033333333333333,
+        "first_hug": 6.933333333333334,
+        "receiver_hidden_and_restored": true
+      },
+      {
+        "scene": "seek-evil",
+        "frames": 28,
+        "hug_seconds_observed": 4.033333333333333,
+        "first_hug": 6.933333333333334,
+        "receiver_hidden_and_restored": true
+      },
+      {
+        "scene": "seek-evil-left",
+        "frames": 28,
+        "hug_seconds_observed": 4.033333333333333,
+        "first_hug": 6.933333333333334,
+        "receiver_hidden_and_restored": true
+      },
+      {
+        "scene": "short-neuro",
+        "frames": 28,
+        "hug_seconds_observed": 4.0,
+        "first_hug": 2.9,
+        "receiver_hidden_and_restored": true
+      },
+      {
+        "scene": "short-neuro-left",
+        "frames": 28,
+        "hug_seconds_observed": 4.0,
+        "first_hug": 2.9,
+        "receiver_hidden_and_restored": true
+      },
+      {
+        "scene": "short-evil",
+        "frames": 28,
+        "hug_seconds_observed": 4.0,
+        "first_hug": 2.9,
+        "receiver_hidden_and_restored": true
+      },
+      {
+        "scene": "short-evil-left",
+        "frames": 28,
+        "hug_seconds_observed": 4.0,
+        "first_hug": 2.9,
+        "receiver_hidden_and_restored": true
+      },
+      {
+        "scene": "encounter-neuro",
+        "frames": 28,
+        "hug_seconds_observed": 4.033333333333333,
+        "first_hug": 1.0,
+        "receiver_hidden_and_restored": true
+      },
+      {
+        "scene": "encounter-neuro-left",
+        "frames": 28,
+        "hug_seconds_observed": 4.033333333333333,
+        "first_hug": 1.0,
+        "receiver_hidden_and_restored": true
+      },
+      {
+        "scene": "encounter-evil",
+        "frames": 28,
+        "hug_seconds_observed": 4.033333333333333,
+        "first_hug": 1.0,
+        "receiver_hidden_and_restored": true
+      },
+      {
+        "scene": "encounter-evil-left",
+        "frames": 28,
+        "hug_seconds_observed": 4.033333333333333,
+        "first_hug": 1.0,
+        "receiver_hidden_and_restored": true
+      }
+    ],
+    "unequal_bindings": [
+      {
+        "case": "miss one binding at first transition",
+        "seconds": 300,
+        "comparisons": 17999,
+        "joint_actions": 1,
+        "coordinator_and_hug_visibility": "passed"
+      },
+      {
+        "case": "miss ten bindings at first transition",
+        "seconds": 300,
+        "comparisons": 17990,
+        "joint_actions": 1,
+        "coordinator_and_hug_visibility": "passed"
+      },
+      {
+        "case": "miss bindings during floor movement",
+        "seconds": 300,
+        "comparisons": 17984,
+        "joint_actions": 1,
+        "coordinator_and_hug_visibility": "passed"
+      },
+      {
+        "case": "15 fps versus 60 fps",
+        "seconds": 300,
+        "comparisons": 4500,
+        "joint_actions": 1,
+        "coordinator_and_hug_visibility": "passed"
+      },
+      {
+        "case": "receiver not updated during hidden hug",
+        "seconds": 22,
+        "comparisons": 1100,
+        "joint_actions": 1,
+        "coordinator_and_hug_visibility": "passed"
+      }
+    ],
+    "motion": {
+      "floor_units_per_second": {
+        "walk": 30.0,
+        "run": 60.000022888183594,
+        "creep": 7.999992370605469
+      },
+      "ten_minute_paired_states_and_clock_reset": "passed"
+    },
+    "approaches": {
+      "distance_speed_animation_cases": [
+        {
+          "gap": 26,
+          "from": "right",
+          "speed": 29.999570846148345,
+          "seconds": 0.0666666030883789,
+          "animation": "walk"
+        },
+        {
+          "gap": 36,
+          "from": "right",
+          "speed": 30.00011444091797,
+          "seconds": 0.4000000059604645,
+          "animation": "walk"
+        },
+        {
+          "gap": 55,
+          "from": "right",
+          "speed": 30.00011444091797,
+          "seconds": 1.0333331823349,
+          "animation": "walk"
+        },
+        {
+          "gap": 80,
+          "from": "right",
+          "speed": 30.00011444091797,
+          "seconds": 1.8666667938232422,
+          "animation": "walk"
+        },
+        {
+          "gap": 167.9,
+          "from": "right",
+          "speed": 29.999542236328125,
+          "seconds": 4.796666622161865,
+          "animation": "walk"
+        },
+        {
+          "gap": 168,
+          "from": "right",
+          "speed": 29.999542236328125,
+          "seconds": 4.800000190734863,
+          "animation": "walk"
+        },
+        {
+          "gap": 168.1,
+          "from": "right",
+          "speed": 60.00022888183594,
+          "seconds": 2.4016666412353516,
+          "animation": "run"
+        },
+        {
+          "gap": 380,
+          "from": "right",
+          "speed": 59.99908447265625,
+          "seconds": 5.933333396911621,
+          "animation": "run"
+        },
+        {
+          "gap": 700,
+          "from": "right",
+          "speed": 59.99908447265625,
+          "seconds": 11.2666654586792,
+          "animation": "run"
+        },
+        {
+          "gap": 26,
+          "from": "left",
+          "speed": 29.99991416922967,
+          "seconds": 0.0666666030883789,
+          "animation": "walk"
+        },
+        {
+          "gap": 36,
+          "from": "left",
+          "speed": 30.00011444091797,
+          "seconds": 0.4000000059604645,
+          "animation": "walk"
+        },
+        {
+          "gap": 55,
+          "from": "left",
+          "speed": 30.00011444091797,
+          "seconds": 1.0333331823349,
+          "animation": "walk"
+        },
+        {
+          "gap": 80,
+          "from": "left",
+          "speed": 30.00011444091797,
+          "seconds": 1.8666667938232422,
+          "animation": "walk"
+        },
+        {
+          "gap": 167.9,
+          "from": "left",
+          "speed": 30.00011444091797,
+          "seconds": 4.796666622161865,
+          "animation": "walk"
+        },
+        {
+          "gap": 168,
+          "from": "left",
+          "speed": 30.00011444091797,
+          "seconds": 4.800000190734863,
+          "animation": "walk"
+        },
+        {
+          "gap": 168.1,
+          "from": "left",
+          "speed": 59.999942779541016,
+          "seconds": 2.4016666412353516,
+          "animation": "run"
+        },
+        {
+          "gap": 380,
+          "from": "left",
+          "speed": 59.999942779541016,
+          "seconds": 5.933333396911621,
+          "animation": "run"
+        },
+        {
+          "gap": 700,
+          "from": "left",
+          "speed": 59.999942779541016,
+          "seconds": 11.2666654586792,
+          "animation": "run"
+        }
+      ],
+      "conditional_role_intervals": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "four_hour_simulation_initiators": {
+        "neuro": 59,
+        "evil": 54
+      },
+      "first_ten_minutes": [
+        {
+          "second": 68,
+          "giver": 1
+        },
+        {
+          "second": 430,
+          "giver": 0
+        }
+      ]
+    }
+  },
+  "original_202_frames_retained_per_character": true,
+  "mirrored_hug_frames": 28,
+  "mirrored_pixels_verified": true,
+  "single_pet_release_packages_unchanged": true,
+  "test_settings_restored": true,
+  "temporary_package_and_materials_removed": true,
+  "published_to_github_or_workshop": false,
+  "remaining_scope": "Floor interactions; arbitrary missing initiation windows or single-material reloads remain outside the tested scope",
+  "local_installed_addon_updated": true,
+  "old_installed_vpk_backed_up": true
+}

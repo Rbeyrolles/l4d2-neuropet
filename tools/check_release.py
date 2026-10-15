@@ -54,7 +54,7 @@ def main():
         assert hashlib.sha256((pack / "img" / name).read_bytes()).hexdigest() == digest
     material = data[manifest["material"]].decode("ascii")
     vm = ProxyVM(material)
-    assert len(vm.instructions) == manifest["proxy_count"] <= 256
+    assert len(vm.instructions) == manifest["proxy_count"] <= 255
     assert sum(name.startswith("$np_") for name in vm.values) == manifest["vmt_variables"] <= 155
     atlas = data[f"materials/vgui/{namespace}/poses.vtf"]
     assert atlas[:4] == b"VTF\0"

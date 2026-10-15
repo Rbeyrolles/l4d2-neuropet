@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-12",
+  "version": "0.2.0-preview",
+  "vpk": "l4d2_neuropet_duo_interactive.vpk",
+  "sha256": "654e239f2fdf36720fc1bf17f4ad94f532b77832e0354a2887d90b599a8d2543",
+  "bytes": 106635540,
+  "files": 17,
+  "normal_initial_state": true,
+  "diagnostic_clock_offset": 0,
+  "runtime_bytes_equal_to_native_startup": true,
+  "changes_after_native_test": [
+    "resource/neuropet_duo_interactive/evil/MODIFICATIONS.txt",
+    "resource/neuropet_duo_interactive/neuron/MODIFICATIONS.txt"
+  ],
+  "original_atlas_frames_preserved_per_character": 202,
+  "appended_blank_frame": 202,
+  "compiler_per_character": {
+    "proxies": 253,
+    "parameters": 99
+  },
+  "native_environment": {
+    "os": "Windows",
+    "resolution": "1280x720",
+    "mode": "local coop",
+    "map": "c1m1_hotel"
+  },
+  "native_scenes": [
+    "seek-neuro",
+    "seek-evil",
+    "encounter-neuro",
+    "encounter-evil",
+    "normal"
+  ],
+  "native_observation": "User confirmed: 显示稳定，抱抱和恢复活动正常",
+  "native_recording": {
+    "seconds": 118.64,
+    "frames": 2955,
+    "codec": "h264",
+    "game_window_only": true
+  },
+  "native_material_errors": false,
+  "server_neuropet_brain_present": false,
+  "test_settings_restored": true,
+  "temporary_package_and_materials_removed": true,
+  "single_pet_release_packages_unchanged": [
+    {
+      "vpk": "l4d2_neuropet_client.vpk",
+      "sha256": "6fb101a0d5fbcee878adac715c24cdeff0bc5d93f18dbe9c1e827f8f77094fa3"
+    },
+    {
+      "vpk": "l4d2_neuropet_evil_client.vpk",
+      "sha256": "76eb6a91607ccc240a7d90abe33c0498780026cad852409576e68ab5fef2b55a"
+    }
+  ],
+  "simulation": {
+    "scenarios": [
+      {
+        "scene": "seek-neuro",
+        "giver": 0,
+        "hug_frames": 28,
+        "first_hug_time": 9.0,
+        "hug_seconds_observed": 3.533333333333333,
+        "receiver_hidden_and_restored": true,
+        "paired_state_and_optimizer": "passed"
+      },
+      {
+        "scene": "seek-evil",
+        "giver": 1,
+        "hug_frames": 28,
+        "first_hug_time": 9.0,
+        "hug_seconds_observed": 3.533333333333333,
+        "receiver_hidden_and_restored": true,
+        "paired_state_and_optimizer": "passed"
+      },
+      {
+        "scene": "encounter-neuro",
+        "giver": 0,
+        "hug_frames": 28,
+        "first_hug_time": 1.1666666666666667,
+        "hug_seconds_observed": 3.533333333333333,
+        "receiver_hidden_and_restored": true,
+        "paired_state_and_optimizer": "passed"
+      },
+      {
+        "scene": "encounter-evil",
+        "giver": 1,
+        "hug_frames": 28,
+        "first_hug_time": 3.466666666666667,
+        "hug_seconds_observed": 3.533333333333333,
+        "receiver_hidden_and_restored": true,
+        "paired_state_and_optimizer": "passed"
+      }
+    ],
+    "normal": {
+      "bindings_per_material": 18000,
+      "simulated_seconds": 600,
+      "locations": [
+        "ceiling",
+        "floor",
+        "wall_or_fall"
+      ],
+      "modes": [
+        0.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "styles": [
+        "creep",
+        "run",
+        "walk"
+      ],
+      "joint_actions": 4,
+      "seek_actions": 4,
+      "same_time_bind_and_clock_reset": "passed",
+      "paired_state_and_optimizer": "passed"
+    },
+    "compiler": [
+      {
+        "proxies": 253,
+        "parameters": 99,
+        "scratch_registers": 15,
+        "sections": {
+          "clock": 10,
+          "actor0": 78,
+          "actor1": 146,
+          "interaction": 208,
+          "render": 253
+        },
+        "coordinator": "replicated deterministic two-pet perimeter state"
+      },
+      {
+        "proxies": 253,
+        "parameters": 99,
+        "scratch_registers": 15,
+        "sections": {
+          "clock": 10,
+          "actor0": 78,
+          "actor1": 146,
+          "interaction": 208,
+          "render": 253
+        },
+        "coordinator": "replicated deterministic two-pet perimeter state"
+      }
+    ]
+  },
+  "limits": [
+    "floor interactions only",
+    "right-to-left approach",
+    "third-party HUD conflicts remain",
+    "16:9 build",
+    "other servers/resolutions and performance difference unmeasured"
+  ],
+  "published_to_github_or_workshop": false
+}

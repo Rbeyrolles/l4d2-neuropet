@@ -3,7 +3,7 @@
   "project": "Neuropet",
   "maintainer": "Daisy, Shannon & Sol",
   "repository_url": "https://github.com/Rbeyrolles/l4d2-neuropet",
-  "release_stage": "pending publication",
+  "release_stage": "published on Steam Workshop",
   "editions": {
     "neuron": {
       "title": "Neuropet – Neuro-sama Screen Pet (Fan-made HUD Mascot)",
@@ -15,7 +15,8 @@
         "en": "Between zombie fights, tiny Neuro-sama walks, trots, crawls and climbs around your screen, hangs from the top, and sometimes rests, falls, trips or hugs.",
         "zh-CN": "打僵尸的间隙，小小的 Neuro-sama 在屏幕边缘走走、爬爬、挂着休息，偶尔松手跌落、绊一跤，或者停下来抱抱。"
       },
-      "workshop_publish_description": "docs/workshop/workshop_neuro-sama_publish.txt"
+      "workshop_publish_description": "docs/workshop/localized/neuro-sama/english.txt",
+      "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3820218016"
     },
     "evil": {
       "title": "Neuropet – Evil Neuro Screen Pet (Fan-made HUD Mascot)",
@@ -27,7 +28,8 @@
         "en": "Between zombie fights, tiny Evil Neuro walks, trots, crawls and climbs around your screen, hangs from the top, and sometimes rests, falls, trips or hugs.",
         "zh-CN": "打僵尸的间隙，小小的 Evil Neuro 在屏幕边缘走走、爬爬、挂着休息，偶尔松手跌落、绊一跤，或者停下来抱抱。"
       },
-      "workshop_publish_description": "docs/workshop/workshop_evil-neuro_publish.txt"
+      "workshop_publish_description": "docs/workshop/localized/evil-neuro/english.txt",
+      "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3820220066"
     }
   },
   "release_tag": "client-2026-10-11",

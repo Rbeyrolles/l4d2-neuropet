@@ -8,7 +8,10 @@ def addon_description(publication, character):
         raise ValueError("Addon descriptions must be nonempty text without quotes or NULs")
     # An actual newline is valid inside a quoted KeyValues string. Do not emit
     # a literal backslash-n, which some addon-info readers display as text.
-    return "\n".join(parts)
+    separator = publication["editions"][character].get("description_separator", "\n")
+    if separator not in ("\n", "\n\n"):
+        raise ValueError("Use one or two newlines between description languages")
+    return separator.join(parts)
 
 
 def addoninfo_text(publication, character, version):

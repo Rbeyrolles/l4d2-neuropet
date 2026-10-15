@@ -1,3 +1,5 @@
+> 历史资料：本说明保留 2026-10-11 以前的单宠文案交接背景，不再描述当前发布状态。当前三款版本请看 [README](../README.zh-CN.md)、[FAQ](FAQ.md) 与 [发布记录](PUBLISHING.md)。
+
 # 给 Claude：L4D2 Neuropet 发布文案讨论资料
 
 可以直接复制本文件作为上下文。它独立说明项目现状，不要求 Claude 已读过开发聊天，也不要求它访问本地工作区。资料日期：2026-10-07。
@@ -68,7 +70,7 @@
 
 运行时只需要普通客户端 addon。本机安装，服务器无需安装宠物脚本；玩家不需要 SourceMod、VSLib、Python、外部覆盖程序、浏览器、作弊命令或手动启动 VScript。Python 仅用于源码构建。
 
-两版都覆盖 scripts/hudlayout.res。发布文案明确“不保证与第三方 HUD Mod 兼容”，推荐原版 HUD；覆盖同一文件可能使宠物不显示或覆盖界面布局。B4B Modified HUD & UI（3041458606）也提供这一文件，不同加载顺序可以解释不同玩家的结果。当前发布版不自动合并 HUD；排障见 HUD_COMPATIBILITY.md。
+两版都覆盖 scripts/hudlayout.res。发布文案明确“不保证与第三方自定义 HUD Mod 兼容”，推荐原版 HUD；覆盖同一文件可能使宠物不显示或覆盖界面布局。第三方自定义 HUD Mod 如果也提供这一文件，不同加载顺序可以解释不同玩家的结果。当前发布版不自动合并 HUD；排障见 HUD_COMPATIBILITY.md。
 
 服务器仍可以限制客户端 addons。允许 addon 的环境中架构不要求服务器脚本，但远程实测尚未完成，不能写“所有服务器通用”“突破服务器限制”或“Versus 已验证”。
 

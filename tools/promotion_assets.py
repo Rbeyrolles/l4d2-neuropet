@@ -7,8 +7,8 @@ import json
 from PIL import Image
 
 
-def load_publication(root):
-    config = json.loads((Path(root) / "publication.json").read_text(encoding="utf-8"))
+def load_publication(root, filename="publication.json"):
+    config = json.loads((Path(root) / filename).read_text(encoding="utf-8"))
     if config.get("schema") != 1:
         raise ValueError("Unsupported publication configuration")
     return config
@@ -46,6 +46,8 @@ def prepare_cover(root, key, config):
         "The game's original sprite atlas is unaffected by cover preparation.\n"
         "Cover adaptation license: CC BY-NC-SA 4.0.\n"
         "https://creativecommons.org/licenses/by-nc-sa/4.0/\n")
+    if edition.get("cover_credits_file"):
+        credits = (Path(root) / edition["cover_credits_file"]).read_text(encoding="utf-8")
     metadata = {"cover_source": edition["cover"], "cover_source_sha256": edition["cover_sha256"],
                 "cover_source_size": size, "addon_image": "addonimage.jpg", "addon_image_size": [256, 256],
                 "addon_image_sha256": hashlib.sha256(icon).hexdigest(),

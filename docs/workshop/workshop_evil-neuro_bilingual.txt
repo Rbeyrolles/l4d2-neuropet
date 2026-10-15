@@ -1,6 +1,6 @@
 [i]中文说明在下方 ↓[/i]
 
-[h1]Neuropet – Evil Neuro Screen Pet (Fan-made HUD Mascot)[/h1]
+[h1]Neuropet – Evil Neuro Screen Pet[/h1]
 [i]A fan-made HUD mascot for Left 4 Dead 2 · v0.5.3[/i]
 
 Between zombie fights, a tiny Evil Neuro hangs out around the edges of your screen. She walks, trots, or slowly crawls along the bottom; climbs up the sides, travels along the top, hangs there for a while, and sometimes lets go and drops back down. Now and then she trips over, or stops for a hug.
@@ -18,22 +18,26 @@ This is an unofficial fan project. It only changes what's drawn on your HUD and 
 [h2]What's new in 0.5.3[/h2]
 Reduced the light outline that could show around her dark edges, by fixing how transparent edge pixels were sampled.
 
+[h2]Three packages, pick one[/h2]
+[list]
+[*][b]Evil Neuro[/b] (this item)
+[*][b]Neuro-sama[/b]: https://steamcommunity.com/sharedfiles/filedetails/?id=3820218016
+[*][b]Duo[/b]: Neuro-sama and Evil Neuro each roam on their own and sometimes find each other for a hug. https://steamcommunity.com/sharedfiles/filedetails/?id=3820220607
+[/list]
+Want both on screen? Choose Duo instead of enabling two single pets.
+
 [h2]Before you subscribe[/h2]
 [list]
-[*][b]Pick one character.[/b] There's also a Neuro-sama version: 【待填：Neuro-sama 工坊链接】. Enable only one at a time. To switch, unsubscribe from one, subscribe to the other, and restart the game.
-[*][b]HUD compatibility is not guaranteed.[/b] Third-party HUD mods replacing scripts/hudlayout.res may hide the pet or override HUD layout. The stock HUD is recommended. If the pet is missing, disable other HUD mods and restart L4D2.
-[*][b]She walks along the bottom edge.[/b] No space is reserved for health bars. She may overlap your HUD or be partly hidden by it, depending on the HUD.
+[*][b]Pick one package.[/b] Enable only one Neuropet package (Neuro-sama, Evil Neuro or Duo). Restart after switching; avoid duplicate manual and Workshop copies.
+[*][b]Third-party custom HUD mods.[/b] This addon replaces scripts/hudlayout.res, which many custom HUD mods also change, so it doesn't work together with many of them. If you use a custom HUD, you'll need to choose between it and Neuropet.
+[*][b]She walks in front of your HUD.[/b] She strolls right along the bottom edge and may pass in front of the health bars. That's on purpose w
 [*][b]Made for 16:9 screens.[/b] Other aspect ratios haven't been checked yet.
-[*]If you installed the VPK manually before, remove that copy so it isn't loaded twice.
 [/list]
 
 [h2]What it doesn't do[/h2]
 She's a little animation, not a game companion: no dragging or clicking, no AI, chat, voice or online features, and she doesn't read or react to in-game events. If she happens to fall right as a Tank shows up, that's just very good timing. (She'll tell you it was on purpose.)
 
 [h2]FAQ[/h2]
-[b]The pet is missing, or another HUD behaves differently.[/b]
-Enable only one pet edition, remove any duplicate manual/Workshop copy, disable other HUD mods, and restart. Test in a normal local co-op map after addons finish loading. If that fixes it, another HUD may have overridden the shared layout. Seeing both on one machine does not guarantee compatibility; this addon does not automatically merge HUDs.
-
 [b]Who's the other character in the hug?[/b]
 That's her twin sister Neuro-sama, making a guest appearance just for the hug. She's part of the animation, not a second pet.
 
@@ -46,10 +50,16 @@ No. It runs on your own game through the built-in HUD and material system, with 
 [b]Will she show up on every server?[/b]
 That depends on the server. Some servers don't allow custom client addons.
 
+[b]I subscribed, but I can't see her.[/b]
+First check whether another HUD mod is enabled. If so, disable it and restart the game. Enable only one Neuropet package (Neuro-sama, Evil Neuro or Duo).
+
 [h2]A few words from us[/h2]
 We know, we know: L4D2 is a game where you really should be watching out for Hunters, not a little girl hanging off the top of your screen. We made it anyway, because she's just too cute.
 
-The source code is on GitHub, so if you'd like to make your own pet, you don't have to start from zero. (The code is MIT; the artwork keeps its own license, see below.)
+As far as we could find, there wasn't a screen pet like this for L4D2 before, so this might be one of the first. The source code is on GitHub, so if you'd like to make your own pet, you don't have to start from zero. (The code is MIT; the artwork keeps its own license, see below.)
+
+[h2]Special thanks[/h2]
+Thank you to caviar and 枫落霜桥 for testing her, sharing ideas, and playing with her before she ever left home.
 
 [h2]Credits & license[/h2]
 [list]
@@ -67,7 +77,7 @@ Changes made for this addon: converted to game textures, mirrored for direction,
 Evil Neuro is an AI VTuber and Neuro-sama's twin sister. Official site: https://vedal.ai/ · Stream: https://www.twitch.tv/vedal987
 This pet only uses her likeness and is not connected to her AI or stream. This is a fan project, not affiliated with or endorsed by Vedal, and it claims no ownership of the characters.
 
-Source code: https://github.com/Rbeyrolles/l4d2-neuropet · Feedback: https://github.com/Rbeyrolles/l4d2-neuropet/issues · Made by Daisy, Shannon & Sol
+Source code: https://github.com/Rbeyrolles/l4d2-neuropet · Made by Daisy, Shannon & Sol
 
 ━━━━━━━━━━━━━━━━━━━━
 
@@ -89,22 +99,26 @@ Source code: https://github.com/Rbeyrolles/l4d2-neuropet · Feedback: https://gi
 [h2]0.5.3 更新[/h2]
 修复了透明边缘的采样问题，减轻了她深色轮廓周围可能出现的浅色白边。
 
+[h2]三款选一款[/h2]
+[list]
+[*][b]Evil Neuro 单宠版[/b]（本条目）
+[*][b]Neuro-sama 单宠版[/b]：https://steamcommunity.com/sharedfiles/filedetails/?id=3820218016
+[*][b]Duo 双宠版[/b]：Neuro-sama 和 Evil Neuro 各自活动，偶尔去找对方抱抱。https://steamcommunity.com/sharedfiles/filedetails/?id=3820220607
+[/list]
+想让两只一起出现，请选择 Duo，无需同时启用两款单宠。
+
 [h2]订阅前请看[/h2]
 [list]
-[*][b]二选一：[/b]另有 Neuro-sama 版：【待填：Neuro-sama 工坊链接】。每次只启用一个；想换角色时，取消订阅一个、订阅另一个，然后重启游戏。
-[*][b]不保证与第三方 HUD Mod 兼容：[/b]修改同一份 scripts/hudlayout.res 时，可能导致宠物不显示或界面布局被覆盖。推荐使用原版 HUD；遇到问题请先停用其他 HUD Mod 并重启游戏。
-[*][b]她会沿着底边走过：[/b]底部没有血条避让空间；根据 HUD 绘制顺序，她可能与控件重叠，也可能被部分遮住。
+[*][b]三款选一款：[/b]每次只启用一款 Neuropet（Neuro-sama、Evil Neuro 或 Duo），切换后重启；工坊订阅与手动安装不要重复。
+[*][b]第三方自定义 HUD Mod：[/b]本插件会替换 scripts/hudlayout.res，很多自定义 HUD 插件也会修改这个文件，所以通常无法和它们同时使用。如果你在用自定义 HUD，需要在它和本插件之间选一个。
+[*][b]她会从 HUD 前面走过：[/b]她贴着屏幕底边散步，可能会从血条前面经过。不过这是故意的w
 [*][b]按 16:9 屏幕制作：[/b]其他屏幕比例暂未确认。
-[*]如果之前手动安装过 VPK，请删除那份副本，避免重复加载。
 [/list]
 
 [h2]她不会做的事[/h2]
 她只是一段小动画，不是游戏助手：不能拖拽或点击，没有 AI、聊天、语音或联网功能，也不会读取或响应游戏事件。如果她刚好在 Tank 出现时掉下来，那只是时机太巧啦。（虽然她会说是故意的。）
 
 [h2]常见问题[/h2]
-[b]宠物不显示，或者其他 HUD 布局变了？[/b]
-只启用一版桌宠，清理重复的手动安装／工坊副本，停用其他 HUD Mod 并重启。等待附加内容加载完成后，在普通本地合作关卡测试。若恢复正常，可能是共享 HUD 布局被覆盖；某台电脑能同时显示也不代表兼容保证。本插件不自动合并 HUD。
-
 [b]抱抱画面里的另一个角色是谁？[/b]
 那是她的双胞胎姐妹 Neuro-sama，专门为抱抱友情客串。她只是动画的一部分，不是第二只宠物。
 
@@ -117,10 +131,16 @@ Source code: https://github.com/Rbeyrolles/l4d2-neuropet · Feedback: https://gi
 [b]所有服务器都能看到她吗？[/b]
 要看服务器的设置，有些服务器不允许使用自定义的客户端附加内容。
 
+[b]订阅了却看不到她？[/b]
+先看看是否启用了其他 HUD 插件。如果有，请停用后重启游戏。也请确认每次只启用一款 Neuropet（Neuro-sama、Evil Neuro 或 Duo）。
+
 [h2]我们的碎碎念[/h2]
 我们也知道，在一个本该时刻提防 Hunter 的游戏里，放一个挂在屏幕顶上的小家伙，好像有点奇怪。但她实在太可爱了，所以我们还是做了。
 
-源码放在 GitHub 上，如果你也想做自己的小宠物，不用从零开始。（代码采用 MIT，角色图片沿用各自的许可，见下方。）
+就我们查到的范围，L4D2 之前好像还没有这样的屏幕小宠物，这也许是最早的几个之一。源码放在 GitHub 上，如果你也想做自己的小宠物，不用从零开始。（代码采用 MIT，角色图片沿用各自的许可，见下方。）
+
+[h2]特别感谢[/h2]
+感谢 caviar 和 枫落霜桥 帮忙测试、提出建议，也谢谢你们在她出门之前，先陪她玩了一圈。
 
 [h2]署名与许可[/h2]
 [list]
@@ -138,8 +158,4 @@ Source code: https://github.com/Rbeyrolles/l4d2-neuropet · Feedback: https://gi
 Evil Neuro 是 AI VTuber，也是 Neuro-sama 的双胞胎姐妹。官方网站：https://vedal.ai/ · 直播：https://www.twitch.tv/vedal987
 本宠物只使用角色形象，没有接入她的 AI 或直播。这是粉丝作品，与 Vedal 无关联、未获其认可，也不主张对角色的任何所有权。
 
-源码：https://github.com/Rbeyrolles/l4d2-neuropet · 反馈：https://github.com/Rbeyrolles/l4d2-neuropet/issues · 制作：Daisy, Shannon & Sol
-
-
-Cover: AI-assisted composition based on original mascot artwork by Paccha (CC BY-NC-SA 4.0).
-封面：基于 Paccha 原抱抱素材的 AI 辅助设计与镜像编辑，许可 CC BY-NC-SA 4.0。
+源码：https://github.com/Rbeyrolles/l4d2-neuropet · 制作：Daisy、Shannon 和 Sol

@@ -75,6 +75,8 @@ class ProxyVM:
                     value = a - b
                 elif name == "Multiply":
                     value = a * b
+                elif name == "Abs":
+                    value = abs(a)
                 elif name == "Divide":
                     value = a / b if b else a
                 elif name == "Clamp":

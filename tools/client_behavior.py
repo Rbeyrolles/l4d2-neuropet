@@ -1,4 +1,4 @@
-"""A compact, persistent client behavior within L4D2's 256-proxy budget.
+"""A compact, persistent client behavior within L4D2's 255-proxy budget.
 
 Random values are held for a whole excursion. Five reusable motion phases
 cover short floor walks, partial wall climbs, ceiling drops and perimeter tours.
@@ -340,7 +340,8 @@ def compile_behavior(routes, poses, aspect, test_speed=1, fixed=False, preview_t
     p.emit("TextureTransform", centerVar=center, scaleVar=scale, translateVar=translate, resultVar="$basetexturetransform")
     p.copy(time, previous)
     p.deduplicate_constants()
-    assert len(p.proxies) <= 256, len(p.proxies)
+    # Native L4D2 also rejects exactly 256 proxies (2026-10-12 duo check).
+    assert len(p.proxies) <= 255, len(p.proxies)
     assert len(p.values) <= TESTED_PARAMETER_BUDGET, ("Compact material parameters before shipping", len(p.values))
     return p
 

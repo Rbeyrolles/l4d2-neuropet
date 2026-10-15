@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "project": "Neuropet Duo",
+  "maintainer": "Daisy, Shannon & Sol",
+  "editions": {
+    "duo": {
+      "title": "Neuropet – Neuro-sama & Evil Neuro Screen Pets (Fan-made HUD Mascots)",
+      "cover": "assets/promotion/duo/cover.png",
+      "cover_sha256": "bae2161dc3361a0e7fca5260c941f9567aff2c23998f788c55713598a32f6f90",
+      "cover_credits_file": "assets/promotion/duo/COVER-CREDITS.txt",
+      "description_separator": "\n\n",
+      "addon_description": {
+        "en": "Between zombie fights, tiny Neuro-sama and Evil Neuro roam, climb and rest around your screen. Sometimes they tumble; sometimes one goes looking for the other. A little hug, then off they go again.",
+        "zh-CN": "打僵尸的间隙，小小的 Neuro-sama 和 Evil Neuro 一起住进了屏幕边缘。她们各自走走、爬爬、挂着休息，偶尔跌落或绊一跤。有时，一只会去找另一只，停下来抱抱，再各自出发。"
+      },
+      "slug": "duo",
+      "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3820220607",
+      "workshop_description": "docs/workshop/workshop_duo_bilingual.txt",
+      "workshop_publish_description": "docs/workshop/localized/duo/english.txt"
+    }
+  },
+  "repository_url": "https://github.com/Rbeyrolles/l4d2-neuropet",
+  "release_stage": "published on Steam Workshop"
+}

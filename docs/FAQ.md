@@ -1,0 +1,71 @@
+# Neuropet FAQ / 常见问题
+
+适用于三款版本。工坊讨论帖用的 BBCode 版本见 [FAQ-bbcode.txt](workshop/FAQ-bbcode.txt)。
+
+---
+
+## English
+
+**1. Which one should I get?**
+Want one pet? Pick Neuro-sama or Evil Neuro. Want both on screen? Pick Duo. Neuropet comes in three packages; enable only one of them.
+
+**2. Can I enable the Neuro-sama and Evil Neuro packages together to get two pets?**
+No. Both replace the same HUD file, so they don't add up to two pets. Duo is the version made for having both: they roam separately and sometimes meet for a hug.
+
+**3. Duo is 0.2.3 but the single pets are 0.5.x. Is Duo older?**
+No. Each package has its own version numbers. Duo 0.2.3 is the newest Duo, not a downgrade.
+
+**4. I don't see any pet.**
+The pets only appear on the HUD after you load into a map, not in the main menu. If they're still missing: make sure only one Neuropet package is enabled, remove duplicate manual and Workshop copies, disable other HUD mods, restart the game, and check in an ordinary local co-op map.
+
+**5. Duo hasn't hugged yet. Is it broken?**
+Probably not. Hugs only happen when both are on the bottom edge. After a hug there's at least about 45 seconds before the next one, and their positions and a bit of luck decide the rest, so it can take a while. Walls and the top edge never have hugs. In the single-pet editions, the occasional guest-character hug is a separate animation and does not use Duo's two-pet conditions.
+
+**6. Does it work in multiplayer? Does the server need it?**
+It's a client-only addon: nothing is installed on the server, and only you see your pets. Some servers restrict client addons, so it may not load everywhere. It has been tested in local co-op on Windows; remote servers, Versus, Scavenge and split-screen haven't been fully tested.
+
+**7. Does it work with my HUD mod?**
+Not guaranteed. Every Neuropet package replaces `scripts/hudlayout.res`, and other HUD mods often do too. The stock HUD is recommended. Seeing both on one PC doesn't mean they're compatible; this addon doesn't merge or reorder other HUDs.
+
+**8. Does it affect gameplay or performance?**
+It doesn't change gameplay and doesn't react to game events. A fall right as a Tank arrives is a coincidence. There are no formal performance measurements, so we don't make performance claims. Duo does more material calculation than a single pet.
+
+**9. Do they hold hands like on the cover? Will they move like in the video?**
+The hand-in-hand cover and the waving end card are AI-assisted illustrations; in game, they hug. The video was staged to show every action at its normal speed. The release picks routes, poses and meetings at random, so it won't follow the video's order.
+
+**10. One of them is half off the screen, sitting on my HUD, or out of sync.**
+On the sides and top, part of them can go past the edge, as if holding on. That's intended. Along the bottom they can overlap the HUD; there's no HUD avoidance. If the two ever look out of sync (for example, a hug only one of them seems to join), fully restart the game.
+
+---
+
+## 中文
+
+**1. 我该装哪一款？**
+想要一只，就选 Neuro-sama 或 Evil Neuro 单宠版；想让两只一起出现，就选 Duo 双宠版。三款每次只启用一款。
+
+**2. 同时启用 Neuro-sama 和 Evil Neuro 两款单宠，能变成两只吗？**
+不能。两款单宠会替换同一份 HUD 文件，叠在一起不会变成两只。专门为两只一起准备的是 Duo：她们各自活动，偶尔碰面抱抱。
+
+**3. Duo 是 0.2.3，单宠是 0.5.x，Duo 是旧版吗？**
+不是。三款分别编号，Duo 0.2.3 就是目前最新的 Duo，不是降级。
+
+**4. 我看不到宠物。**
+宠物在进入关卡后才会出现在 HUD 上，主菜单里看不到是正常的。如果进关后仍没有：确认只启用了一款 Neuropet，删掉重复的手动副本或工坊副本，停用其他 HUD Mod，重启游戏，再进入普通本地合作关卡查看。
+
+**5. Duo 一直没看到抱抱，是坏了吗？**
+多半没坏。只有两只都在底边时才可能抱抱；抱完至少约 45 秒才可能再抱，之后还要看位置和运气，所以可能要等一会儿。墙上和顶部不会抱抱。单宠版偶尔播放的客串抱抱动画另有自己的规则，不适用 Duo 的双宠条件。
+
+**6. 联机能用吗？服务器需要装吗？**
+这是仅客户端的插件：服务器无需安装，宠物也只有你自己看得到。部分服务器会限制客户端插件，因此不保证所有服务器都能加载。目前在 Windows 本地合作模式测试过；远程服务器、对抗、清道夫和分屏还没有全面测试。
+
+**7. 能和我的 HUD Mod 一起用吗？**
+不保证。每一款 Neuropet 都会替换 `scripts/hudlayout.res`，很多 HUD Mod 也会。建议使用原版 HUD。某台电脑上能一起显示，不代表兼容；本插件不会合并其他 HUD，也不会调整加载顺序。
+
+**8. 会影响游戏玩法或性能吗？**
+不改变玩法，也不会响应游戏事件；Tank 出现时恰好掉下来只是巧合。目前没有正式的性能测试，因此不做性能承诺。Duo 的材质计算量比单宠多一些。
+
+**9. 游戏里会像封面那样牵手吗？会像视频那样动吗？**
+封面的牵手和片尾的挥手是 AI 辅助宣传插画，游戏里她们是抱抱。视频为了集中展示安排了位置和动作，速度保持原样；正式版随机选择路线、姿势和相遇，不会照着视频的顺序来。
+
+**10. 有一只半个身子在屏幕外 / 压在 HUD 上 / 两只不同步。**
+在两侧和顶部，身体越出屏幕一部分是有意的，像是抓着屏幕边缘。底边没有为 HUD 预留位置，可能会重叠。如果两只看起来不同步（比如只有一只在抱抱），请先完整重启游戏；若仍有异常，可以按置顶说明提供信息反馈。

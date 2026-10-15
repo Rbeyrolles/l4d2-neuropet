@@ -20,3 +20,16 @@
 详细记录见 docs/evidence/neuron-0.5.2/ 与 docs/evidence/evil-0.5.3/；native-baseline.json 和 branding-equivalence.json 为历史记录。机器可读简表为 [release-facts.json](release-facts.json)。
 
 封面是 AI 辅助艺术设计，白边对比图是数值模型局部放大；两者都不能标成当前包的实机截图。
+
+
+## 2026-10-16：三款源码重建
+
+从待同步源码独立构建 Neuro-sama 0.5.2、Evil Neuro 0.5.3 和 Duo 0.2.3；两款单宠的 VPK/CRC 与各 18,000 次材质绑定检查通过，Duo 的场景、发起者、靠近速度、不同绘制频率、漏帧及恢复检查通过。三个重建 VPK 的全部条目均与原正式包逐字节一致。
+
+| 安装包 | 字节数 | SHA-256 |
+| --- | ---: | --- |
+| l4d2_neuropet_client.vpk | 53,094,964 | 6fb101a0d5fbcee878adac715c24cdeff0bc5d93f18dbe9c1e827f8f77094fa3 |
+| l4d2_neuropet_evil_client.vpk | 53,093,222 | 76eb6a91607ccc240a7d90abe33c0498780026cad852409576e68ab5fef2b55a |
+| l4d2_neuropet_duo_interactive.vpk | 121,324,135 | bd56c3864e51285336e38d0399a3134de75d45a94994826b8e9bc9aaf0dd8dcc |
+
+这次验证未启动游戏，不代替或扩大此前的实机测试范围。便携记录见 [source-sync-2026-10-16/validation.json](evidence/source-sync-2026-10-16/validation.json)。当前单语言上传稿共 18 份，按语言分别填写；上文的 4,469 字节双语短稿是 2026-10-09 的历史记录。

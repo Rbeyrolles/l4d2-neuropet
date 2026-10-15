@@ -1,0 +1,16 @@
+Original mascot artwork: Paccha, https://linktr.ee/paccha_
+Source packs: Neuron / Eviling from CommentOut64/web-mascot;
+upstream qingchenyouforcc/NeurolingsCE-Qt.
+Neuro-sama and Evil Neuro are characters created by Vedal.
+Neuropet is an unofficial, fan-made addon.
+
+Duo cover: AI-assisted illustration referencing the original mascot artwork,
+the established Neuropet covers, and Evil Neuro's character reference.
+The selected composition shows Neuro-sama and Evil Neuro holding hands.
+Background, lettering and cover redraw are not an original drawing by Paccha
+and are not a game screenshot. The cover is promotional artwork; hand-holding
+is not an in-game behavior. No game sprite was redrawn for this cover.
+The accepted PNG is preserved; JPEG assets use size/format export only.
+
+Cover adaptation license: CC BY-NC-SA 4.0.
+https://creativecommons.org/licenses/by-nc-sa/4.0/

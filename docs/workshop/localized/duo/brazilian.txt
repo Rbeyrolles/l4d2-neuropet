@@ -1,0 +1,84 @@
+[i]O autor não domina o português. Esta descrição foi traduzida automaticamente e não passou por revisão humana. Pode conter erros; agradecemos a compreensão.[/i]
+
+[h1]Neuropet Duo – Neuro-sama e Evil Neuro: mascotes de tela (feitas por fãs)[/h1]
+[i]Duas companheirinhas de HUD para Left 4 Dead 2, feitas por fãs · Duo v0.2.3[/i]
+
+Entre uma luta contra zumbis e outra, pequenas Neuro-sama e Evil Neuro passeiam pelas bordas da sua tela, cada uma na sua. Uma trota embaixo enquanto a outra fica pendurada no alto; uma sobe pela lateral e a outra se deita para descansar. De vez em quando, uma vai procurar a irmã. Um abraço, e cada uma segue seu caminho.
+
+Este é um projeto de fãs não oficial. Só muda o que aparece no seu HUD, sem afetar a jogabilidade.
+
+[h2]O que elas fazem[/h2]
+[list]
+[*][b]Passeiam por todo lado:[/b] andam, trotam ou rastejam devagar embaixo; escalam as duas laterais, andam e ficam penduradas no alto. Às vezes soltam as mãos e caem, ou tropeçam e levam um tempinho para levantar.
+[*][b]Cada uma no seu caminho:[/b] escolhem rotas, velocidades e pausas. Não se revezam nem dividem a tela ao meio: Neuro pode estar pendurada no alto enquanto Evil fica deitada num cantinho inferior.
+[*][b]Oito poses de descanso para cada uma:[/b] ambas piscam em pé ou sentadas, ficam deitadas sem fazer nada, olham para cima sentadas e ficam tímidas em pé ou sentadas. Neuro também dá uma piscadinha e faz coração com as mãos; Evil espera um abraço ou fica tímida deitada.
+[*][b]Procuram uma à outra:[/b] quando ambas estão embaixo, podem se encontrar e abraçar, ou só passar direto. Às vezes uma vai até a outra, que para e espera: andando se estiver perto, trotando se estiver longe. Qualquer irmã pode começar, por qualquer lado.
+[*][b]Um abraço e lá vão elas:[/b] depois de um abracinho, cada uma volta a passear a partir de onde se encontraram.
+[*][b]Sem ciclo fixo:[/b] rotas, pausas, poses e abraços são aleatórios. Fotos e vídeos mostram momentos escolhidos; no jogo, elas decidem a ordem.
+[/list]
+
+[h2]Três pacotes: escolha um[/h2]
+[list]
+[*][b]Duo[/b] (este item): as duas irmãs passeiam por conta própria e às vezes se abraçam.
+[*][b]Neuro-sama[/b]: só Neuro; Evil faz uma participação na animação de abraço. https://steamcommunity.com/sharedfiles/filedetails/?id=3820218016
+[*][b]Evil Neuro[/b]: só Evil; Neuro faz uma participação na animação de abraço. https://steamcommunity.com/sharedfiles/filedetails/?id=3820220066
+[/list]
+Quer as duas na tela? Basta o Duo; não precisa ativar também as duas versões individuais.
+
+[h2]Antes de se inscrever[/h2]
+[list]
+[*][b]Escolha um pacote:[/b] ative apenas um Neuropet (Neuro-sama, Evil Neuro ou Duo) e reinicie ao trocar. Evite duplicatas entre instalações manuais e da Oficina.
+[*][b]Mods de HUD personalizados:[/b] como as versões individuais, Duo substitui scripts/hudlayout.res. Muitos outros HUDs também alteram esse arquivo, então a compatibilidade não é garantida. É preciso escolher entre seu HUD personalizado e Neuropet. Recomendamos o HUD original.
+[*][b]Elas passam na frente do HUD:[/b] passeiam junto à borda inferior e podem cobrir as barras de vida. É de propósito w Nas laterais e no alto, parte do corpo pode sair da tela, como se estivessem agarradas à borda.
+[*][b]Feito para telas 16:9:[/b] testado no Windows, em cooperativo local. Outras proporções ainda não foram verificadas.
+[/list]
+
+[h2]O que elas não fazem[/h2]
+São pequenas animações, não assistentes: não dá para arrastar nem clicar, não há IA, chat, voz ou funções online, e elas não leem nem reagem a eventos do jogo. Não desviam uma da outra nem de objetos na tela; a interação entre elas é o abraço. Se uma cair justo quando aparece um Tank, é só coincidência. (Se for Evil, ela vai dizer que fez de propósito.)
+
+[h2]Perguntas frequentes[/h2]
+[b]Preciso das versões individuais também?[/b]
+Não. Duo já tem as duas irmãs; ative só ele.
+
+[b]Ainda não viu um abraço?[/b]
+Os abraços são aleatórios e só acontecem quando ambas estão na borda inferior, nunca nas laterais, no alto ou durante uma queda. Duram cerca de quatro segundos; depois é preciso esperar pelo menos uns 45 segundos até outro ser possível. Aí depende da posição e da sorte: às vezes vem logo, às vezes demora.
+
+[b]Um abraço ficou estranho?[/b]
+Às vezes elas podem ficar um pouco fora de sincronia, parecendo que só uma está abraçando. Reinicie o jogo por completo.
+
+[b]O servidor precisa instalar algo?[/b]
+Não. Funciona no seu jogo pelo HUD e sistema de materiais integrados: sem scripts de servidor, SourceMod ou programas externos.
+
+[b]Elas aparecem em todos os servidores?[/b]
+Depende das configurações. Alguns servidores não permitem addons de cliente personalizados.
+
+[b]Se inscreveu, mas não consegue vê-las?[/b]
+Elas aparecem no HUD depois de entrar num mapa; é normal não vê-las no menu principal. Se ainda sumirem, desative outros HUDs e cópias de Neuropet (versões individuais, Duo antigo ou cópias manuais duplicadas com a Oficina), reinicie e teste num mapa cooperativo local comum.
+
+[h2]Um pouquinho de conversa[/h2]
+A gente sabe: num jogo em que você deveria ficar de olho nos Hunters, colocar duas pequenas penduradas na tela parece meio estranho. Mas são fofas demais, então fizemos mesmo assim. Já tínhamos uma; queríamos que as irmãs fizessem companhia juntas, em vez de só se verem na animação de abraço.
+
+Pelo que encontramos, ainda não havia uma mascote de tela assim para L4D2; talvez esta seja uma das primeiras. O código está no GitHub: se quiser fazer a sua, não precisa começar do zero. (Código MIT; a arte mantém sua própria licença, abaixo.)
+
+[h2]Agradecimentos especiais[/h2]
+Obrigado a caviar e 枫落霜桥 por testar Neuropet, dar ideias e brincar com as pequenas antes mesmo de elas saírem de casa.
+
+[h2]Créditos e licença[/h2]
+[list]
+[*]Arte dos personagens: [b]Paccha[/b] – https://linktr.ee/paccha_
+[*]Animações e configurações de comportamento originais: [b]@promote.[/b] (https://z.ne1.co, https://neuro.us.to) e [b]@dalekcraft[/b]
+[*]Pacote e metadados originais: [b]qingchenyouforcc[/b]
+[*]Fonte: CommentOut64/web-mascot – https://github.com/CommentOut64/web-mascot
+[*]Projeto de origem: NeurolingsCE-Qt – https://github.com/qingchenyouforcc/NeurolingsCE-Qt
+[/list]
+
+A arte, configurações e adaptações usam [b]CC BY-NC-SA 4.0[/b] (https://creativecommons.org/licenses/by-nc-sa/4.0/): apenas uso não comercial. Ao compartilhar ou adaptar, mantenha licença e créditos, indique as mudanças e use a mesma licença. O código próprio é MIT (veja o GitHub); MIT não cobre as imagens.
+
+Alterações: conversão em texturas do jogo, espelhamento por direção, ajustes de tempos e âncoras e correção da borda clara de Evil. Duo acrescenta um quadro transparente e cópias espelhadas dos quadros originais de abraço. Os PNGs originais continuam intactos no código-fonte.
+
+A capa e a imagem final são ilustrações assistidas por IA, baseadas no material dos personagens e em referências, não desenhos originais de Paccha.
+
+Neuro-sama e Evil Neuro são VTubers de IA e irmãs gêmeas. Site oficial: https://vedal.ai/ · Lives: https://www.twitch.tv/vedal987
+As mascotes só usam a imagem delas, sem ligação com sua IA ou lives. Projeto de fãs, sem vínculo ou aprovação de Vedal; não reivindica a propriedade dos personagens.
+
+Código e comentários: https://github.com/Rbeyrolles/l4d2-neuropet · Por Daisy, Shannon & Sol

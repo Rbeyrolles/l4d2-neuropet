@@ -1,0 +1,82 @@
+[h1]Neuropet – Neuro-sama & Evil Neuro Screen Pets (Fan-made HUD Mascots)[/h1]
+[i]Two fan-made HUD mascots for Left 4 Dead 2 · Duo v0.2.3[/i]
+
+Between zombie fights, tiny Neuro-sama and Evil Neuro hang out around the edges of your screen, each doing her own thing. One might be trotting along the bottom while the other dangles from the top; one climbs up a side while the other stops for a lazy rest. Every now and then, one of them wanders over to find her sister. A quick hug, and off they go again.
+
+This is an unofficial fan project. It only changes what's drawn on your HUD and doesn't affect gameplay.
+
+[h2]What they do[/h2]
+[list]
+[*][b]Move around:[/b] each walks, trots or crawls along the bottom; climbs the left and right edges; moves along and hangs from the top. Sometimes one lets go and drops back down, or trips and takes a moment before getting back up.
+[*][b]Go their own way:[/b] each picks her own route, speed and resting spots. They don't take turns or split the screen in half, so you might find Neuro hanging from the top while Evil lazes in a bottom corner.
+[*][b]Rest in 8 ways each:[/b] both blink standing or sitting, lie down lazily, sit and look up, and get shy standing or sitting. Neuro adds her wink and heart hands; Evil waits for a hug or gets shy lying down.
+[*][b]Find each other:[/b] when both are on the bottom edge, they might bump into each other and hug, or just walk on by. Sometimes one sets off to find the other, who waits for her: a walk if she's close, a trot if she's far. Either sister can go first, from either side.
+[*][b]Hug, then head off:[/b] after a little hug, each goes back to her own wandering from right where they met.
+[*][b]Not a fixed loop:[/b] routes, rests, poses and hugs all happen at random. Screenshots and clips show picked moments; in game, the order is up to them.
+[/list]
+
+[h2]Three packages, pick one[/h2]
+[list]
+[*][b]Duo[/b] (this item): both sisters on screen, each roaming on her own and sometimes hugging.
+[*][b]Neuro-sama[/b]: one Neuro; Evil guest-stars inside the hug animation. https://steamcommunity.com/sharedfiles/filedetails/?id=3820218016
+[*][b]Evil Neuro[/b]: one Evil; Neuro guest-stars inside the hug animation. https://steamcommunity.com/sharedfiles/filedetails/?id=3820220066
+[/list]
+Want both on screen? Duo is all you need; there's no need to enable the two single pets as well.
+
+[h2]Before you subscribe[/h2]
+[list]
+[*][b]Pick one package.[/b] Enable only one Neuropet package (Neuro-sama, Evil Neuro or Duo). Restart after switching; avoid duplicate manual and Workshop copies.
+[*][b]Third-party custom HUD mods.[/b] Like the single pets, Duo replaces scripts/hudlayout.res, which many custom HUD mods also change, so compatibility with them isn't guaranteed. If you use a custom HUD, you'll need to choose between it and Neuropet. The stock HUD is recommended.
+[*][b]They walk in front of your HUD.[/b] Both stroll right along the bottom edge and may pass in front of the health bars. That's on purpose w On the sides and top, part of them may slip past the edge of the screen, as if they're holding on.
+[*][b]Made for 16:9 screens.[/b] Tested on Windows in local co-op. Other aspect ratios haven't been checked yet.
+[/list]
+
+[h2]What they don't do[/h2]
+They're little animations, not game companions: no dragging or clicking, no AI, chat, voice or online features, and they don't read or react to in-game events. They don't dodge each other or anything on screen; hugging is the one thing they do together. If one of them happens to fall right as a Tank shows up, that's just very good timing. (If it was Evil, she'll tell you it was on purpose.)
+
+[h2]FAQ[/h2]
+[b]Do I need the two single pets as well?[/b]
+No. Duo already has both sisters, so just enable it on its own.
+
+[b]I haven't seen a hug yet.[/b]
+Hugs are random, and both of them need to be on the bottom edge. Hugs only happen there, never on the sides, the top or in mid-fall. Each hug lasts about four seconds, and afterwards there are at least about 45 seconds before the next one can happen. After that, it's down to where they are and a bit of luck.
+
+[b]A hug looked a bit off.[/b]
+Once in a while they can get a little out of step, for example only one of them seems to be in the hug. A full game restart fixes it.
+
+[b]Does the server need to install anything?[/b]
+No. It runs on your own game through the built-in HUD and material system: no server scripts, no SourceMod, no external programs.
+
+[b]Will they show up on every server?[/b]
+That depends on the server. Some servers don't allow custom client addons.
+
+[b]I subscribed, but I can't see them.[/b]
+They appear on the HUD once you've loaded into a map; the main menu stays empty, and that's normal. If they're still missing, disable other HUD mods and any other Neuropet copy (a single pet, an older Duo, or a manual copy next to the Workshop one), restart the game, and check in an ordinary local co-op map.
+
+[h2]A few words from us[/h2]
+We know, we know: L4D2 is a game where you really should be watching out for Hunters, not two little girls hanging off the top of your screen. We made it anyway, because they're just too cute. And once there was one, we wanted the sisters to keep you company together, not only meet inside a hug animation.
+
+As far as we could find, there wasn't a screen pet like this for L4D2 before, so this might be one of the first. The source code is on GitHub, so if you'd like to make your own pet, you don't have to start from zero. (The code is MIT; the artwork keeps its own license, see below.)
+
+[h2]Special thanks[/h2]
+Thank you to caviar and 枫落霜桥 for testing Neuropet, sharing ideas, and playing with the little ones before they ever left home.
+
+[h2]Credits & license[/h2]
+[list]
+[*]Character art: [b]Paccha[/b] – https://linktr.ee/paccha_
+[*]Original animation & behavior configs: [b]@promote.[/b] (https://z.ne1.co, https://neuro.us.to) and [b]@dalekcraft[/b]
+[*]Original package & metadata: [b]qingchenyouforcc[/b]
+[*]Asset source: CommentOut64/web-mascot – https://github.com/CommentOut64/web-mascot
+[*]Upstream: NeurolingsCE-Qt – https://github.com/qingchenyouforcc/NeurolingsCE-Qt
+[/list]
+
+The character art, configs and their adaptations are licensed under [b]CC BY-NC-SA 4.0[/b] (https://creativecommons.org/licenses/by-nc-sa/4.0/): non-commercial use only. If you share or adapt them, keep the license and credits, note your changes, and use the same license. The addon's own code is MIT (see GitHub); the MIT license does not cover the artwork.
+
+Changes made for this addon: converted to game textures, mirrored for direction, adjusted timing and anchors, and fixed Evil's light transparent edges. Duo also adds a blank transparent frame and mirrored copies of the original hug frames. The original PNGs are kept unmodified in the source.
+
+Cover and end card: AI-assisted illustrations based on the character artwork and references, not original artwork by Paccha.
+
+Neuro-sama and Evil Neuro are AI VTubers and twin sisters. Official site: https://vedal.ai/ · Stream: https://www.twitch.tv/vedal987
+These pets only use their likeness and are not connected to their AI or stream. This is a fan project, not affiliated with or endorsed by Vedal, and it claims no ownership of the characters.
+
+Source code & feedback: https://github.com/Rbeyrolles/l4d2-neuropet · Made by Daisy, Shannon & Sol

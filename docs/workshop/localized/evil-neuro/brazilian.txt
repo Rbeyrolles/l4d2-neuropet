@@ -1,0 +1,80 @@
+[i]O autor não domina o português. Esta descrição foi traduzida automaticamente e não passou por revisão humana. Pode conter erros; agradecemos a compreensão.[/i]
+
+[h1]Neuropet – Evil Neuro Screen Pet[/h1]
+[i]Uma mascote de HUD feita por fãs para Left 4 Dead 2 · v0.5.3[/i]
+
+Entre uma luta e outra com os zumbis, uma pequena Evil Neuro passeia pelas bordas da sua tela. Ela anda, corre de levinho ou se arrasta devagar pela borda de baixo; escala as laterais, percorre o alto da tela, fica pendurada por um tempo e às vezes solta as mãos e cai. De vez em quando, tropeça ou para para um abraço.
+
+Este é um projeto de fãs não oficial. Ele só muda o que aparece no seu HUD, sem afetar a jogabilidade.
+
+[h2]O que ela faz[/h2]
+[list]
+[*][b]Passeia por aí:[/b] anda, corre de levinho ou se arrasta pela borda de baixo; escala os dois lados; anda e fica pendurada na borda de cima.
+[*][b]Descansa de 8 jeitos:[/b] pisca em pé, pisca sentada, fica deitada sem fazer nada, olha para cima sentada, espera um abraço, fica tímida deitada, fica tímida em pé e fica tímida sentada.
+[*][b]Pequenos momentos:[/b] uma animação em que tropeça e se levanta, e outra de um abraço curtinho.
+[*][b]Não é um ciclo fixo:[/b] o caminho, a velocidade, o tempo de descanso, a pose e os pequenos momentos são escolhidos aleatoriamente. Ela continua de onde parou da última vez.
+[/list]
+
+[h2]Novidades da versão 0.5.3[/h2]
+Reduzimos o contorno claro que podia aparecer ao redor das bordas escuras dela, corrigindo a amostragem dos pixels transparentes nas bordas.
+
+[h2]Três pacotes: escolha um[/h2]
+[list]
+[*][b]Evil Neuro[/b] (este item)
+[*][b]Neuro-sama[/b]: https://steamcommunity.com/sharedfiles/filedetails/?id=3820218016
+[*][b]Duo[/b]: Neuro-sama e Evil Neuro passeiam cada uma por conta própria e às vezes se procuram para um abraço. https://steamcommunity.com/sharedfiles/filedetails/?id=3820220607
+[/list]
+Quer as duas na tela? Escolha Duo em vez de ativar os dois pacotes individuais.
+
+[h2]Antes de se inscrever[/h2]
+[list]
+[*][b]Escolha só um pacote.[/b] Ative apenas um Neuropet (Neuro-sama, Evil Neuro ou Duo). Reinicie o jogo ao trocar de versão e evite cópias duplicadas entre a instalação manual e a Oficina.
+[*][b]Mods de HUD personalizados de terceiros.[/b] Este addon substitui scripts/hudlayout.res, um arquivo também alterado por muitos HUDs personalizados. Por isso, ele não funciona junto com muitos deles. Se você usa um, terá que escolher entre esse HUD e o Neuropet.
+[*][b]Ela passa na frente do HUD.[/b] Passeia bem junto à borda de baixo e pode passar na frente das barras de vida. É de propósito w
+[*][b]Feito para telas 16:9.[/b] Outras proporções ainda não foram verificadas.
+[/list]
+
+[h2]O que ela não faz[/h2]
+Ela é uma pequena animação, não uma ajudante de jogo: não dá para arrastá-la nem interagir clicando nela. Não tem IA, chat, voz ou funções online, e não lê nem reage aos eventos da partida. Se cair bem na hora em que um Tank aparecer, foi só uma coincidência muito oportuna. (Mas ela vai dizer que foi de propósito.)
+
+[h2]Perguntas frequentes[/h2]
+[b]Quem é a outra personagem no abraço?[/b]
+É sua irmã gêmea, Neuro-sama, que faz uma participação especial só no abraço. Ela faz parte da animação; não é uma segunda mascote.
+
+[b]Ainda não vi o tropeço ou o abraço.[/b]
+Eles aparecem aleatoriamente e podem levar alguns minutos.
+
+[b]O servidor precisa instalar alguma coisa?[/b]
+Não. Tudo roda no seu próprio jogo, usando os sistemas de HUD e materiais que já vêm nele, sem scripts de servidor nem programas externos.
+
+[b]Ela aparece em todos os servidores?[/b]
+Depende do servidor. Alguns não permitem addons personalizados do cliente.
+
+[b]Eu me inscrevi, mas não consigo vê-la.[/b]
+Veja primeiro se há outro mod de HUD ativado. Se houver, desative-o e reinicie o jogo. Ative apenas um pacote Neuropet (Neuro-sama, Evil Neuro ou Duo).
+
+[h2]Uma palavrinha nossa[/h2]
+A gente sabe: L4D2 é um jogo em que você deveria estar de olho nos Hunters, não numa garotinha pendurada no alto da tela. Mesmo assim, fizemos isso, porque ela é fofa demais.
+
+Pelo que conseguimos encontrar, antes não havia uma mascote de tela assim para L4D2, então esta pode ser uma das primeiras. O código-fonte está no GitHub para que, se você quiser fazer sua própria mascote, não precise começar do zero. (O código usa MIT; as imagens mantêm sua própria licença, indicada abaixo.)
+
+[h2]Agradecimentos especiais[/h2]
+Obrigado a caviar e 枫落霜桥 por testá-la, compartilhar ideias e brincar com ela antes de sua primeira saída de casa.
+
+[h2]Créditos e licença[/h2]
+[list]
+[*]Arte das personagens: [b]Paccha[/b] – https://linktr.ee/paccha_
+[*]Animações e configurações de comportamento originais: [b]@promote.[/b] (https://z.ne1.co, https://neuro.us.to) e [b]@dalekcraft[/b]
+[*]Pacote e metadados originais: [b]qingchenyouforcc[/b]
+[*]Origem dos recursos: CommentOut64/web-mascot – https://github.com/CommentOut64/web-mascot
+[*]Projeto de origem: NeurolingsCE-Qt – https://github.com/qingchenyouforcc/NeurolingsCE-Qt
+[/list]
+
+As imagens, configurações e suas adaptações usam [b]CC BY-NC-SA 4.0[/b] (https://creativecommons.org/licenses/by-nc-sa/4.0/): apenas para uso não comercial. Ao compartilhar ou adaptar, mantenha a licença e os créditos, indique as alterações e use a mesma licença. O código próprio do addon usa MIT (veja o GitHub); a licença MIT não cobre as imagens.
+
+Alterações para este addon: conversão em texturas do jogo, espelhamento conforme a direção, ajustes no tempo e na ordem dos quadros, alinhamento do abraço, pausa e recuperação do tropeço e ajuste do ritmo ao se arrastar, além de estender as cores vizinhas para os pixels totalmente transparentes para reduzir as bordas claras. As imagens originais são mantidas sem alterações no código-fonte.
+
+Evil Neuro é uma VTuber de IA e irmã gêmea de Neuro-sama. Site oficial: https://vedal.ai/ · Lives: https://www.twitch.tv/vedal987
+Esta mascote só usa a imagem da personagem e não está conectada à sua IA nem às suas lives. É um projeto de fãs, sem vínculo ou aprovação de Vedal, e não reivindica a propriedade das personagens.
+
+Código-fonte: https://github.com/Rbeyrolles/l4d2-neuropet · Feito por Daisy, Shannon & Sol

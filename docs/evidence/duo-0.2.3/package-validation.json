@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-15",
+  "version": "0.2.3",
+  "vpk": "l4d2_neuropet_duo_interactive.vpk",
+  "sha256": "bd56c3864e51285336e38d0399a3134de75d45a94994826b8e9bc9aaf0dd8dcc",
+  "bytes": 121324135,
+  "files": 17,
+  "base": {
+    "version": "0.2.2-preview",
+    "sha256": "dea53d07bd710b424ab7aa8cfe12d6153c000564190311c21314f8d529ec9ac9"
+  },
+  "changed_entries": [
+    "addonimage.jpg",
+    "addoninfo.txt",
+    "resource/neuropet_duo_interactive/evil/COVER-CREDITS.txt",
+    "resource/neuropet_duo_interactive/neuron/COVER-CREDITS.txt"
+  ],
+  "unchanged_entries_sha256": {
+    "materials/vgui/neuropet_duo_interactive/evil/behavior.vmt": "a3db72b74a0dbe58be71222d2e8bb3211ee92c0c0127d6349771f62df41b0379",
+    "materials/vgui/neuropet_duo_interactive/evil/poses.vtf": "bd040a2e0615c730404411bf2bbf94dcce2db1792bb820d439c7c8638352b3ec",
+    "materials/vgui/neuropet_duo_interactive/neuron/behavior.vmt": "a2f890cf4960bc3bf2cf769e23dc0ec3c429e397dcab1c85e8e6032e9bc322e2",
+    "materials/vgui/neuropet_duo_interactive/neuron/poses.vtf": "4ed6bc59621a2f6c1ac647090304bc8c4732519785fc3181c9d9164575b67353",
+    "resource/neuropet_duo_interactive/evil/CODE-LICENSE.txt": "147befa370a056b595e489914251715e5cfb4437d94d9e78f72178c05cc02411",
+    "resource/neuropet_duo_interactive/evil/EVILING-LICENSE.txt": "16b4be5b73da9ee82dee1b6e97461444e4e5388eb57d8cbc73aed7c6df7b713b",
+    "resource/neuropet_duo_interactive/evil/LICENSE-CC-BY-NC-SA-4.0.txt": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11",
+    "resource/neuropet_duo_interactive/evil/MODIFICATIONS.txt": "d79fe01df79bdd6da67c00e79a0e84cdb7990b2cced054f1a15273cc9ddb4a84",
+    "resource/neuropet_duo_interactive/neuron/CODE-LICENSE.txt": "147befa370a056b595e489914251715e5cfb4437d94d9e78f72178c05cc02411",
+    "resource/neuropet_duo_interactive/neuron/LICENSE-CC-BY-NC-SA-4.0.txt": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11",
+    "resource/neuropet_duo_interactive/neuron/MODIFICATIONS.txt": "d2ea3a954a65427bb3fd63d7ac6874b65b76bf80b2f6e2fa5821265db80b4bac",
+    "resource/neuropet_duo_interactive/neuron/NEURON-LICENSE.txt": "35a18c0b01084165a00399008e1b7259ea43db5818df2ad25a9f756e33ef8a3b",
+    "scripts/hudlayout.res": "849a98eb0cce350426b43009d452416b0494b1003c26e29dba419d2cb4a8a99c"
+  },
+  "all_entry_crcs_valid": true,
+  "approved_bilingual_description_exact": true,
+  "description_characters": 292,
+  "description_utf8_bytes": 430,
+  "images": {
+    "addonimage.jpg": {
+      "size": [
+        256,
+        256
+      ],
+      "bytes": 47175,
+      "sha256": "f688d2fa90f0db0e5036c1f2005e81f3601f7faacdd53568405ef5047d930a2b"
+    },
+    "preview.jpg": {
+      "size": [
+        1024,
+        1024
+      ],
+      "bytes": 343417,
+      "sha256": "d02157cfac3d930b7c8b145e5d784e8c5e6c1c9447bcb08c3cb84267a2e7b046"
+    },
+    "cover.png": {
+      "size": [
+        1254,
+        1254
+      ],
+      "bytes": 1782358,
+      "sha256": "bae2161dc3361a0e7fca5260c941f9567aff2c23998f788c55713598a32f6f90"
+    }
+  },
+  "single_editions_unchanged": {
+    "l4d2_neuropet_client.vpk": "6fb101a0d5fbcee878adac715c24cdeff0bc5d93f18dbe9c1e827f8f77094fa3",
+    "l4d2_neuropet_evil_client.vpk": "76eb6a91607ccc240a7d90abe33c0498780026cad852409576e68ab5fef2b55a"
+  },
+  "runtime": "No new game session for this packaging-only change. HUD, behavior materials and sprite atlases match the human-tested 0.2.2-preview package byte for byte.",
+  "installed_game_files_changed": false,
+  "published_online": false
+}

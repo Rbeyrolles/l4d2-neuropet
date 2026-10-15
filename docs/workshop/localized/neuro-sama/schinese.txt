@@ -1,0 +1,75 @@
+[h1]Neuropet – Neuro-sama 屏幕小宠物[/h1]
+[i]Left 4 Dead 2 非官方粉丝 HUD 小伙伴 · v0.5.2[/i]
+
+打僵尸的间隙，屏幕周围会有个小小的 Neuro-sama。她会沿着底边走路、小跑或慢慢趴着爬；会爬上屏幕两侧，沿着顶部移动、挂在上面休息，偶尔手一松掉下来。有时还会自己绊一跤，或者停下来抱抱。
+
+这是非官方的粉丝作品，只改变 HUD 上显示的画面，不影响游戏玩法。
+
+[h2]她会做什么[/h2]
+[list]
+[*][b]到处走走：[/b]沿底边走路、小跑或慢爬；攀爬左右边缘；沿顶部移动和悬挂。
+[*][b]八种休息姿势：[/b]站立眨眼、坐下眨眼、趴下偷懒、坐着抬头、Wink、比心、站着害羞、坐着害羞。
+[*][b]小插曲：[/b]绊倒再爬起来，以及一小段抱抱动画。
+[*][b]不是固定循环：[/b]路线、速度、休息时间、姿势和小插曲都会随机抽取，下一段从上次停下的地方继续。
+[/list]
+
+[h2]三款选一款[/h2]
+[list]
+[*][b]Neuro-sama 单宠版[/b]（本条目）
+[*][b]Evil Neuro 单宠版[/b]：https://steamcommunity.com/sharedfiles/filedetails/?id=3820220066
+[*][b]Duo 双宠版[/b]：Neuro-sama 和 Evil Neuro 各自活动，偶尔去找对方抱抱。https://steamcommunity.com/sharedfiles/filedetails/?id=3820220607
+[/list]
+想让两只一起出现，请选择 Duo，无需同时启用两款单宠。
+
+[h2]订阅前请看[/h2]
+[list]
+[*][b]三款选一款：[/b]每次只启用一款 Neuropet（Neuro-sama、Evil Neuro 或 Duo），切换后重启；工坊订阅与手动安装不要重复。
+[*][b]第三方自定义 HUD Mod：[/b]本插件会替换 scripts/hudlayout.res，很多自定义 HUD 插件也会修改这个文件，所以通常无法和它们同时使用。如果你在用自定义 HUD，需要在它和本插件之间选一个。
+[*][b]她会从 HUD 前面走过：[/b]她贴着屏幕底边散步，可能会从血条前面经过。不过这是故意的w
+[*][b]按 16:9 屏幕制作：[/b]其他屏幕比例暂未确认。
+[/list]
+
+[h2]她不会做的事[/h2]
+她只是一段小动画，不是游戏助手：不能拖拽或点击，没有 AI、聊天、语音或联网功能，也不会读取或响应游戏事件。如果她刚好在 Tank 出现时掉下来，那只是时机太巧啦。
+
+[h2]常见问题[/h2]
+[b]抱抱画面里的另一个角色是谁？[/b]
+那是她的双胞胎姐妹 Evil Neuro，专门为抱抱友情客串。她只是动画的一部分，不是第二只宠物。
+
+[b]一直没看到绊倒或抱抱？[/b]
+它们是随机出现的，可能要等几分钟。
+
+[b]服务器需要安装什么吗？[/b]
+不需要。它只在你自己的游戏里，通过游戏自带的 HUD 和材质系统运行，没有服务器脚本，也没有外部程序。
+
+[b]所有服务器都能看到她吗？[/b]
+要看服务器的设置，有些服务器不允许使用自定义的客户端附加内容。
+
+[b]订阅了却看不到她？[/b]
+先看看是否启用了其他 HUD 插件。如果有，请停用后重启游戏。也请确认每次只启用一款 Neuropet（Neuro-sama、Evil Neuro 或 Duo）。
+
+[h2]我们的碎碎念[/h2]
+我们也知道，在一个本该时刻提防 Hunter 的游戏里，放一个挂在屏幕顶上的小家伙，好像有点奇怪。但她实在太可爱了，所以我们还是做了。
+
+就我们查到的范围，L4D2 之前好像还没有这样的屏幕小宠物，这也许是最早的几个之一。源码放在 GitHub 上，如果你也想做自己的小宠物，不用从零开始。（代码采用 MIT，角色图片沿用各自的许可，见下方。）
+
+[h2]特别感谢[/h2]
+感谢 caviar 和 枫落霜桥 帮忙测试、提出建议，也谢谢你们在她出门之前，先陪她玩了一圈。
+
+[h2]署名与许可[/h2]
+[list]
+[*]角色图片：[b]Paccha[/b] – https://linktr.ee/paccha_
+[*]原动作与行为配置：[b]@promote.[/b]（https://z.ne1.co 、https://neuro.us.to）和 [b]@dalekcraft[/b]
+[*]原包打包与元数据：[b]qingchenyouforcc[/b]
+[*]素材来源：CommentOut64/web-mascot – https://github.com/CommentOut64/web-mascot
+[*]素材上游：NeurolingsCE-Qt – https://github.com/qingchenyouforcc/NeurolingsCE-Qt
+[/list]
+
+角色图片、配置及其改编采用 [b]CC BY-NC-SA 4.0[/b] 许可（https://creativecommons.org/licenses/by-nc-sa/4.0/）：仅限非商业用途。分享或改编时，请保留许可与署名、标明修改，并以相同许可共享。插件自写代码采用 MIT（见 GitHub），MIT 不适用于这些图片。
+
+本插件所做修改：转换为游戏纹理、按方向镜像、重新采样和排列动作帧、对齐抱抱动画、加入绊倒的停留与恢复、调整爬行节奏。原始图片在源码中保持未修改。
+
+Neuro-sama 是 AI VTuber。官方网站：https://vedal.ai/ · 直播：https://www.twitch.tv/vedal987
+本宠物只使用角色形象，没有接入她的 AI 或直播。这是粉丝作品，与 Vedal 无关联、未获其认可，也不主张对角色的任何所有权。
+
+源码：https://github.com/Rbeyrolles/l4d2-neuropet · 制作：Daisy、Shannon 和 Sol

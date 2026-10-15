@@ -1,0 +1,80 @@
+[i]El autor no domina el español. Esta descripción se ha traducido automáticamente y no ha sido revisada por una persona. Puede contener errores; gracias por tu comprensión.[/i]
+
+[h1]Neuropet – Evil Neuro Screen Pet[/h1]
+[i]Una pequeña mascota de HUD hecha por fans para Left 4 Dead 2 · v0.5.3[/i]
+
+Entre pelea y pelea con los zombis, una pequeña Evil Neuro pasea por los bordes de tu pantalla. Camina, trota o se arrastra despacito por el borde inferior; trepa por los lados, recorre el borde superior, se queda colgada un rato y, a veces, se suelta y cae. De vez en cuando tropieza o se detiene para un abrazo.
+
+Este es un proyecto de fans no oficial. Solo cambia lo que se dibuja en tu HUD y no afecta a la jugabilidad.
+
+[h2]Qué hace[/h2]
+[list]
+[*][b]Va de un lado a otro:[/b] camina, trota o se arrastra por abajo; trepa por ambos lados; se mueve y se cuelga del borde superior.
+[*][b]Descansa de 8 formas:[/b] parpadea de pie, parpadea sentada, descansa tumbada, mira hacia arriba sentada, espera un abrazo, se pone tímida tumbada, se pone tímida de pie y se pone tímida sentada.
+[*][b]Pequeños momentos:[/b] una animación en la que tropieza y vuelve a levantarse, y otra de un breve abrazo.
+[*][b]No sigue un ciclo fijo:[/b] la ruta, la velocidad, el tiempo de descanso, las poses y esos pequeños momentos se eligen al azar. Continúa desde donde se quedó la última vez.
+[/list]
+
+[h2]Novedades de la versión 0.5.3[/h2]
+Se ha reducido el contorno claro que podía aparecer alrededor de sus bordes oscuros, corrigiendo el muestreo de los píxeles transparentes del borde.
+
+[h2]Tres paquetes: elige uno[/h2]
+[list]
+[*][b]Evil Neuro[/b] (este artículo)
+[*][b]Neuro-sama[/b]: https://steamcommunity.com/sharedfiles/filedetails/?id=3820218016
+[*][b]Duo[/b]: Neuro-sama y Evil Neuro pasean cada una por su cuenta y a veces se buscan para darse un abrazo. https://steamcommunity.com/sharedfiles/filedetails/?id=3820220607
+[/list]
+¿Quieres ver a las dos en pantalla? Elige Duo en vez de activar las dos mascotas individuales.
+
+[h2]Antes de suscribirte[/h2]
+[list]
+[*][b]Elige un solo paquete.[/b] Activa solo una versión de Neuropet (Neuro-sama, Evil Neuro o Duo). Reinicia el juego al cambiar de versión y evita tener copias duplicadas entre la instalación manual y Workshop.
+[*][b]Mods de HUD personalizados de terceros.[/b] Este addon sustituye scripts/hudlayout.res, un archivo que también modifican muchos HUD personalizados, por lo que no funciona junto con muchos de ellos. Si usas uno, tendrás que elegir entre ese HUD y Neuropet.
+[*][b]Pasa por delante del HUD.[/b] Pasea pegada al borde inferior y puede pasar por delante de las barras de salud. Es a propósito w
+[*][b]Pensado para pantallas 16:9.[/b] Todavía no se han comprobado otras relaciones de aspecto.
+[/list]
+
+[h2]Qué no hace[/h2]
+Es una pequeña animación, no una ayudante de juego: no puedes arrastrarla ni interactuar con ella haciendo clic. No tiene IA, chat, voz ni funciones en línea, y no lee ni reacciona a los eventos del juego. Si se cae justo cuando aparece un Tank, solo es una coincidencia muy oportuna. (Aunque ella dirá que fue a propósito.)
+
+[h2]Preguntas frecuentes[/h2]
+[b]¿Quién es la otra chica del abrazo?[/b]
+Es su hermana gemela, Neuro-sama, que aparece como invitada solo para el abrazo. Forma parte de la animación; no es una segunda mascota.
+
+[b]Todavía no he visto el tropiezo ni el abrazo.[/b]
+Aparecen al azar y pueden tardar unos minutos.
+
+[b]¿El servidor necesita instalar algo?[/b]
+No. Funciona en tu propio juego mediante los sistemas de HUD y materiales que ya incluye, sin scripts de servidor ni programas externos.
+
+[b]¿Aparecerá en todos los servidores?[/b]
+Depende del servidor. Algunos no permiten addons personalizados del cliente.
+
+[b]Me he suscrito, pero no la veo.[/b]
+Comprueba primero si hay otro mod de HUD activado. Si lo hay, desactívalo y reinicia el juego. Activa solo un paquete de Neuropet (Neuro-sama, Evil Neuro o Duo).
+
+[h2]Unas palabras de nuestra parte[/h2]
+Sí, lo sabemos: en L4D2 deberías estar pendiente de los Hunters, no de una pequeña colgada del borde de tu pantalla. Aun así lo hicimos, porque es demasiado adorable.
+
+Por lo que hemos podido encontrar, antes no había una mascota de pantalla así para L4D2, de modo que esta podría ser una de las primeras. El código fuente está en GitHub para que, si quieres crear tu propia mascota, no tengas que empezar de cero. (El código usa MIT; las ilustraciones conservan su propia licencia, indicada más abajo).
+
+[h2]Agradecimientos especiales[/h2]
+Gracias a caviar y 枫落霜桥 por probarla, compartir ideas y jugar con ella antes de que saliera de casa por primera vez.
+
+[h2]Créditos y licencia[/h2]
+[list]
+[*]Ilustraciones de los personajes: [b]Paccha[/b] – https://linktr.ee/paccha_
+[*]Animaciones y configuraciones de comportamiento originales: [b]@promote.[/b] (https://z.ne1.co, https://neuro.us.to) y [b]@dalekcraft[/b]
+[*]Paquete y metadatos originales: [b]qingchenyouforcc[/b]
+[*]Origen de los recursos: CommentOut64/web-mascot – https://github.com/CommentOut64/web-mascot
+[*]Proyecto de origen: NeurolingsCE-Qt – https://github.com/qingchenyouforcc/NeurolingsCE-Qt
+[/list]
+
+Las ilustraciones, las configuraciones y sus adaptaciones están bajo [b]CC BY-NC-SA 4.0[/b] (https://creativecommons.org/licenses/by-nc-sa/4.0/): solo para uso no comercial. Al compartirlas o adaptarlas, conserva la licencia y los créditos, indica los cambios y usa la misma licencia. El código propio del addon usa MIT (véase GitHub); MIT no cubre las ilustraciones.
+
+Cambios para este addon: conversión a texturas del juego, reflejo según la dirección, ajuste de tiempos y orden de los fotogramas, alineación del abrazo, pausa y recuperación del tropiezo, y ajuste del ritmo al arrastrarse, además de extender los colores cercanos a los píxeles totalmente transparentes para reducir los bordes claros. Las imágenes originales se conservan sin modificar en el código fuente.
+
+Evil Neuro es una VTuber de IA y la hermana gemela de Neuro-sama. Sitio oficial: https://vedal.ai/ · Directos: https://www.twitch.tv/vedal987
+Esta mascota solo utiliza su imagen y no está conectada a su IA ni a sus directos. Es un proyecto de fans sin afiliación ni aprobación de Vedal, y no reclama la propiedad de los personajes.
+
+Código fuente: https://github.com/Rbeyrolles/l4d2-neuropet · Creado por Daisy, Shannon & Sol

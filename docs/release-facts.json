@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-09",
-  "stage": "pending publication",
+  "date": "2026-10-16",
+  "stage": "three editions published on Steam Workshop",
   "editions": {
     "Neuron": {
       "version": "0.5.2",
@@ -32,7 +32,9 @@
       },
       "maintainer": "Daisy, Shannon & Sol",
       "addon_description": "Between zombie fights, tiny Neuro-sama walks, trots, crawls and climbs around your screen, hangs from the top, and sometimes rests, falls, trips or hugs.\n打僵尸的间隙，小小的 Neuro-sama 在屏幕边缘走走、爬爬、挂着休息，偶尔松手跌落、绊一跤，或者停下来抱抱。",
-      "workshop_publish_description_bytes": 4469
+      "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3820218016",
+      "workshop_publish_description_language": "english",
+      "workshop_publish_description_bytes_utf8_crlf": 5363
     },
     "Evil Neuro (Eviling)": {
       "version": "0.5.3",
@@ -64,7 +66,27 @@
       },
       "maintainer": "Daisy, Shannon & Sol",
       "addon_description": "Between zombie fights, tiny Evil Neuro walks, trots, crawls and climbs around your screen, hangs from the top, and sometimes rests, falls, trips or hugs.\n打僵尸的间隙，小小的 Evil Neuro 在屏幕边缘走走、爬爬、挂着休息，偶尔松手跌落、绊一跤，或者停下来抱抱。",
-      "workshop_publish_description_bytes": 4469
+      "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3820220066",
+      "workshop_publish_description_language": "english",
+      "workshop_publish_description_bytes_utf8_crlf": 5673
+    },
+    "Duo": {
+      "version": "0.2.3",
+      "title": "Neuropet – Neuro-sama & Evil Neuro Screen Pets (Fan-made HUD Mascots)",
+      "vpk": "l4d2_neuropet_duo_interactive.vpk",
+      "sha256": "bd56c3864e51285336e38d0399a3134de75d45a94994826b8e9bc9aaf0dd8dcc",
+      "bytes": 121324135,
+      "files": 17,
+      "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3820220607",
+      "panels": 2,
+      "atlas_frames_per_character": 231,
+      "material_proxies_per_character": 254,
+      "custom_parameters_per_character": 106,
+      "interaction_scope": "floor only",
+      "hug_seconds": 4,
+      "minimum_break_after_hug_seconds": 45,
+      "maintainer": "Daisy, Shannon & Sol",
+      "workshop_languages": 6
     }
   },
   "maintainer": "Daisy, Shannon & Sol",
@@ -75,13 +97,15 @@
   "public_vpk_native_launch": "Not repeated for metadata-only changes; UI layout not separately playtested",
   "material_bindings_per_edition_before_branding": 18000,
   "remote_servers": "unverified",
-  "workshop_upload": "not performed",
-  "delivery_layout": "One clean GitHub source folder and two Workshop upload folders",
-  "metadata_change": "Only addoninfo.txt changed: exact project creator credit and bilingual intro",
+  "workshop_upload": "All three uploaded and published by the owner.",
+  "delivery_layout": "One source repository, three independent build targets, six Workshop languages per edition.",
+  "metadata_change": "Source and documentation synchronization; rebuilt VPK entries match all three published packages.",
   "github_release": {
     "tag": "client-2026-10-11",
     "url": "https://github.com/Rbeyrolles/l4d2-neuropet/releases/tag/client-2026-10-11",
     "initial_visibility": "private",
     "date": "2026-10-11"
-  }
+  },
+  "source_rebuild_validation": "docs/evidence/source-sync-2026-10-16/validation.json",
+  "github_release_scope": "The recorded client-2026-10-11 release contains the two single-pet editions. Duo is available on the Workshop; this source sync does not create a new Release."
 }

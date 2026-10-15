@@ -1,57 +1,75 @@
-[i]中文说明在下方 ↓[/i]
-[h1]Neuropet – Neuro-sama Screen Pet (Fan-made HUD Mascot)[/h1]
-Between zombie fights, a tiny Neuro-sama hangs out around your screen edges. She walks, trots or slowly crawls along the bottom, climbs the sides, moves along the top and hangs there for a while. Sometimes she lets go and falls, trips and gets back up, or stops for a hug.
+[h1]Neuropet – Neuro-sama Screen Pet[/h1]
+[i]A fan-made HUD mascot for Left 4 Dead 2 · v0.5.2[/i]
 
-[h2]Features[/h2]
+Between zombie fights, a tiny Neuro-sama hangs out around the edges of your screen. She walks, trots, or slowly crawls along the bottom; climbs up the sides, travels along the top, hangs there for a while, and sometimes lets go and drops back down. Now and then she trips over, or stops for a hug.
+
+This is an unofficial fan project. It only changes what's drawn on your HUD and doesn't affect gameplay.
+
+[h2]What she does[/h2]
 [list]
-[*]Random routes, speeds, stopping points and eight rest poses.
-[*]Walking, trotting, slow crawling, wall climbing, ceiling movement and hanging, falls, trips and hugs.
-[*]Evil Neuro makes a guest appearance in the hug; she is part of that animation, not a second pet.
+[*][b]Moves around:[/b] walks, trots or crawls along the bottom; climbs the left and right edges; moves along and hangs from the top.
+[*][b]Rests in 8 ways:[/b] standing blink, sitting blink, lying down lazily, sitting and looking up, wink, heart hands, shy (standing), shy (sitting).
+[*][b]Little moments:[/b] a trip-and-get-back-up animation, and a short hug animation.
+[*][b]Not a fixed loop:[/b] route, speed, rest time, pose and little moments are picked at random, and she carries on from wherever she last stopped.
 [/list]
 
-[h2]Before subscribing[/h2]
+[h2]Three packages, pick one[/h2]
 [list]
-[*]Enable only one pet edition. Restart after switching; avoid duplicate manual and Workshop copies.
-[*]Third-party HUD compatibility is not guaranteed. Addons replacing scripts/hudlayout.res may hide the pet or override the HUD. The stock HUD is recommended; disable other HUD mods and restart if the pet is missing.
-[*]Built for 16:9. The pet can overlap HUD elements; no HUD avoidance is included.
-[*]Client-only cosmetic addon. No server installation or external program is needed, but servers may restrict client addons.
-[*]No AI, chat, voice, mouse interaction or precise game-event reactions. Trips and hugs are random and can take a while to appear.
+[*][b]Neuro-sama[/b] (this item)
+[*][b]Evil Neuro[/b]: https://steamcommunity.com/sharedfiles/filedetails/?id=3820220066
+[*][b]Duo[/b]: Neuro-sama and Evil Neuro each roam on their own and sometimes find each other for a hug. https://steamcommunity.com/sharedfiles/filedetails/?id=3820220607
+[/list]
+Want both on screen? Choose Duo instead of enabling two single pets.
+
+[h2]Before you subscribe[/h2]
+[list]
+[*][b]Pick one package.[/b] Enable only one Neuropet package (Neuro-sama, Evil Neuro or Duo). Restart after switching; avoid duplicate manual and Workshop copies.
+[*][b]Third-party custom HUD mods.[/b] This addon replaces scripts/hudlayout.res, which many custom HUD mods also change, so it doesn't work together with many of them. If you use a custom HUD, you'll need to choose between it and Neuropet.
+[*][b]She walks in front of your HUD.[/b] She strolls right along the bottom edge and may pass in front of the health bars. That's on purpose w
+[*][b]Made for 16:9 screens.[/b] Other aspect ratios haven't been checked yet.
 [/list]
 
-[h1]Neuropet – Neuro-sama 屏幕小宠物[/h1]
-打僵尸的间隙，屏幕周围会有个小小的 Neuro-sama。她沿底边走路、小跑或慢慢趴着爬，爬上屏幕两侧，沿顶部移动、挂着休息，偶尔手一松掉下来。有时会绊一跤再爬起来，或者停下来抱抱。
+[h2]What it doesn't do[/h2]
+She's a little animation, not a game companion: no dragging or clicking, no AI, chat, voice or online features, and she doesn't read or react to in-game events. If she happens to fall right as a Tank shows up, that's just very good timing.
 
-[h2]她会做什么[/h2]
+[h2]FAQ[/h2]
+[b]Who's the other character in the hug?[/b]
+That's her twin sister Evil Neuro, making a guest appearance just for the hug. She's part of the animation, not a second pet.
+
+[b]I haven't seen the trip or the hug yet.[/b]
+They're random and can take a few minutes to show up.
+
+[b]Does the server need to install anything?[/b]
+No. It runs on your own game through the built-in HUD and material system, with no server scripts and no external programs.
+
+[b]Will she show up on every server?[/b]
+That depends on the server. Some servers don't allow custom client addons.
+
+[b]I subscribed, but I can't see her.[/b]
+First check whether another HUD mod is enabled. If so, disable it and restart the game. Enable only one Neuropet package (Neuro-sama, Evil Neuro or Duo).
+
+[h2]A few words from us[/h2]
+We know, we know: L4D2 is a game where you really should be watching out for Hunters, not a little girl hanging off the top of your screen. We made it anyway, because she's just too cute.
+
+As far as we could find, there wasn't a screen pet like this for L4D2 before, so this might be one of the first. The source code is on GitHub, so if you'd like to make your own pet, you don't have to start from zero. (The code is MIT; the artwork keeps its own license, see below.)
+
+[h2]Special thanks[/h2]
+Thank you to caviar and 枫落霜桥 for testing her, sharing ideas, and playing with her before she ever left home.
+
+[h2]Credits & license[/h2]
 [list]
-[*]路线、速度、停留位置和八种休息姿势随机变化。
-[*]走路、小跑、慢爬、攀墙、沿顶部移动和悬挂、跌落、绊倒与抱抱。
-[*]抱抱中会有 Evil Neuro 友情客串；她只是动画的一部分，不是第二只宠物。
+[*]Character art: [b]Paccha[/b] – https://linktr.ee/paccha_
+[*]Original animation & behavior configs: [b]@promote.[/b] (https://z.ne1.co, https://neuro.us.to) and [b]@dalekcraft[/b]
+[*]Original package & metadata: [b]qingchenyouforcc[/b]
+[*]Asset source: CommentOut64/web-mascot – https://github.com/CommentOut64/web-mascot
+[*]Upstream: NeurolingsCE-Qt – https://github.com/qingchenyouforcc/NeurolingsCE-Qt
 [/list]
 
-[h2]订阅前请看[/h2]
-[list]
-[*]每次只启用一版宠物，切换后重启；工坊订阅与手动安装不要重复。
-[*]不保证与第三方 HUD Mod 兼容；修改同一份 scripts/hudlayout.res 时，可能使宠物不显示或覆盖界面布局。建议使用原版 HUD；遇到问题先停用其他 HUD Mod 并重启。
-[*]默认按 16:9 制作；宠物可能遮挡 HUD，没有自动避让。
-[*]客户端观赏版，无需服务器安装或外部程序；部分服务器可能限制客户端插件。
-[*]没有 AI、聊天、语音、鼠标互动或精确的游戏事件联动。绊倒与抱抱随机出现，可能需要等一会儿。
-[/list]
+The character art, configs and their adaptations are licensed under [b]CC BY-NC-SA 4.0[/b] (https://creativecommons.org/licenses/by-nc-sa/4.0/): non-commercial use only. If you share or adapt them, keep the license and credits, note your changes, and use the same license. The addon's own code is MIT (see GitHub); the MIT license does not cover the artwork.
 
-[h2]Credits / 署名与许可[/h2]
-Project / 项目制作: Daisy, Shannon & Sol
-Character artwork / 角色原画: Paccha — https://linktr.ee/paccha_
-Original animation & behavior configs / 原动作与行为配置: @promote. (https://z.ne1.co, https://neuro.us.to), @dalekcraft
-Original pack / 原包打包与元数据: qingchenyouforcc
-Asset source / 素材来源: https://github.com/CommentOut64/web-mascot
-Upstream / 素材上游: https://github.com/qingchenyouforcc/NeurolingsCE-Qt
+Changes made for this addon: converted to game textures, mirrored for direction, re-timed and re-ordered frames, aligned the hug animation, added the trip pause and recovery, and tuned crawl pacing. The original images are kept unmodified in the source.
 
-Code / 自写代码: MIT. Character artwork, configs and adaptations / 角色素材、配置与改编: CC BY-NC-SA 4.0 — https://creativecommons.org/licenses/by-nc-sa/4.0/
-Non-commercial only; keep attribution and license, indicate changes, and share adaptations under the same license. 仅限非商业用途；保留署名与许可，标明修改，并以相同许可共享改编。
+Neuro-sama is an AI VTuber. Official site: https://vedal.ai/ · Stream: https://www.twitch.tv/vedal987
+This pet only uses her likeness and is not connected to her AI or stream. This is a fan project, not affiliated with or endorsed by Vedal, and it claims no ownership of the characters.
 
-Adaptations: padded game textures, directional mirroring, animation retiming and hug alignment, extended trip recovery, slower crawling; Evil adds transparent-RGB edge correction. The original source PNGs are retained unchanged. Cover art is an AI-assisted composition based on the original hug artwork.
-本项目将原画转换为游戏纹理、按方向镜像、调整动作节奏与抱抱锚点、延长绊倒恢复并降低慢爬速度；Evil 版另修正透明像素的 RGB 白边。源码保留未改写的原 PNG。封面为基于原抱抱素材的 AI 辅助设计。
-
-Unofficial fan project; not affiliated with or endorsed by Vedal. No ownership of the characters is claimed.
-非官方粉丝作品，与 Vedal 无关联、未获其认可，不主张角色所有权。
-Official character site / 角色官方站点: https://vedal.ai/
-Stream / 直播: https://www.twitch.tv/vedal987
+Source code: https://github.com/Rbeyrolles/l4d2-neuropet · Made by Daisy, Shannon & Sol

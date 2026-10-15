@@ -1,0 +1,280 @@
+{
+  "date": "2026-10-12",
+  "version": "0.2.1-preview",
+  "vpk": "l4d2_neuropet_duo_interactive.vpk",
+  "sha256": "c297c03e8fe161e965b017ef0a5c19a8ea2af5c9bea7cb657de4abe3ce504280",
+  "bytes": 106633877,
+  "files": 17,
+  "cause_reproduction": {
+    "tested_vpk_sha256": "654e239f2fdf36720fc1bf17f4ad94f532b77832e0354a2887d90b599a8d2543",
+    "results": [
+      {
+        "skipped_neuro_bindings": [
+          180
+        ],
+        "first_divergence": {
+          "time": 3.0166666666666666,
+          "values": {
+            "$np_a0_end": [
+              16.912708282470703,
+              16.896041870117188
+            ],
+            "$np_a1_end": [
+              22.694629669189453,
+              22.677963256835938
+            ]
+          }
+        },
+        "evil_hug_receiver_visible_bindings": 211,
+        "example": {
+          "time": 199.03333333333333,
+          "frames": [
+            15,
+            174
+          ],
+          "neuro_climbing": true,
+          "visible_positions": [
+            [
+              -9.999999046325684,
+              93.66929626464844
+            ],
+            [
+              14.246063232421875,
+              432.0
+            ]
+          ]
+        }
+      },
+      {
+        "skipped_neuro_bindings": [
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187,
+          188,
+          189
+        ],
+        "first_divergence": {
+          "time": 3.1666666666666665,
+          "values": {
+            "$np_a0_end": [
+              17.062707901000977,
+              16.896041870117188
+            ],
+            "$np_a1_end": [
+              22.844629287719727,
+              22.677963256835938
+            ]
+          }
+        },
+        "evil_hug_receiver_visible_bindings": 211,
+        "example": {
+          "time": 199.03333333333333,
+          "frames": [
+            4,
+            174
+          ],
+          "neuro_climbing": false,
+          "visible_positions": [
+            [
+              419.3301544189453,
+              432.0
+            ],
+            [
+              14.246063232421875,
+              432.0
+            ]
+          ]
+        }
+      },
+      {
+        "skipped_neuro_bindings": [
+          650,
+          651,
+          652,
+          653,
+          654,
+          655,
+          656,
+          657,
+          658,
+          659,
+          660,
+          661,
+          662,
+          663,
+          664,
+          665
+        ],
+        "first_divergence": {
+          "time": 191.03333333333333,
+          "values": {
+            "$np_pair_start": [
+              0.0,
+              191.03334045410156
+            ],
+            "$np_pair_end": [
+              -1.0,
+              202.53334045410156
+            ],
+            "$np_social_deadline": [
+              49.500732421875,
+              247.53334045410156
+            ]
+          }
+        },
+        "evil_hug_receiver_visible_bindings": 6,
+        "example": {
+          "time": 199.03333333333333,
+          "frames": [
+            106,
+            174
+          ],
+          "neuro_climbing": false,
+          "visible_positions": [
+            [
+              -9.838591575622559,
+              432.0
+            ],
+            [
+              14.246063232421875,
+              432.0
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "fix": "Analytic positions, common decision clock and phase boundaries, common post-hug coordinates",
+  "diagnostic": null,
+  "clock_offset": 0,
+  "compiler_per_material": {
+    "proxies": 247,
+    "parameters": 97,
+    "scratch_registers": 17,
+    "coordinator": "analytic motion with shared integer decision clock"
+  },
+  "native_environment": {
+    "os": "Windows",
+    "resolution": "1280x720",
+    "mode": "local coop"
+  },
+  "native_scenes": [
+    "seek-neuro",
+    "seek-evil",
+    "encounter-neuro",
+    "encounter-evil",
+    "normal"
+  ],
+  "normal_native_observation_seconds": 120,
+  "human_observation": "没有再看到错位，抱抱和恢复正常",
+  "native_material_errors": false,
+  "server_neuropet_brain_present": false,
+  "recording": {
+    "seconds": 178.52,
+    "frames": "4435"
+  },
+  "regression_checks": {
+    "compiler": [
+      {
+        "proxies": 247,
+        "parameters": 97,
+        "scratch_registers": 17,
+        "coordinator": "analytic motion with shared integer decision clock"
+      },
+      {
+        "proxies": 247,
+        "parameters": 97,
+        "scratch_registers": 17,
+        "coordinator": "analytic motion with shared integer decision clock"
+      }
+    ],
+    "scenes": [
+      {
+        "scene": "seek-neuro",
+        "frames": 28,
+        "hug_seconds_observed": 4.033333333333333,
+        "first_hug": 9.0,
+        "receiver_hidden_and_restored": true
+      },
+      {
+        "scene": "seek-evil",
+        "frames": 28,
+        "hug_seconds_observed": 4.033333333333333,
+        "first_hug": 9.0,
+        "receiver_hidden_and_restored": true
+      },
+      {
+        "scene": "encounter-neuro",
+        "frames": 28,
+        "hug_seconds_observed": 4.033333333333333,
+        "first_hug": 1.0,
+        "receiver_hidden_and_restored": true
+      },
+      {
+        "scene": "encounter-evil",
+        "frames": 28,
+        "hug_seconds_observed": 4.033333333333333,
+        "first_hug": 1.0,
+        "receiver_hidden_and_restored": true
+      }
+    ],
+    "unequal_bindings": [
+      {
+        "case": "miss one binding at first transition",
+        "seconds": 300,
+        "comparisons": 17999,
+        "joint_actions": 2,
+        "coordinator_and_hug_visibility": "passed"
+      },
+      {
+        "case": "miss ten bindings at first transition",
+        "seconds": 300,
+        "comparisons": 17990,
+        "joint_actions": 2,
+        "coordinator_and_hug_visibility": "passed"
+      },
+      {
+        "case": "miss bindings during floor movement",
+        "seconds": 300,
+        "comparisons": 17984,
+        "joint_actions": 2,
+        "coordinator_and_hug_visibility": "passed"
+      },
+      {
+        "case": "15 fps versus 60 fps",
+        "seconds": 300,
+        "comparisons": 4500,
+        "joint_actions": 2,
+        "coordinator_and_hug_visibility": "passed"
+      },
+      {
+        "case": "receiver not updated during hidden hug",
+        "seconds": 22,
+        "comparisons": 1081,
+        "joint_actions": 1,
+        "coordinator_and_hug_visibility": "passed"
+      }
+    ],
+    "motion": {
+      "floor_units_per_second": {
+        "walk": 30.0,
+        "run": 60.000022888183594,
+        "creep": 7.999992370605469
+      },
+      "ten_minute_paired_states_and_clock_reset": "passed"
+    }
+  },
+  "original_202_frames_retained_per_character": true,
+  "single_pet_release_packages_unchanged": true,
+  "test_settings_restored": true,
+  "temporary_package_and_materials_removed": true,
+  "published_to_github_or_workshop": false,
+  "remaining_scope": "Brief unequal binding histories tested; arbitrary missing initiation windows or single-material reloads are not covered",
+  "local_installed_addon_updated": true,
+  "old_installed_vpk_backed_up": true
+}

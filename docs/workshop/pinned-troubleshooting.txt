@@ -1,0 +1,19 @@
+[b]Pets not showing? / 看不到宠物？[/b]
+[list]
+[*]Load into a map first; the main menu has no pets.
+[*]Enable only [b]one[/b] Neuropet package (Neuro-sama, Evil Neuro or Duo). For both pets, use Duo.
+[*]Remove duplicates: don't keep a manual VPK and a Workshop copy of the same package.
+[*]Disable other HUD mods; anything replacing scripts/hudlayout.res can hide the pets.
+[*]Restart the game, then check in an ordinary local co-op map.
+[*]Duo out of sync? Fully restart the game.
+[/list]
+[list]
+[*]先进入关卡；主菜单里没有宠物是正常的。
+[*]只启用[b]一款[/b] Neuropet（Neuro-sama、Evil Neuro 或 Duo）。想要两只请用 Duo。
+[*]删掉重复副本：同一款不要同时保留手动 VPK 和工坊订阅。
+[*]停用其他 HUD Mod；替换 scripts/hudlayout.res 的插件可能让宠物不显示。
+[*]重启游戏，在普通本地合作关卡查看。
+[*]Duo 两只不同步？完整重启游戏。
+[/list]
+When reporting a problem, please include: which package and its version, Workshop or manual install, other HUD mods, resolution, and game mode.
+反馈问题时请写明：哪一款及版本号、工坊或手动安装、其他 HUD Mod、分辨率和游戏模式。
